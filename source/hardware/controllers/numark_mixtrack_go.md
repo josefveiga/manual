@@ -1,5 +1,4 @@
-**Numark Mixtrack Go**
-===================================
+# Numark Mixtrack Go
 
 
 
@@ -33,8 +32,7 @@ The Numark Mixtrack Go controller is a USB Audio and MIDI Class compliant device
 ```
 
 
-**Soundcard Setup**
---------------------
+## Soundcard Setup
 
 This controller has a built-in 4 channel output sound card, with a stereo Main output (3.5mm jack) and stereo Headphone output (3.5mm jack).
 
@@ -47,14 +45,14 @@ This controller has a built-in 4 channel output sound card, with a stereo Main o
 
 
 
-**Controller Layout**
----------------------
+## Controller Layout
+
 ![alt text](../../_static/controllers/numark_mixtrack_go.png "Title")
 
 
 
-**Controller Mapping**
-----------------------
+## Controller Mapping
+
 
 
 ```{list-table}
