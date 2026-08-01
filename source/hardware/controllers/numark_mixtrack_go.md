@@ -11,10 +11,10 @@ It improves on the concept of the Numark DJ2GO2 Touch by adding:
 - Better LED feedback.
 - More controls.
 
-Usefull links:
+Useful links:
 - [Numark Mixtrack Go website](https://www.numark.com/new/mixtrack-go/)
 - [Mixxx forum thread for this mapping](https://mixxx.discourse.group/t/script-for-numark-mixtrack-go-for-mixxx-2-6-also-works-with-previous-versions/34022/)
- 
+
 The Numark Mixtrack Go controller is a USB Audio and MIDI Class compliant device and works with Linux, macOS, and Windows.
 
 
@@ -62,7 +62,7 @@ This controller has a built-in 4 channel output sound card, with a stereo Main o
 * - Number
   - Control
   - Function
-* - **1** 
+* - **1**
   - Browser
   - A knob for browsing the Library. If pushed, loads a track on the Preview Deck.
 * - **2**
@@ -123,7 +123,7 @@ This controller has a built-in 4 channel output sound card, with a stereo Main o
   - Pads
   - Performance Pads: These pads can be used to trigger Hotcues, Loops, Samples, Stems, and to apply effects. To change the function of the pads, press the Mode (Shift).
 * - **16**
-  - Mode (**Shift**) 
+  - Mode (**Shift**)
   - Press this button to change the current function of the Performance Pads. A long press activates the **Shift** functions on other controls.
 * - **17**
   - Hotcue Mode
