@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mixxx 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-01 00:12+0200\n"
+"POT-Creation-Date: 2026-08-07 11:12+0200\n"
 "PO-Revision-Date: 2024-05-22 20:50+0000\n"
 "Language-Team: Turkish (https://app.transifex.com/mixxx-dj-software/teams/7734/tr/)\n"
 "MIME-Version: 1.0\n"
@@ -662,7 +662,7 @@ msgid "FX select/bonus functions buttons"
 msgstr ""
 
 #: ../../hardware/controllers/numark_mixtrack_pro_fx.md:118
-msgid "FX select/bonus functions buttons (:hwlabel:`SHIFT`)"
+msgid "FX select/bonus functions buttons ({hwlabel}`SHIFT`)"
 msgstr ""
 
 #: ../../hardware/controllers/numark_mixtrack_pro_fx.md:128

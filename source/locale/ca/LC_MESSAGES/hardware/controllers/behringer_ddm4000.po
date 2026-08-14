@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mixxx 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-01 00:12+0200\n"
+"POT-Creation-Date: 2026-08-07 11:12+0200\n"
 "PO-Revision-Date: 2024-05-22 20:50+0000\n"
 "Last-Translator: Daniel Schürmann <daschuer@mixxx.org>, 2025\n"
 "Language-Team: Catalan (https://app.transifex.com/mixxx-dj-software/teams/7734/ca/)\n"
@@ -21,15 +21,15 @@ msgstr ""
 "Language: ca\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:4
+#: ../../hardware/controllers/behringer_ddm4000.md:3
 msgid "Behringer DDM4000"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:13
+#: ../../hardware/controllers/behringer_ddm4000.md:12
 msgid "Behringer DDM4000 (schematic view)"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:15
+#: ../../hardware/controllers/behringer_ddm4000.md:15
 msgid ""
 "The Digital Pro Mixer DDM4000 is a 5-Channel Digital DJ Mixer with Sampler, "
 "4 FX Sections, BPM Counters and MIDI support. Each of the following sections"
@@ -37,402 +37,402 @@ msgid ""
 "controller:"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:19
+#: ../../hardware/controllers/behringer_ddm4000.md:19
 msgid "Channel 1-4"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:20
+#: ../../hardware/controllers/behringer_ddm4000.md:20
 msgid "Microphone Channel"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:21
-#: ../../hardware/controllers/behringer_ddm4000.rst:132
+#: ../../hardware/controllers/behringer_ddm4000.md:21
+#: ../../hardware/controllers/behringer_ddm4000.md:153
 msgid "Crossfader"
 msgstr "Crossfader"
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:22
+#: ../../hardware/controllers/behringer_ddm4000.md:22
 msgid "Sampler"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:24
+#: ../../hardware/controllers/behringer_ddm4000.md:24
 msgid "The mixer contains no digital interfaces for audio or microphones."
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:26
+#: ../../hardware/controllers/behringer_ddm4000.md:26
 msgid ""
-"`Manufacturer's product page "
-"<https://www.behringer.com/en/products/0701-aak>`_"
+"[Manufacturer's product "
+"page](https://www.behringer.com/en/products/0701-AAK)"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:27
+#: ../../hardware/controllers/behringer_ddm4000.md:27
 msgid ""
-"`User Manual <https://fast-images.static-"
-"thomann.de/pics/atg/atgdata/document/manual/206918_manual.pdf>`_"
+"[User Manual](https://fast-images.static-"
+"thomann.de/pics/atg/atgdata/document/manual/206918_manual.pdf)"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:28
+#: ../../hardware/controllers/behringer_ddm4000.md:28
 msgid ""
-"`Forum thread <https://mixxx.discourse.group/t/ddm4000-controller-"
-"mapping/20045>`_"
+"[Forum thread](https://mixxx.discourse.group/t/ddm4000-controller-"
+"mapping/20045)"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:33
+#: ../../hardware/controllers/behringer_ddm4000.md:33
 msgid "Compatibility"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:35
+#: ../../hardware/controllers/behringer_ddm4000.md:35
 msgid ""
-"This controller contains a :term:`MIDI` interface with 5-pin DIN jacks "
+"This controller contains a {term}`MIDI` interface with 5-pin DIN jacks "
 "In/Out/Thru. If your soundcard does not offer DIN jacks, a separate USB/MIDI"
 " interface is required to use it on GNU/Linux, Mac OS X, and Windows."
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:40
+#: ../../hardware/controllers/behringer_ddm4000.md:39
 msgid "Setup"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:41
+#: ../../hardware/controllers/behringer_ddm4000.md:40
 msgid "Configure at least one mixer section as MIDI controller:"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:43
-msgid "Long press the :hwlabel:`CONSOLE SETUP` knob"
+#: ../../hardware/controllers/behringer_ddm4000.md:42
+msgid "Long press the {hwlabel}`CONSOLE SETUP` knob"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:44
+#: ../../hardware/controllers/behringer_ddm4000.md:43
 msgid ""
-"Select ``MIDI SETTINGS`` by turning and pressing the :hwlabel:`CONSOLE "
+"Select ``MIDI SETTINGS`` by turning and pressing the {hwlabel}`CONSOLE "
 "SETUP` knob"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:45
+#: ../../hardware/controllers/behringer_ddm4000.md:44
 msgid "Select the sections that you want to use as MIDI controller"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:46
-msgid "Press the :hwlabel:`ESC` button to exit MIDI Setup"
+#: ../../hardware/controllers/behringer_ddm4000.md:45
+msgid "Press the {hwlabel}`ESC` button to exit MIDI Setup"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:47
+#: ../../hardware/controllers/behringer_ddm4000.md:46
 msgid ""
 "To make the change persistent, save the settings in a user preset. See the "
 "controller manual for details."
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:51
+#: ../../hardware/controllers/behringer_ddm4000.md:49
 msgid "Controller Mapping"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:53
+#: ../../hardware/controllers/behringer_ddm4000.md:51
 msgid ""
 "A schematic drawing with the control numbers that are used here can be found"
 " on the specified page in the User Manual in the Links section."
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:58
+#: ../../hardware/controllers/behringer_ddm4000.md:55
 msgid "Stereo channels 1 – 4 (p. 6)"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:67
+#: ../../hardware/controllers/behringer_ddm4000.md:64
 msgid "Behringer DDM4000 (stereo channels section)"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:67
+#: ../../hardware/controllers/behringer_ddm4000.md:64
 msgid "Stereo channels strips"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:70
-#: ../../hardware/controllers/behringer_ddm4000.rst:109
-#: ../../hardware/controllers/behringer_ddm4000.rst:130
-#: ../../hardware/controllers/behringer_ddm4000.rst:155
+#: ../../hardware/controllers/behringer_ddm4000.md:70
+#: ../../hardware/controllers/behringer_ddm4000.md:123
+#: ../../hardware/controllers/behringer_ddm4000.md:149
+#: ../../hardware/controllers/behringer_ddm4000.md:187
 msgid "No."
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:70
-#: ../../hardware/controllers/behringer_ddm4000.rst:109
-#: ../../hardware/controllers/behringer_ddm4000.rst:130
-#: ../../hardware/controllers/behringer_ddm4000.rst:155
+#: ../../hardware/controllers/behringer_ddm4000.md:71
+#: ../../hardware/controllers/behringer_ddm4000.md:124
+#: ../../hardware/controllers/behringer_ddm4000.md:150
+#: ../../hardware/controllers/behringer_ddm4000.md:188
 msgid "Control"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:70
-#: ../../hardware/controllers/behringer_ddm4000.rst:109
-#: ../../hardware/controllers/behringer_ddm4000.rst:130
-#: ../../hardware/controllers/behringer_ddm4000.rst:155
+#: ../../hardware/controllers/behringer_ddm4000.md:72
+#: ../../hardware/controllers/behringer_ddm4000.md:125
+#: ../../hardware/controllers/behringer_ddm4000.md:151
+#: ../../hardware/controllers/behringer_ddm4000.md:189
 msgid "Function"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:72
+#: ../../hardware/controllers/behringer_ddm4000.md:73
 msgid "4"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:72
-msgid ":hwlabel:`HIGH` / :hwlabel:`MID` / :hwlabel:`LOW` knobs"
+#: ../../hardware/controllers/behringer_ddm4000.md:74
+msgid "{hwlabel}`HIGH` / {hwlabel}`MID` / {hwlabel}`LOW` knobs"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:72
+#: ../../hardware/controllers/behringer_ddm4000.md:75
 msgid "Adjust high/mid/low-frequencies."
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:73
+#: ../../hardware/controllers/behringer_ddm4000.md:76
 msgid "6"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:73
-msgid ":hwlabel:`P1` / :hwlabel:`P2` / :hwlabel:`P3` buttons"
+#: ../../hardware/controllers/behringer_ddm4000.md:77
+msgid "{hwlabel}`P1` / {hwlabel}`P2` / {hwlabel}`P3` buttons"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:73
+#: ../../hardware/controllers/behringer_ddm4000.md:78
 msgid "Toggle the kill function for high/mid/low-frequencies."
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:74
+#: ../../hardware/controllers/behringer_ddm4000.md:79
 msgid "7"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:74
-#: ../../hardware/controllers/behringer_ddm4000.rst:158
-msgid ":hwlabel:`PFL` button"
+#: ../../hardware/controllers/behringer_ddm4000.md:80
+#: ../../hardware/controllers/behringer_ddm4000.md:194
+msgid "{hwlabel}`PFL` button"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:74
+#: ../../hardware/controllers/behringer_ddm4000.md:81
 msgid "Toggle headphone pre-fader listening."
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:75
+#: ../../hardware/controllers/behringer_ddm4000.md:82
 msgid "8"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:75
+#: ../../hardware/controllers/behringer_ddm4000.md:83
 msgid "Channel faders"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:75
+#: ../../hardware/controllers/behringer_ddm4000.md:84
 msgid "Adjust the output volume."
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:76
+#: ../../hardware/controllers/behringer_ddm4000.md:85
 msgid "10"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:76
-#: ../../hardware/controllers/behringer_ddm4000.rst:163
-msgid ":hwlabel:`CF ASSIGN` button"
+#: ../../hardware/controllers/behringer_ddm4000.md:86
+#: ../../hardware/controllers/behringer_ddm4000.md:209
+msgid "{hwlabel}`CF ASSIGN` button"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:76
+#: ../../hardware/controllers/behringer_ddm4000.md:87
 msgid "Assign the channel to either side of the crossfader."
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:80
+#: ../../hardware/controllers/behringer_ddm4000.md:91
 msgid ""
-"On some units of this mixer, the LEDs of the buttons :hwlabel:`P1` / "
-":hwlabel:`P2` / :hwlabel:`P3` show an unexpected behavior in MIDI mode. When"
-" such a LED is turned on via MIDI, it flashes shortly but does not stay lit."
-" The problem occurs only when at least 1 channel is in audio (non-MIDI) "
-"mode. It does not occur when all channels are in MIDI mode. Firmware version"
-" 1.02 (Dec 14 2007) is known to show this behavior, and there's no fix "
-"available according to a reply from the technical support:"
+"On some units of this mixer, the LEDs of the buttons {hwlabel}`P1` / "
+"{hwlabel}`P2` / {hwlabel}`P3`   show an unexpected behavior in MIDI mode. "
+"When such a LED is turned on via MIDI, it flashes   shortly but does not "
+"stay lit. The problem occurs only when at least 1 channel is in audio   "
+"(non-MIDI) mode. It does not occur when all channels are in MIDI mode.   "
+"Firmware version 1.02 (Dec 14 2007) is known to show this behavior,   and "
+"there's no fix available according to a reply from the technical support:"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:87
+#: ../../hardware/controllers/behringer_ddm4000.md:98
 msgid ""
 "\"I see the issue, but sorry, the code is 15 years old and getting the 15 "
-"year old tools (plus license, plus old windows version) needed to compile "
-"it, together with finding the bug in a very complex code base (without "
-"access to the developer) makes fixing this nearly impossible.\""
+"year old tools  (plus license, plus old windows version) needed to compile "
+"it,  together with finding the bug in a very complex code base (without "
+"access to the developer)  makes fixing this nearly impossible.\""
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:92
-msgid "[MUSIC Tribe Care] Behringer - Technical Support (08 Sep 2021)"
+#: ../../hardware/controllers/behringer_ddm4000.md:103
+msgid "-- [MUSIC Tribe Care] Behringer - Technical Support (08 Sep 2021)"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:97
+#: ../../hardware/controllers/behringer_ddm4000.md:108
 msgid "Microphone (p. 6)"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:106
+#: ../../hardware/controllers/behringer_ddm4000.md:118
 msgid "Behringer DDM4000 (microphone channel section)"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:106
+#: ../../hardware/controllers/behringer_ddm4000.md:118
 msgid "Microphone channel"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:111
+#: ../../hardware/controllers/behringer_ddm4000.md:126
 msgid "19"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:111
-msgid ":hwlabel:`TALK ON`"
+#: ../../hardware/controllers/behringer_ddm4000.md:127
+msgid "{hwlabel}`TALK ON`"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:111
+#: ../../hardware/controllers/behringer_ddm4000.md:128
 msgid "Switch the Talkover function."
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:118
+#: ../../hardware/controllers/behringer_ddm4000.md:134
 msgid "Crossfader section (p. 7)"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:127
+#: ../../hardware/controllers/behringer_ddm4000.md:143
 msgid "Behringer DDM4000 (crossfader section)"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:127
+#: ../../hardware/controllers/behringer_ddm4000.md:143
 msgid "Crossfader section"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:132
+#: ../../hardware/controllers/behringer_ddm4000.md:152
 msgid "20"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:132
+#: ../../hardware/controllers/behringer_ddm4000.md:154
 msgid "Fade between the signals that are assigned to its two sides A and B."
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:133
+#: ../../hardware/controllers/behringer_ddm4000.md:155
 msgid "21"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:133
-msgid ":hwlabel:`CF ON` button"
+#: ../../hardware/controllers/behringer_ddm4000.md:156
+msgid "{hwlabel}`CF ON` button"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:133
+#: ../../hardware/controllers/behringer_ddm4000.md:157
 msgid ""
 "Toggle crossfader function. When disabled, the crossfader control in the "
 "Mixxx user interface is hidden."
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:134
+#: ../../hardware/controllers/behringer_ddm4000.md:158
 msgid "24"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:134
-msgid ":hwlabel:`CURVE` knob"
+#: ../../hardware/controllers/behringer_ddm4000.md:159
+msgid "{hwlabel}`CURVE` knob"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:134
+#: ../../hardware/controllers/behringer_ddm4000.md:160
 msgid "Adjust the response of the crossfader."
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:135
+#: ../../hardware/controllers/behringer_ddm4000.md:161
 msgid "25"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:135
-msgid ":hwlabel:`REVERSE HOLD` button"
+#: ../../hardware/controllers/behringer_ddm4000.md:162
+msgid "{hwlabel}`REVERSE HOLD` button"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:135
+#: ../../hardware/controllers/behringer_ddm4000.md:163
 msgid ""
 "Toggle a permanent reverse of the crossfader sides A and B. This means that "
 "A and B are interchanged."
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:136
+#: ../../hardware/controllers/behringer_ddm4000.md:164
 msgid "26"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:136
-msgid ":hwlabel:`REVERSE TAP` button"
+#: ../../hardware/controllers/behringer_ddm4000.md:165
+msgid "{hwlabel}`REVERSE TAP` button"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:136
+#: ../../hardware/controllers/behringer_ddm4000.md:166
 msgid ""
 "Toggle a momentary reverse of the crossfader sides A and B. This means that "
 "A and B are interchanged as long as the TAP push button is held down."
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:143
+#: ../../hardware/controllers/behringer_ddm4000.md:172
 msgid "Sampler (p. 8)"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:152
+#: ../../hardware/controllers/behringer_ddm4000.md:181
 msgid "Behringer DDM4000 (sampler)"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:152
+#: ../../hardware/controllers/behringer_ddm4000.md:181
 msgid "Sampler section"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:157
+#: ../../hardware/controllers/behringer_ddm4000.md:190
 msgid "55"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:157
-msgid ":hwlabel:`VOLUME/MIX` knob"
+#: ../../hardware/controllers/behringer_ddm4000.md:191
+msgid "{hwlabel}`VOLUME/MIX` knob"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:157
+#: ../../hardware/controllers/behringer_ddm4000.md:192
 msgid "Control the volume of sampler 1."
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:158
+#: ../../hardware/controllers/behringer_ddm4000.md:193
 msgid "57"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:158
+#: ../../hardware/controllers/behringer_ddm4000.md:195
 msgid "Toggle headphone pre-fader listening for sampler 1."
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:159
+#: ../../hardware/controllers/behringer_ddm4000.md:196
 msgid "58"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:159
-msgid ":hwlabel:`SAMPLE LENGTH` buttons"
+#: ../../hardware/controllers/behringer_ddm4000.md:197
+msgid "{hwlabel}`SAMPLE LENGTH` buttons"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:159
+#: ../../hardware/controllers/behringer_ddm4000.md:198
 msgid "Adjust the beatloop size of sampler 1."
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:160
+#: ../../hardware/controllers/behringer_ddm4000.md:199
 msgid "61"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:160
-msgid ":hwlabel:`MODE` buttons for bank 1/2"
+#: ../../hardware/controllers/behringer_ddm4000.md:200
+msgid "{hwlabel}`MODE` buttons for bank 1/2"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:160
+#: ../../hardware/controllers/behringer_ddm4000.md:201
 msgid ""
 "Select the playback type for the selected sampler (Reverse or Loop). A short"
 " press toggles the Reverse function, a long press toggles the Loop function."
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:161
+#: ../../hardware/controllers/behringer_ddm4000.md:202
 msgid "62"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:161
-msgid ":hwlabel:`PLAY/OUT` buttons for bank 1/2"
+#: ../../hardware/controllers/behringer_ddm4000.md:203
+msgid "{hwlabel}`PLAY/OUT` buttons for bank 1/2"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:161
+#: ../../hardware/controllers/behringer_ddm4000.md:204
 msgid ""
 "Start or stop playback for the selected sampler. When the Loop function is "
 "disabled, the sample is only played back while the button is pressed."
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:162
+#: ../../hardware/controllers/behringer_ddm4000.md:205
 msgid "63"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:162
-msgid ":hwlabel:`SMP FX ON` button"
+#: ../../hardware/controllers/behringer_ddm4000.md:206
+msgid "{hwlabel}`SMP FX ON` button"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:162
+#: ../../hardware/controllers/behringer_ddm4000.md:207
 msgid "Toggle effect unit 1 for sampler 1."
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:163
+#: ../../hardware/controllers/behringer_ddm4000.md:208
 msgid "65"
 msgstr ""
 
-#: ../../hardware/controllers/behringer_ddm4000.rst:163
+#: ../../hardware/controllers/behringer_ddm4000.md:210
 msgid "Assign sampler 1 to either side of the crossfader."
 msgstr ""

@@ -660,6 +660,85 @@ Misc Refactorings
 * README: add link to OS-specific build instructions `#14779 <https://github.com/mixxxdj/mixxx/pull/14779>`__
 * Improve debug output for missing WWidget pixmaps `#14473 <https://github.com/mixxxdj/mixxx/pull/14473>`__
 
+.. _v2-5-7:
+
+2.5.7 (unreleased)
+------------------
+
+Controller Mappings
+^^^^^^^^^^^^^^^^^^^
+
+
+* Allen & Heath Xone K3: Update midi mappings (backport `#16453 <https://github.com/mixxxdj/mixxx/pull/16453>`__\ ) `#16496 <https://github.com/mixxxdj/mixxx/pull/16496>`__
+* Numark Mixtrack 3: fix settings bool evaluation `#16708 <https://github.com/mixxxdj/mixxx/pull/16708>`__
+
+Library
+^^^^^^^
+
+
+* Fix color column sorting for dirty tracks
+  `#16662 <https://github.com/mixxxdj/mixxx/pull/16662>`__
+* Fix relocate directory: remove old dir if new is child of a root dir `#16203 <https://github.com/mixxxdj/mixxx/pull/16203>`__
+* Fix library scanner: allow resuming canceled scan by clearing hashes of unfinished dirs
+  `#16300 <https://github.com/mixxxdj/mixxx/pull/16300>`__
+  `#16198 <https://github.com/mixxxdj/mixxx/issues/16198>`__
+* Fix missing tracks showing up in Hidden, Missing empty `#16419 <https://github.com/mixxxdj/mixxx/pull/16419>`__
+* Adjust FocusWidget: GoToItem emulates Space key in WSearchRelatedTracksMenu `#13282 <https://github.com/mixxxdj/mixxx/pull/13282>`__
+* Fixing last played time being wiped on history deletion
+  `#16178 <https://github.com/mixxxdj/mixxx/pull/16178>`__
+  `#14427 <https://github.com/mixxxdj/mixxx/issues/14427>`__
+* Fix false-positive missing tracks
+  `#16685 <https://github.com/mixxxdj/mixxx/pull/16685>`__
+  `#13533 <https://github.com/mixxxdj/mixxx/issues/13533>`__
+
+Target support
+^^^^^^^^^^^^^^
+
+
+* Support Ubuntu Stonking 26.10
+  `#16507 <https://github.com/mixxxdj/mixxx/pull/16507>`__
+  `#16619 <https://github.com/mixxxdj/mixxx/pull/16619>`__
+  `#16614 <https://github.com/mixxxdj/mixxx/issues/16614>`__
+* Support Windows 11 25H2
+  `#16401 <https://github.com/mixxxdj/mixxx/pull/16401>`__
+* Add Arch Linux build environment script `#16594 <https://github.com/mixxxdj/mixxx/pull/16594>`__
+* Fix race condition in fonts-ubuntu check in Debian environment script `#16575 <https://github.com/mixxxdj/mixxx/pull/16575>`__
+* Fix various warnings when using recent build environments
+  `#16537 <https://github.com/mixxxdj/mixxx/pull/16537>`__
+  `#16514 <https://github.com/mixxxdj/mixxx/pull/16514>`__
+  `#16592 <https://github.com/mixxxdj/mixxx/pull/16592>`__
+  `#16368 <https://github.com/mixxxdj/mixxx/pull/16368>`__
+* Flatpak: fix building with Soundtouch, update to 2.4.1
+  `#16720 <https://github.com/mixxxdj/mixxx/pull/16720>`__
+
+Miscellaneous
+^^^^^^^^^^^^^
+
+
+* macOS: fix system theme in preferences after switch rendering and icons
+  `#16661 <https://github.com/mixxxdj/mixxx/pull/16661>`__
+  `#13643 <https://github.com/mixxxdj/mixxx/issues/13643>`__
+* macOS: request security scoped bookmark for files in imported playlists
+  `#16369 <https://github.com/mixxxdj/mixxx/pull/16369>`__
+* macOS: Discover both Effect and MusicEffect AudioUnits in one pass `#16287 <https://github.com/mixxxdj/mixxx/pull/16287>`__
+* Fix killing Analysis worker threads during shutdown, possible data loss. `#16064 <https://github.com/mixxxdj/mixxx/pull/16064>`__
+* MIDI: guard against null script engine in makeInputHandler `#16003 <https://github.com/mixxxdj/mixxx/pull/16003>`__
+* EngineBuffer: Reset sample counter after indicator update `#16245 <https://github.com/mixxxdj/mixxx/pull/16245>`__
+* libfdk_aac: SoundSourceProxyTest.seekBoundaries fix
+  `#16440 <https://github.com/mixxxdj/mixxx/pull/16440>`__
+  `#16440 <https://github.com/mixxxdj/mixxx/issues/14624>`__
+* FFmpeg: fix of gap bug fix
+  `#16439 <https://github.com/mixxxdj/mixxx/pull/16439>`__
+  `#10464 <https://github.com/mixxxdj/mixxx/issues/10464>`__
+* Fix flaky test, due to not waiting for a fully loaded EngineBufferE2ETest
+  `#16275 <https://github.com/mixxxdj/mixxx/pull/16275>`__
+  `#12554 <https://github.com/mixxxdj/mixxx/issues/12554>`__
+* Fix flaky test ControllerScriptEngineLegacyTimerTest.beginTimer_repeatedTimer `#16332 <https://github.com/mixxxdj/mixxx/pull/16332>`__
+* Fix flaky test for org.mixxx.Mixxx.metainfo.xml
+  `#16290 <https://github.com/mixxxdj/mixxx/pull/16290>`__
+  `#16162 <https://github.com/mixxxdj/mixxx/issues/16162>`__
+* Fix warning/violated debug assertion when opening Preferences (backport `#16257 <https://github.com/mixxxdj/mixxx/pull/16257>`__\ ) `#16274 <https://github.com/mixxxdj/mixxx/pull/16274>`__
+
 .. _v2-5-6:
 
 `2.5.6 <https://github.com/mixxxdj/mixxx/milestone/53>`__ (2026-03-25)

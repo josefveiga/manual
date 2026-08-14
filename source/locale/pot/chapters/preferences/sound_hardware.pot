@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mixxx 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-01 00:12+0200\n"
+"POT-Creation-Date: 2026-08-07 11:12+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -301,7 +301,7 @@ msgid "**MME**: Poor"
 msgstr ""
 
 #: ../../chapters/preferences/sound_hardware.rst:105
-msgid "It is best to use the ASIO Sound API that bypassses the sound processing of the Windows kernel. Using ASIO requires a driver for your audio interface from the manufacturer. Check the manufacturer's website to see if a driver download is available. Soundcards designed for musicians almost always have an ASIO driver available, but audio interfaces built into computers and very cheap audio interfaces typically do not have an ASIO driver. If there is no ASIO driver available for your audio interface, use the WDM-KS API. There is generally no advantage to using `ASIO4ALL <http://www.asio4all.org>`_, a wrapper around the WDM-KS API."
+msgid "It is best to use the ASIO Sound API that bypassses the sound processing of the Windows kernel. Using ASIO requires a driver for your audio interface from the manufacturer. Check the manufacturer's website to see if a driver download is available. Soundcards designed for musicians almost always have an ASIO driver available, but audio interfaces built into computers and very cheap audio interfaces typically do not have an ASIO driver. If there is no ASIO driver available for your audio interface, use the WDM-KS API. There is generally no advantage to using `ASIO4ALL <https://asio4all.org>`_, a wrapper around the WDM-KS API."
 msgstr ""
 
 #: ../../chapters/preferences/sound_hardware.rst:116

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mixxx 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-01 00:12+0200\n"
+"POT-Creation-Date: 2026-08-07 11:12+0200\n"
 "PO-Revision-Date: 2024-05-22 20:50+0000\n"
 "Last-Translator: Daniel Schürmann <daschuer@mixxx.org>, 2025\n"
 "Language-Team: Polish (https://app.transifex.com/mixxx-dj-software/teams/7734/pl/)\n"
@@ -199,12 +199,33 @@ msgid "Description"
 msgstr ""
 
 #: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:70
+msgid "Library encoder rotate"
+msgstr ""
+
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:70
+msgid ""
+"In track list: move track selection up/down. In search: browse search "
+"history. In tree: move selection up/down."
+msgstr ""
+
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:70
+msgid "{hwlabel}`SHIFT` + Library encoder rotate"
+msgstr ""
+
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:70
+msgid ""
+"In track list: move columns left/right. In search: move cursor left/right. "
+"In tree: expand/collapse folder/collection."
+msgstr ""
+
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:70
 msgid "Library encoder press"
 msgstr ""
 
 #: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:70
 msgid ""
-"Load track selected in library to the deck or open selected tree in menu."
+"In track list: load track on selected deck. In search: move to track list. "
+"In tree: expand/collapse folder/collection."
 msgstr ""
 
 #: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:70
@@ -231,7 +252,9 @@ msgid "Star button"
 msgstr ""
 
 #: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:70
-msgid "This button is not used."
+msgid ""
+"Sort the track list based on the selected column. Press again to toggle sort"
+" order ascending/descending."
 msgstr ""
 
 #: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:70
@@ -240,7 +263,8 @@ msgstr ""
 
 #: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:70
 msgid ""
-"Move focus of library control between left-hand tree, search, and main list."
+"Move focus of library control between left-hand tree, search, and track "
+"list."
 msgstr ""
 
 #: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:70
@@ -251,7 +275,7 @@ msgstr ""
 msgid "Expand / minimize library view."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:105
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:107
 msgid "Transport Mode Buttons"
 msgstr ""
 
@@ -303,21 +327,21 @@ msgstr ""
 msgid "Hold to use the wheels to quickly scroll through the track."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:118
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:120
 msgid "Deck Select Buttons"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:121
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:123
 msgid "Pressing a Deck Select button will activate that deck."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:123
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:125
 msgid ""
 "Press and hold one Deck Select button, then tap a second Deck Select button "
 "to clone the track loaded in the first deck to the second."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:125
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:127
 msgid "Looping"
 msgstr ""
 
@@ -386,11 +410,11 @@ msgstr ""
 msgid "Activates a loop and then stops."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:140
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:142
 msgid "Rate / Keylock"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:143
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:145
 msgid ""
 "There are two ways the rate sliders can be mapped: Absolute, and Relative.  "
 "Absolute mode is the default. In this mode, the position of the pitch slider"
@@ -401,68 +425,68 @@ msgid ""
 " don't match."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:145
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:147
 msgid "Absolute Mode:"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:147
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:149
 msgid "{hwlabel}`KEYLOCK`: Press to toggle keylock mode."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:148
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:154
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:150
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:156
 msgid ""
 "{hwlabel}`SYNC`: Press to beatsync, or press and hold to activate Sync Lock "
 "Mode."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:149
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:155
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:151
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:157
 msgid "Pitch slider: Adjusts playback speed."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:150
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:152
 msgid "{hwlabel}`SHIFT` + Pitch slider: Adjusts musical key"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:151
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:153
 msgid "Relative Mode:"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:153
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:155
 msgid ""
 "{hwlabel}`KEYLOCK`: Press to toggle keylock mode (toggles when releasing the"
 " button)."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:156
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:158
 msgid "Keylock + Pitch Slider: adjusts musical key"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:157
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:159
 msgid ""
 "{hwlabel}`SHIFT` + Pitch Slider: Allows the user to move the slider without "
 "any effect."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:159
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:161
 msgid "Button Pads"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:162
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:164
 msgid ""
 "The grid of 8 buttons have two possible trigger modes: Hotcues, and "
 "Samplers."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:164
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:166
 msgid ""
 "In Hotcues mode, pressing the number button will set the hotcue if none "
 "exists, and activate it if one does. If you hold {hwlabel}`SHIFT` and press "
 "a button, it will clear that hotcue."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:167
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:169
 msgid ""
 "In Samplers mode, the buttons on the left side of the controller correspond "
 "to Samplers 1-8. By default, the buttons on the right side of the controller"
@@ -472,25 +496,25 @@ msgid ""
 "activate a sample. Pressing the button again will stop sample playback."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:173
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:175
 msgid ""
 "You can change this behavior by editing the javascript file to set "
 "`TraktorS3.SamplerModePressAndHold = true;`. In this mode, the sample will "
 "play while the button is held, and stop when you let go."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:176
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:178
 msgid ""
 "In both modes, holding {hwlabel}`SHIFT` and pressing a button will eject the"
 " sample if it is not playing, and will rewind the sample back to the "
 "beginning if it was playing."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:178
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:180
 msgid "Effects"
 msgstr "Efekty"
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:181
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:183
 msgid ""
 "This mapping has two modes for controlling the Mixer FX section. The default"
 " mode emulates the Mixer FX behavior as designed by Native Instruments and "
@@ -499,11 +523,11 @@ msgid ""
 " cost of being more complex to use."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:187
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:189
 msgid "Quick Effect Mode (default)"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:190
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:192
 msgid ""
 "This mode mimics the intended Mixer FX behavior of the S3 by using Mixxx's "
 "quick effect chains. The idea is that the {hwlabel}`Filter` and {hwlabel}`FX"
@@ -522,31 +546,31 @@ msgid ""
 "use of the controller's limited number of effects controls."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:205
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:207
 msgid "Setup"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:208
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:210
 msgid ""
 "To make optimal use of this mode, you may want to change the following "
 "preferences:"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:220
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:222
 msgid ""
 "The very first quick effect chain preset in the quick effect presets list on"
 " the same {menuselection}`Options --> Effects` page should be set to the "
 "Moog Filter preset or another filter preset."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:223
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:225
 msgid ""
 "The next four quick effect chain presets should contain that exact same "
 "filter effect, plus another effect. Delays, reverbs, flangers, trance gates,"
 " and white noise are some examples of effects that would work well here."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:226
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:228
 msgid ""
 "Switching to a new quick effect chain preset using the {hwlabel}`Filter` and"
 " {hwlabel}`FX 1-4` buttons will load that preset's default values. If the FX"
@@ -556,7 +580,7 @@ msgid ""
 "differs from similar setups in other DJ hardware and software."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:233
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:235
 msgid "Controls"
 msgstr ""
 
@@ -596,11 +620,11 @@ msgstr ""
 msgid "Change the channel's quick effect superknob."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:244
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:246
 msgid "Multi Effect Mode"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:247
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:249
 msgid ""
 "Because the S3 has limited effects controls, this FX setup is unusual and a "
 "little complex. Each deck has a single effect toggle button and one knob, "
@@ -610,11 +634,11 @@ msgid ""
 "DJ to customize all of the effects."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:251
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:253
 msgid "There are three modes that the effect controls can be in:"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:253
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:255
 msgid ""
 "The initial mode is Filter Mode. This mode is indicated when the "
 "{hwlabel}`FX ENABLE` buttons have the same colors as the individual decks. "
@@ -622,7 +646,7 @@ msgid ""
 "decks."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:256
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:258
 msgid ""
 "The next mode is Effect Chain Edit Mode. This mode is indicated when the "
 "{hwlabel}`FX ENABLE` buttons are all the same color as one of the effect "
@@ -630,7 +654,7 @@ msgid ""
 "off, and adjusting each effect chain's mix knob."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:259
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:261
 msgid ""
 "The last mode is Effect Focus Mode. This mode is indicated when {hwlabel}`FX"
 " ENABLE` buttons are all the same color as one of the effects, and one of "
@@ -639,18 +663,18 @@ msgid ""
 "buttons."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:263
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:265
 msgid "Switching Effect Modes"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:266
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:268
 msgid ""
 "At any time, you can push the {hwlabel}`FILTER` {hwlabel}`FX SELECT` button "
 "to return to Filter Mode. If you get lost, try pusing the {hwlabel}`FILTER` "
 "button to start over."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:269
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:271
 msgid ""
 "Press any {hwlabel}`FX SELECT` button to enter Effect Chain mode for that "
 "number chain. If you press the same {hwlabel}`FX SELECT` button again, "
@@ -658,7 +682,7 @@ msgid ""
 "to enter Effect Chain mode for that other chain."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:273
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:275
 msgid ""
 "Press and hold an {hwlabel}`FX SELECT` button, then press a {hwlabel}`FX "
 "ENABLE` button to enter Effect Focus mode. The {hwlabel}`FX SELECT` button "
@@ -667,11 +691,11 @@ msgid ""
 "any {hwlabel}`FX SELECT` button, you'll return to Effect Chain mode."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:278
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:280
 msgid "Soft Takeover"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:281
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:283
 msgid ""
 "The knobs have Soft Takeover mode enabled, which means you need to turn the "
 "physical knob to match the current position of the UI knob before the value "
@@ -679,11 +703,11 @@ msgid ""
 "changing, you may need to rotate the knob more."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:284
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:286
 msgid "Assigning Effects"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:287
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:289
 msgid ""
 "You can assign effect chains to individual decks in Filter Mode. Press and "
 "hold {hwlabel}`FX ENABLE`, then press the desired {hwlabel}`FX SELECT` "
@@ -691,11 +715,11 @@ msgid ""
 "effect chains that are selected for that deck."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:291
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:293
 msgid "Filter Mode"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:294
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:296
 msgid ""
 "In Filter Mode the FX knobs control each channel's selected quick effect. By"
 " default this is a combined low-pass and high-pass filter, but a different "
@@ -703,11 +727,11 @@ msgid ""
 " or directly from the mixer if supported by the selected Mixxx skin."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:299
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:301
 msgid "Effect Chain Edit Mode"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:302
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:304
 msgid ""
 "In Effect Chain Edit Mode, the {hwlabel}`FX ENABLE` buttons change color to "
 "match the selected FX button. The lights will be dim if the effect is "
@@ -718,151 +742,151 @@ msgid ""
 "between modes."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:309
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:311
 msgid "Effect Focus Mode"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:312
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:314
 msgid ""
 "In Effect Focus Mode, the {hwlabel}`FX ENABLE` buttons represent effect "
 "button parameters, while the four knobs adjust the first four parameters of "
 "the selected effect."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:314
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:316
 msgid "Mapping options"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:321
 msgid ""
 "Settings can be edited in the preference windows, under "
 "{guilabel}`Preferences` > {guilabel}`Controllers` > {guilabel}`Traktor "
 "Kontrol S3 ...`."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid "Setting"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid "Values"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid "Function"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid "Effect section layout"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid "Quick Effect, Advanced Mode"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid ""
 "Changes the layout of the FX section to match either the controller layout "
 "or the Mixxx standard layout."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid "Reset FX chain on startup"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid "Boolean"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid ""
 "Reset to the default effect on startup, or preserve the last selected "
 "effect."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid "Use channel colors for FX enable buttons"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid ""
 "Use the selected channel color for the FX buttons or use a different color."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid "Pitch Slider Mode"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid "Absolute, Relative"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid ""
 "Use the pitch faders in normal (absolute) mode or as relative faders that "
 "can be moved higher or lower multiple times."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid "Stop samplers when button is released"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid ""
 "Stop the sampler when the button is released instead of requiring a separate"
 " button press."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid "Enable scratch mode on start"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid "Enable or disable the jog button on startup."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid "Use deck 2 for samplers 9–16"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid ""
 "Use the deck 2 buttons for more samplers (instead of using both for samplers"
 " 1–8)."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid "Channel 1 Color"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid "Colors"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid "Set the color for the first channel buttons."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid "Channel 2 Color"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid "Set the color for the second channel buttons."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid "Channel 3 Color"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid "Set the color for the third channel buttons."
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid "Channel 4 Color"
 msgstr ""
 
-#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:317
+#: ../../hardware/controllers/native_instruments_traktor_kontrol_s3.md:319
 msgid "Set the color for the fourth channel buttons."
 msgstr ""

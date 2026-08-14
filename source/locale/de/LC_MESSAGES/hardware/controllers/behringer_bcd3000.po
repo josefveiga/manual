@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mixxx 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-01 00:12+0200\n"
+"POT-Creation-Date: 2026-08-07 11:12+0200\n"
 "PO-Revision-Date: 2024-05-22 20:50+0000\n"
 "Language-Team: German (https://app.transifex.com/mixxx-dj-software/teams/7734/de/)\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +22,7 @@ msgid "Behringer BCD3000"
 msgstr ""
 
 #: ../../hardware/controllers/behringer_bcd3000.md:6
-msgid "[Manufacturer's page](https://www.behringer.com/en/products/0700-aab)"
+msgid "[Manufacturer's page](https://www.behringer.com/en/products/0700-AAB)"
 msgstr ""
 
 #: ../../hardware/controllers/behringer_bcd3000.md:8

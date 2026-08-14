@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2011-2024, The Mixxx Development Team
+# Copyright (C) 2011-2026, The Mixxx Development Team
 # This file is distributed under the same license as the Mixxx package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mixxx 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-29 13:35+0100\n"
+"POT-Creation-Date: 2026-08-07 11:12+0200\n"
 "PO-Revision-Date: 2024-05-22 20:50+0000\n"
 "Language-Team: Polish (https://app.transifex.com/mixxx-dj-software/teams/7734/pl/)\n"
 "MIME-Version: 1.0\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Language: pl\n"
 "Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
 
-#: ../../hardware/controllers/reloop_beatmix_2.rst:2
+#: ../../hardware/controllers/reloop_beatmix_2.md:1
 msgid "Reloop Beatmix 2"
 msgstr ""
 
-#: ../../hardware/controllers/reloop_beatmix_2.rst:4
+#: ../../hardware/controllers/reloop_beatmix_2.md:3
 msgid ""
 "The **Reloop Beatmix 2** is a performance-oriented 2-channel pad controller "
 "with integrated soundcard. **Beatmix 2** offers an ergonomically designed "
@@ -31,26 +31,28 @@ msgid ""
 "as two extensive FX units are the foundation for your creativity."
 msgstr ""
 
-#: ../../hardware/controllers/reloop_beatmix_2.rst:11
+#: ../../hardware/controllers/reloop_beatmix_2.md:10
 msgid ""
 "This controller is a midi and audio class compliant device so it is "
 "compatible as-is with Linux, MacOS and Windows. However, on Windows, the "
 "manufacturer ship an ASIO low-latency driver that can be found on the "
-"`manufacturer’s product page <productpage_url_>`_."
+"[manufacturer's product page](https://www.reloop.com/reloop-beatmix-2)."
 msgstr ""
 
-#: ../../hardware/controllers/reloop_beatmix_2.rst:16
+#: ../../hardware/controllers/reloop_beatmix_2.md:15
 msgid ""
-"The mapping for the :ref:`Reloop Beatmix 4 <reloop-beatmix-4>` should be "
+"The mapping for the {ref}`Reloop Beatmix 4 <reloop-beatmix-4>` should be "
 "compatible with this controller, but hasn’t been tested. See the "
-":ref:`Reloop Beatmix 4 <reloop-beatmix-4>` page for the complete mapping "
+"{ref}`Reloop Beatmix 4 <reloop-beatmix-4>` page for the complete mapping "
 "description."
 msgstr ""
 
-#: ../../hardware/controllers/reloop_beatmix_2.rst:21
-msgid "`Manufacturer’s product page <productpage_url_>`_"
+#: ../../hardware/controllers/reloop_beatmix_2.md:20
+msgid "[Manufacturer's product page](https://www.reloop.com/reloop-beatmix-2)"
 msgstr ""
 
-#: ../../hardware/controllers/reloop_beatmix_2.rst:22
-msgid "`Forum thread <forum_url_>`_"
+#: ../../hardware/controllers/reloop_beatmix_2.md:21
+msgid ""
+"[Forum thread](https://mixxx.discourse.group/t/reloop-"
+"beatmix-2-4-mapping/16049)"
 msgstr ""

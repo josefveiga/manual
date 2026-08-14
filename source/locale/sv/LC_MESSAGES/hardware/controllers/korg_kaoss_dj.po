@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mixxx 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-01 00:12+0200\n"
+"POT-Creation-Date: 2026-08-07 11:12+0200\n"
 "PO-Revision-Date: 2024-05-22 20:50+0000\n"
 "Language-Team: Swedish (https://app.transifex.com/mixxx-dj-software/teams/7734/sv/)\n"
 "MIME-Version: 1.0\n"
@@ -17,548 +17,537 @@ msgstr ""
 "Language: sv\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:2
+#: ../../hardware/controllers/korg_kaoss_dj.md:1
 msgid "Korg Kaoss DJ controller"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:4
+#: ../../hardware/controllers/korg_kaoss_dj.md:3
 msgid ""
 "2-deck controller with touch controlled jogwheels, built-in 4-channel "
 "soundcard and a Korg Kaoss Pad as built-in effect section (can be switched "
 "off for using software effects)."
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:6
+#: ../../hardware/controllers/korg_kaoss_dj.md:5
 msgid ""
 "Controller needs to be set as output device in order to wake up from standby"
-" (Stb)."
+" (Stb).<br> Main: Channel 1-2<br> Headphone: Channel 3-4"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:7
-msgid "Main: Channel 1-2"
-msgstr ""
-
-#: ../../hardware/controllers/korg_kaoss_dj.rst:8
-msgid "Headphone: Channel 3-4"
-msgstr ""
-
-#: ../../hardware/controllers/korg_kaoss_dj.rst:10
+#: ../../hardware/controllers/korg_kaoss_dj.md:9
 msgid ""
-"`Manufacturer’s product page "
-"<http://www.korg.com/uk/products/dj/kaoss_dj/>`__"
+"[Manufacturer’s product page](http://www.korg.com/uk/products/dj/kaoss_dj/)"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:11
+#: ../../hardware/controllers/korg_kaoss_dj.md:10
 msgid ""
-"`Forum thread <https://mixxx.discourse.group/t/korg-kaoss-dj-midi-mapping-"
-"help/16093>`__"
+"[Forum thread](https://mixxx.discourse.group/t/korg-kaoss-dj-midi-mapping-"
+"help/16093)"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:12
+#: ../../hardware/controllers/korg_kaoss_dj.md:11
+msgid "[Pull request on Github](https://github.com/mixxxdj/mixxx/pull/1509)"
+msgstr ""
+
+#: ../../hardware/controllers/korg_kaoss_dj.md:13
 msgid ""
-"`Pull request on Github <https://github.com/mixxxdj/mixxx/pull/1509>`__"
+"MacOS: Please note that the Korg Kaoss DJ is only supported until [macOS "
+"Monterey](https://www.korg.com/download/global/support/os/pdf/mac_compatibilitychart_KORG_en.pdf)"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:14
-msgid ""
-"MacOS: Please note that the Korg Kaoss DJ is only supported until `macOS "
-"Monterey "
-"<https://www.korg.com/download/global/support/os/pdf/mac_compatibilitychart_KORG_en.pdf>`__"
-msgstr ""
-
-#: ../../hardware/controllers/korg_kaoss_dj.rst:19
+#: ../../hardware/controllers/korg_kaoss_dj.md:18
 msgid "Mapping"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:28
+#: ../../hardware/controllers/korg_kaoss_dj.md:28
 msgid "Korg Kaoss DJ (schematic view)"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:32
+#: ../../hardware/controllers/korg_kaoss_dj.md:34
 msgid "No."
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:32
+#: ../../hardware/controllers/korg_kaoss_dj.md:35
 msgid "Name"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:32
+#: ../../hardware/controllers/korg_kaoss_dj.md:36
 msgid "Function"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:32
+#: ../../hardware/controllers/korg_kaoss_dj.md:37
 msgid "Shifted Operation"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:34
+#: ../../hardware/controllers/korg_kaoss_dj.md:38
 msgid "1"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:34
+#: ../../hardware/controllers/korg_kaoss_dj.md:39
 msgid "Headphone knob"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:34
+#: ../../hardware/controllers/korg_kaoss_dj.md:40
 msgid "Adjusts the headphone level"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:36
+#: ../../hardware/controllers/korg_kaoss_dj.md:42
 msgid "2"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:36
+#: ../../hardware/controllers/korg_kaoss_dj.md:43
 msgid "Balance knob"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:36
+#: ../../hardware/controllers/korg_kaoss_dj.md:44
 msgid ""
 "Adjusts the balance between the master level and the headphone monitor level"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:39
+#: ../../hardware/controllers/korg_kaoss_dj.md:46
 msgid "3"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:39
+#: ../../hardware/controllers/korg_kaoss_dj.md:47
 msgid "Master knob"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:39
+#: ../../hardware/controllers/korg_kaoss_dj.md:48
 msgid "Adjust the master volume level"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:41
+#: ../../hardware/controllers/korg_kaoss_dj.md:50
 msgid "4"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:41
+#: ../../hardware/controllers/korg_kaoss_dj.md:51
 msgid "Browse knob"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:41
+#: ../../hardware/controllers/korg_kaoss_dj.md:52
 msgid "Selects a song from the library"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:41
+#: ../../hardware/controllers/korg_kaoss_dj.md:53
 msgid "Moves between levels (TODO)"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:43
+#: ../../hardware/controllers/korg_kaoss_dj.md:54
 msgid "5"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:43
+#: ../../hardware/controllers/korg_kaoss_dj.md:55
 msgid "Display"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:43
+#: ../../hardware/controllers/korg_kaoss_dj.md:56
 msgid "Indicates the effect number or parameter"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:43
+#: ../../hardware/controllers/korg_kaoss_dj.md:57
 msgid "Indicates the key or scale"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:45
+#: ../../hardware/controllers/korg_kaoss_dj.md:58
 msgid "6"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:45
+#: ../../hardware/controllers/korg_kaoss_dj.md:59
 msgid "Touchpad Mode Button"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:45
+#: ../../hardware/controllers/korg_kaoss_dj.md:60
 msgid ""
 "Switches the touchpad between the Controller, KAOSS Effect, and Sampler "
 "modes (long press for blue LED)"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:48
+#: ../../hardware/controllers/korg_kaoss_dj.md:62
 msgid "7"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:48
+#: ../../hardware/controllers/korg_kaoss_dj.md:63
 msgid "Program/Value Knob"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:48
+#: ../../hardware/controllers/korg_kaoss_dj.md:64
 msgid "Selects an effect"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:48
+#: ../../hardware/controllers/korg_kaoss_dj.md:65
 msgid "Selects a key, selects a scale"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:50
+#: ../../hardware/controllers/korg_kaoss_dj.md:66
 msgid "8"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:50
+#: ../../hardware/controllers/korg_kaoss_dj.md:67
 msgid "Tap Button"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:68
 msgid "Sets the tempo"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:70
 msgid "Long-press this button to access the auto BPM function"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:50
+#: ../../hardware/controllers/korg_kaoss_dj.md:71
 msgid "Key setting mode"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:53
+#: ../../hardware/controllers/korg_kaoss_dj.md:72
 msgid "9"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:53
+#: ../../hardware/controllers/korg_kaoss_dj.md:73
 msgid "Hold Button"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:53
+#: ../../hardware/controllers/korg_kaoss_dj.md:74
 msgid "Enables/disables the touchpad’s hold function"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:53
+#: ../../hardware/controllers/korg_kaoss_dj.md:75
 msgid "Scale setting mode"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:55
+#: ../../hardware/controllers/korg_kaoss_dj.md:76
 msgid "10"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:55
+#: ../../hardware/controllers/korg_kaoss_dj.md:77
 msgid "Touchpad (controller mode)"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:78
 msgid "Controls the effects of the DJ software."
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:80
 msgid "The vertical axis controls the mix (dry/wet) knob."
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:82
 msgid "The horizontal axis controls the super knob."
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:55
+#: ../../hardware/controllers/korg_kaoss_dj.md:83
 msgid "Adjusts the Beats Multiplier (TODO)"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:59
+#: ../../hardware/controllers/korg_kaoss_dj.md:85
 msgid "Touchpad (Kaoss Effect mode)"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:59
+#: ../../hardware/controllers/korg_kaoss_dj.md:86
 msgid "Controls the KAOSS effect"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:59
+#: ../../hardware/controllers/korg_kaoss_dj.md:87
 msgid "Adjusts the depth of the KAOSS Effect"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:61
+#: ../../hardware/controllers/korg_kaoss_dj.md:89
 msgid "Touchpad (sampler mode)"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:61
+#: ../../hardware/controllers/korg_kaoss_dj.md:90
 msgid "Controls the sampler function of the DJ software"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:63
+#: ../../hardware/controllers/korg_kaoss_dj.md:92
 msgid "11"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:63
+#: ../../hardware/controllers/korg_kaoss_dj.md:93
 msgid "Crossfader"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:63
+#: ../../hardware/controllers/korg_kaoss_dj.md:94
 msgid "Adjusts the balance between Decks A and B"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:65
+#: ../../hardware/controllers/korg_kaoss_dj.md:96
 msgid "12"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:65
+#: ../../hardware/controllers/korg_kaoss_dj.md:97
 msgid "Touch Slider mode button"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:65
+#: ../../hardware/controllers/korg_kaoss_dj.md:98
 msgid "Switches between the three touch slider mode"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:67
+#: ../../hardware/controllers/korg_kaoss_dj.md:100
 msgid "13"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:67
+#: ../../hardware/controllers/korg_kaoss_dj.md:101
 msgid "Touch Slider (Normal mode)"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:102
 msgid "Left Side: Nudges (pitch -)"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:104
 msgid "Center: Enables the touch wheel's Scratch mode"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:106
 msgid "Right Side: Nudges (pitch +)"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:67
+#: ../../hardware/controllers/korg_kaoss_dj.md:107
 msgid "Moves to the specified position in the song (slider)"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:71
+#: ../../hardware/controllers/korg_kaoss_dj.md:109
 msgid "Touch Slider (Hot Cue mode)"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:110
 msgid "Left Side: Sets Hot Cue 1, and moves to Hot Cue 1"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:112
 msgid "Center: Sets Hot Cue 2, and moves to Hot Cue 2"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:114
 msgid "Right Side: Sets Hot Cue 3, and moves to Hot Cue 3"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:115
 msgid "Deletes Hot Cue 1"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:117
 msgid "Deletes Hot Cue 2"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:119
 msgid "Deletes Hot Cue 3"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:75
+#: ../../hardware/controllers/korg_kaoss_dj.md:121
 msgid "Touch Slider (Loop mode)"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:122
 msgid "Left Side: Auto Loop × 1/2"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:124
 msgid "Center: Loop on/off"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:126
 msgid "Right Side: Auto Loop × 2"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:127
 msgid "Sets the Loop In point"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:129
 msgid "Auto Loop × 1"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:131
 msgid "Sets the Loop Out point"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:79
+#: ../../hardware/controllers/korg_kaoss_dj.md:132
 msgid "14"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:79
+#: ../../hardware/controllers/korg_kaoss_dj.md:133
 msgid "EQ"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:134
 msgid "Boosts or Cuts the Hi EQ"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:136
 msgid "Boosts or Cuts the Mid EQ"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:138
 msgid "Boosts or Cuts the Lo EQ"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:83
+#: ../../hardware/controllers/korg_kaoss_dj.md:140
 msgid "15"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:83
+#: ../../hardware/controllers/korg_kaoss_dj.md:141
 msgid "Gain knob"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:83
+#: ../../hardware/controllers/korg_kaoss_dj.md:142
 msgid "Adjusts the gain"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:85
+#: ../../hardware/controllers/korg_kaoss_dj.md:144
 msgid "16"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:85
+#: ../../hardware/controllers/korg_kaoss_dj.md:145
 msgid "Load button"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:85
+#: ../../hardware/controllers/korg_kaoss_dj.md:146
 msgid "Loads the song into the selected deck"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:87
+#: ../../hardware/controllers/korg_kaoss_dj.md:148
 msgid "17"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:87
+#: ../../hardware/controllers/korg_kaoss_dj.md:149
 msgid "Fx button"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:150
 msgid "Left: FX1 rack mix knob can be manipulated when enabled"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:0
+#: ../../hardware/controllers/korg_kaoss_dj.md:152
 msgid "Right: FX2 rack mix knob can be manipulated when enabled"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:90
+#: ../../hardware/controllers/korg_kaoss_dj.md:154
 msgid "18"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:90
+#: ../../hardware/controllers/korg_kaoss_dj.md:155
 msgid "Headphone cue button"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:90
+#: ../../hardware/controllers/korg_kaoss_dj.md:156
 msgid "Turns the headphone monitor on/off"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:90
+#: ../../hardware/controllers/korg_kaoss_dj.md:157
 msgid ""
 "Switches the function of the level meter between Deck A/B and the Master "
 "level"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:93
+#: ../../hardware/controllers/korg_kaoss_dj.md:158
 msgid "19"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:93
+#: ../../hardware/controllers/korg_kaoss_dj.md:159
 msgid "Touch wheel"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:93
+#: ../../hardware/controllers/korg_kaoss_dj.md:160
 msgid "Scratches (in scratch mode) or adjusts the pitch"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:93
+#: ../../hardware/controllers/korg_kaoss_dj.md:161
 msgid "Search function (in scratch mode) or moves beatgrid"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:96
+#: ../../hardware/controllers/korg_kaoss_dj.md:162
 msgid "20"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:96
+#: ../../hardware/controllers/korg_kaoss_dj.md:163
 msgid "Pitch fader"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:96
+#: ../../hardware/controllers/korg_kaoss_dj.md:164
 msgid "Adjusts the pitch"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:98
+#: ../../hardware/controllers/korg_kaoss_dj.md:166
 msgid "21"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:98
+#: ../../hardware/controllers/korg_kaoss_dj.md:167
 msgid "Level meter"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:98
+#: ../../hardware/controllers/korg_kaoss_dj.md:168
 msgid "Indicates the input level to deck A/B or the master level"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:100
+#: ../../hardware/controllers/korg_kaoss_dj.md:170
 msgid "22"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:100
+#: ../../hardware/controllers/korg_kaoss_dj.md:171
 msgid "Shift button"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:100
+#: ../../hardware/controllers/korg_kaoss_dj.md:172
 msgid "Holding this button provides access to the controllers SHIFT functions"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:103
+#: ../../hardware/controllers/korg_kaoss_dj.md:174
 msgid "23"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:103
+#: ../../hardware/controllers/korg_kaoss_dj.md:175
 msgid "Play / pause button"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:103
+#: ../../hardware/controllers/korg_kaoss_dj.md:176
 msgid "Starts/pauses the song"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:103
+#: ../../hardware/controllers/korg_kaoss_dj.md:177
 msgid "Key Lock On/Off"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:105
+#: ../../hardware/controllers/korg_kaoss_dj.md:178
 msgid "24"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:105
+#: ../../hardware/controllers/korg_kaoss_dj.md:179
 msgid "Sync button"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:105
+#: ../../hardware/controllers/korg_kaoss_dj.md:180
 msgid "Synchronizes the tempo of Deck A and Deck B"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:105
+#: ../../hardware/controllers/korg_kaoss_dj.md:181
 msgid "Cancels tempo synchronization"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:107
+#: ../../hardware/controllers/korg_kaoss_dj.md:182
 msgid "25"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:107
+#: ../../hardware/controllers/korg_kaoss_dj.md:183
 msgid "Cue button"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:107
+#: ../../hardware/controllers/korg_kaoss_dj.md:184
 msgid "Sets the cue point or moves to the cue point"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:107
+#: ../../hardware/controllers/korg_kaoss_dj.md:185
 msgid "Returns to the beginning of the song."
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:109
+#: ../../hardware/controllers/korg_kaoss_dj.md:186
 msgid "26"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:109
+#: ../../hardware/controllers/korg_kaoss_dj.md:187
 msgid "Level fader"
 msgstr ""
 
-#: ../../hardware/controllers/korg_kaoss_dj.rst:109
+#: ../../hardware/controllers/korg_kaoss_dj.md:188
 msgid "Adjusts the level of deck A/B"
 msgstr ""

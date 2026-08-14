@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mixxx 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-01 00:12+0200\n"
+"POT-Creation-Date: 2026-08-07 11:12+0200\n"
 "PO-Revision-Date: 2024-05-22 20:50+0000\n"
 "Last-Translator: Daniel Schürmann <daschuer@mixxx.org>, 2025\n"
 "Language-Team: French (https://app.transifex.com/mixxx-dj-software/teams/7734/fr/)\n"
@@ -38,7 +38,7 @@ msgstr ""
 #: ../../hardware/controllers/behringer_cmd_mm_1.md:13
 msgid ""
 "[Manufacturer's product "
-"page](https://www.behringer.com/en/products/0700-aae)"
+"page](https://www.behringer.com/en/products/0700-AAE)"
 msgstr ""
 
 #: ../../hardware/controllers/behringer_cmd_mm_1.md:14

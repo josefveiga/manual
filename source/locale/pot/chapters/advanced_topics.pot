@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mixxx 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-01 00:12+0200\n"
+"POT-Creation-Date: 2026-08-07 11:12+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -517,7 +517,7 @@ msgid "The Jack routing for external effects on GNU/Linux"
 msgstr ""
 
 #: ../../chapters/advanced_topics.rst:235
-msgid "Use `Jack <https://en.wikipedia.org/wiki/JACK_Audio_Connection_Kit>`_ to route each deck directly through `JACK Rack <http://jack-rack.sourceforge.net/>`_ effect racks, or for more control you can use Ardour (or another :term:`DAW`) using sends for effects. This gives Mixxx access to the extensive collection of :term:`LADSPA` plugins."
+msgid "Use `Jack <https://en.wikipedia.org/wiki/JACK_Audio_Connection_Kit>`_ to route each deck directly through `JACK Rack <https://jack-rack.sourceforge.net/>`_ effect racks, or for more control you can use Ardour (or another :term:`DAW`) using sends for effects. This gives Mixxx access to the extensive collection of :term:`LADSPA` plugins."
 msgstr ""
 
 #: ../../chapters/advanced_topics.rst:241
@@ -605,9 +605,13 @@ msgid "Since version 2.5 Mixxx is also provided as Flatpak."
 msgstr ""
 
 #: ../../chapters/advanced_topics.rst:290
-msgid "If you do want to switch from a distribution package or Mixxx built from source code to the Flatpak, a little setup is required. Flatpak stores Mixxx's database, settings, and custom controller mappings in a different location than the `~/.mixxx` directory that Mixxx has always used before. Flatpak uses `~/.var/app/org.mixxx.Mixxx/.mixxx` instead. To copy your database, settings, and controller mappings into the Flatpak sandbox, run: ::"
+msgid "If you do want to switch from a distribution package or Mixxx built from source code to the Flatpak, a little setup is required. Flatpak stores Mixxx's database, settings, and custom controller mappings in a different location than the `~/.mixxx` directory that Mixxx has always used before. Flatpak uses `~/.var/app/org.mixxx.Mixxx/.mixxx` instead. To copy your database, settings, and controller mappings into the Flatpak sandbox, run:"
 msgstr ""
 
-#: ../../chapters/advanced_topics.rst:296
+#: ../../chapters/advanced_topics.rst:292
+msgid "mkdir -p ~/.var/app/org.mixxx.Mixxx cp -r ~/.mixxx ~/.var/app/org.mixxx.Mixxx"
+msgstr ""
+
+#: ../../chapters/advanced_topics.rst:295
 msgid "If your library contains any directories outside of your XDG Music Directory (`~/Music` unless you have reconfigured this), you will need to relink these directories to access the files inside of Flatpak's sandbox. Run Mixxx from the Flatpak and go to :menuselection:`Options --> Preferences --> Library`. Any directories that have a warning icon with `!` in a yellow triangle need to be relinked. Select the directory in the preferences window and click the Relink button, then select the directory in the file picker dialog. Flatpak will automatically remap the directory under `/run/user` so Mixxx can read and write your music files from inside the Flatpak sandbox. Press Ok in the preferences window, then in Mixxx's main window, go to :menuselection:`Library > Rescan Library`."
 msgstr ""

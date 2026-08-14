@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2011-2024, The Mixxx Development Team
+# Copyright (C) 2011-2026, The Mixxx Development Team
 # This file is distributed under the same license as the Mixxx package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mixxx 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-29 13:35+0100\n"
+"POT-Creation-Date: 2026-08-07 11:12+0200\n"
 "PO-Revision-Date: 2024-05-22 20:50+0000\n"
 "Last-Translator: Daniel Schürmann <daschuer@mixxx.org>, 2025\n"
 "Language-Team: Chinese (Taiwan) (https://app.transifex.com/mixxx-dj-software/teams/7734/zh_TW/)\n"
@@ -21,11 +21,11 @@ msgstr ""
 "Language: zh_TW\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../hardware/controllers/denon_mc7000.rst:2
+#: ../../hardware/controllers/denon_mc7000.md:1
 msgid "Denon MC7000"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:4
+#: ../../hardware/controllers/denon_mc7000.md:3
 msgid ""
 "The Denon MC7000 is a professional DJ controller which has got 4-channel "
 "capability and dual USB connections. These two USB audio interfaces enable "
@@ -34,7 +34,7 @@ msgid ""
 "mobile and club DJs."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:7
+#: ../../hardware/controllers/denon_mc7000.md:8
 msgid ""
 "Fixed a vinyl mode bug on deck 4 and added new features, like library "
 "sorting, searching through track with jog wheel, ejecting track from deck, "
@@ -42,253 +42,244 @@ msgid ""
 "and improved parameter and censor/reverse/spinback button mappings."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:9
+#: ../../hardware/controllers/denon_mc7000.md:11
 msgid ""
 "Some improvements for slip mode, sampler play and rate range toggle. Added "
 "browsing through library using jog wheel."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:13
+#: ../../hardware/controllers/denon_mc7000.md:13
 msgid "Useful links"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:15
+#: ../../hardware/controllers/denon_mc7000.md:15
 msgid ""
-"`Denon MC7000 Mapping thread <https://mixxx.discourse.group/t/denon-"
-"mc7000-mapping/18235>`__"
+"[Denon MC7000 Mapping thread](https://mixxx.discourse.group/t/denon-"
+"mc7000-mapping/18235)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:16
+#: ../../hardware/controllers/denon_mc7000.md:16
 msgid ""
-"`Manufacturer’s product page <https://www.denondj.com/professional-dj-"
-"controller-for-serato-mc7000xus>`__"
+"[Manufacturer’s product page](https://www.denondj.com/professional-dj-"
+"controller-for-serato-mc7000xus)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:17
+#: ../../hardware/controllers/denon_mc7000.md:17
 msgid ""
-"`User Guide "
-"<http://cdn.inmusicbrands.com/denondj/MC7000/MC7000-UserGuide-v1.1.pdf>`__"
+"[User "
+"Guide](http://cdn.inmusicbrands.com/denondj/MC7000/MC7000-UserGuide-v1.1.pdf)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:18
+#: ../../hardware/controllers/denon_mc7000.md:18
 msgid ""
-"`Hardware Setting Specification "
-"<http://cdn.inmusicbrands.com/denondj/MC7000/MC7000-Hardware-Settings-Mode-"
-"Specification-v1_4.pdf>`__"
+"[Hardware Setting "
+"Specification](http://cdn.inmusicbrands.com/denondj/MC7000/MC7000-Hardware-"
+"Settings-Mode-Specification-v1_4.pdf)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:19
-msgid "`Mixxx showcase on YouTube <https://youtu.be/KRtgSBXFGqI>`__"
+#: ../../hardware/controllers/denon_mc7000.md:19
+msgid "[Mixxx showcase on YouTube](https://youtu.be/KRtgSBXFGqI)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:22
+#: ../../hardware/controllers/denon_mc7000.md:21
 msgid "Compatibility"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:24
+#: ../../hardware/controllers/denon_mc7000.md:23
 msgid "**Mac** users should be just fine connecting the MC7000 and go."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:25
+#: ../../hardware/controllers/denon_mc7000.md:24
 msgid ""
-"**Windows** users need to install the latest Windows Driver from `Denon "
-"Download Site <https://www.denondj.com/downloads>`__."
+"**Windows** users need to install the latest Windows Driver from [Denon "
+"Download Site](https://www.denondj.com/downloads)."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:26
+#: ../../hardware/controllers/denon_mc7000.md:25
 msgid ""
 "**Linux** users need a minimum LTS Kernel version **4.19.105** or "
 "**5.4.21**. All Kernels **5.6.x** and following are supporting the device "
 "out-of-the-box."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:29
+#: ../../hardware/controllers/denon_mc7000.md:27
 msgid "Mapping"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:38
+#: ../../hardware/controllers/denon_mc7000.md:37
 msgid "Denon MC7000 (schematic view)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:41
+#: ../../hardware/controllers/denon_mc7000.md:40
 msgid ""
 "This controller is made for Serato DJ and most of the mapping is made for "
 "Mixxx accordingly. Anyhow, there are several differences for functions not "
 "matching the Serato mapping. If you have any wishes to improve the mapping, "
-"then please discuss it in the `Denon MC7000 Mapping "
-"<https://mixxx.discourse.group/t/denon-mc7000-mapping/18235>`__ thread."
+"then please discuss it in the [Denon MC7000 "
+"Mapping](https://mixxx.discourse.group/t/denon-mc7000-mapping/18235) thread."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:49
+#: ../../hardware/controllers/denon_mc7000.md:47
 msgid "Mapping Settings"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:58
+#: ../../hardware/controllers/denon_mc7000.md:57
 msgid "Denon MC7000 mapping settings"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:60
+#: ../../hardware/controllers/denon_mc7000.md:59
 msgid ""
 "The MC7000 mapping features a number of options that can be customized from "
-"the preferences under :guilabel:`Preferences` > :guilabel:`Controllers` "
-"after selecting your controller and the `DENON MC7000` mapping."
+"the preferences under {guilabel}`Preferences` > {guilabel}`Controllers` "
+"after selecting your controller and the _DENON MC7000_ mapping."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:63
+#: ../../hardware/controllers/denon_mc7000.md:61
 msgid "Jogwheel Settings"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:66
 msgid "Setting"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:67
 msgid "Variable"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:68
 msgid "Default"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:69
 msgid "Range"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:70
 msgid "Description"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid "Jogwheel sensitivity (:math:`s`)"
+#: ../../hardware/controllers/denon_mc7000.md:71
+msgid "Jogwheel sensitivity ({math}`s`)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:72
 msgid "``jogSensitivity``"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:73
+#: ../../hardware/controllers/denon_mc7000.md:88
 msgid "1.0"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:74
 msgid "0.05 to 10.0"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:75
 msgid ""
 "Sensitivity factor of the jog wheel (also depends on audio latency). Use 0.5"
-" for half and 2 for double sensitivity. Recommendation:"
+" for half and 2 for double sensitivity. Recommendation: Set to 0.5 with "
+"audio buffer set to 50ms. Set to 1 with audio buffer set to 25ms. Set to 3 "
+"with audio buffer set to 5ms."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:3
-msgid "Set to 0.5 with audio buffer set to 50ms"
-msgstr ""
-
-#: ../../hardware/controllers/denon_mc7000.rst:5
-msgid "Set to 1 with audio buffer set to 25ms"
-msgstr ""
-
-#: ../../hardware/controllers/denon_mc7000.rst:7
-msgid "Set to 3 with audio buffer set to 5ms"
-msgstr ""
-
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:76
 msgid "Enable jogwheel acceleration"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:77
 msgid "``jogAccelerationEnabled``"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:78
 msgid "``false``"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:79
 msgid "``true``/``false``"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:80
 msgid ""
 "If enabled, the track speed will accelerate faster than the physical "
 "jogwheel movement."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid "Acceleration exponent (:math:`x`)"
+#: ../../hardware/controllers/denon_mc7000.md:81
+msgid "Acceleration exponent ({math}`x`)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:82
 msgid "``jogAccelerationExponent``"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:83
 msgid "0.8"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:84
 msgid "0.0 to 20.0"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:85
 msgid "The exponent of the acceleration curve"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid "Acceleration coefficient (:math:`c`)"
+#: ../../hardware/controllers/denon_mc7000.md:86
+msgid "Acceleration coefficient ({math}`c`)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:87
 msgid "``jogAccelerationCoefficient``"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:89
 msgid "0.05 to 20.0"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:90
 msgid "The coefficient of the acceleration curve"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:80
+#: ../../hardware/controllers/denon_mc7000.md:92
 msgid "Jogwheel Acceleration"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:82
+#: ../../hardware/controllers/denon_mc7000.md:94
 msgid ""
 "Enabling jogwheel acceleration will increase the scratch speed in proportion"
 " to the physical speed at which the platters are turned, similar to Serato. "
-"The precise formula for computing the scratch speed :math:`S` from the "
-"physical platter ticks :math:`t` turned is as follows:"
+"The precise formula for computing the scratch speed {math}`S` from the "
+"physical platter ticks {math}`t` turned is as follows:"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:84
+#: ../../hardware/controllers/denon_mc7000.md:96
 msgid ""
-"S = \\underbrace{st \\vphantom{|}}_{\\text{base speed}} \\cdot \\underbrace{c \\cdot |st|^x}_{\\text{acceleration factor}}\n"
-"\n"
+"   S = \\underbrace{st \\vphantom{|}}_{\\text{base speed}} \\cdot "
+"\\underbrace{c \\cdot |st|^x}_{\\text{acceleration factor}}\n"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:87
+#: ../../hardware/controllers/denon_mc7000.md:100
 msgid "where"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:89
-msgid ":math:`s` is the jogwheel sensitivity"
+#: ../../hardware/controllers/denon_mc7000.md:102
+msgid "{math}`s` is the jogwheel sensitivity"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:90
-msgid ":math:`t` is the number of physical platter ticks turned"
+#: ../../hardware/controllers/denon_mc7000.md:103
+msgid "{math}`t` is the number of physical platter ticks turned"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:91
-msgid ":math:`c` is the acceleration coefficient"
+#: ../../hardware/controllers/denon_mc7000.md:104
+msgid "{math}`c` is the acceleration coefficient"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:92
-msgid ":math:`x` is the acceleration exponent"
+#: ../../hardware/controllers/denon_mc7000.md:105
+msgid "{math}`x` is the acceleration exponent"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:94
+#: ../../hardware/controllers/denon_mc7000.md:108
 msgid ""
 "Be aware that the absolute track position will drift relative to the "
 "jogwheel position when enabling jogwheel acceleration! While this is "
@@ -296,317 +287,337 @@ msgid ""
 "scratching."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:96
+#: ../../hardware/controllers/denon_mc7000.md:112
 msgid ""
-"An acceleration exponent :math:`x` of 0 and a coefficient :math:`c` of 1 are"
+"An acceleration exponent {math}`x` of 0 and a coefficient {math}`c` of 1 are"
 " equivalent to no acceleration."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:101
+#: ../../hardware/controllers/denon_mc7000.md:116
 msgid "User Variables"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:103
+#: ../../hardware/controllers/denon_mc7000.md:118
 msgid ""
 "The mapping can further be customized to suit individual needs via user "
-"variables inside the :file:`Denon-MC7000-scripts.js` mapping file:"
+"variables inside the {file}`Denon-MC7000-scripts.js` mapping file:"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:105
+#: ../../hardware/controllers/denon_mc7000.md:120
 msgid ""
-"``MC7000.experimental`` activate :ref:`experimental beat count feature "
+"``MC7000.experimental`` activate {ref}`experimental beat count feature "
 "<denon_mc7000_experimental>` (default: ``false``)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:106
+#: ../../hardware/controllers/denon_mc7000.md:121
 msgid ""
-"``MC7000.needleSearchPlay`` activate :hwlabel:`NEEDLE DROP` sensor while a "
+"``MC7000.needleSearchPlay`` activate {hwlabel}`NEEDLE DROP` sensor while a "
 "track is playing (default: ``false``)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:107
+#: ../../hardware/controllers/denon_mc7000.md:122
 msgid ""
 "``MC7000.prevSamplerStop`` set to single play samplers (default: ``true``)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:108
+#: ../../hardware/controllers/denon_mc7000.md:123
 msgid ""
 "``MC7000.rateRanges`` set the available Pitch Fader ranges (default: 4, 6, "
 "8, 10, 16, 24, 50, 90)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:109
+#: ../../hardware/controllers/denon_mc7000.md:124
 msgid ""
 "``MC7000.modeSingleLED`` set single LED on or off (default: 1). Can be "
-"toggled with :hwlabel:`SHIFT` + :hwlabel:`Deck`"
+"toggled with {hwlabel}`SHIFT` + {hwlabel}`Deck`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:110
+#: ../../hardware/controllers/denon_mc7000.md:125
 msgid ""
 "``MC7000.VinylModeOn`` set the Vinyl Mode on or off at Mixxx start which "
 "also triggers the Platter Ring LED function (default: 1)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:111
+#: ../../hardware/controllers/denon_mc7000.md:126
 msgid ""
 "``MC7000.scratchParams`` set Scratch Parameters (default: 33+1/3, 1/10, "
 "1/10/32)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:112
+#: ../../hardware/controllers/denon_mc7000.md:127
 msgid ""
 "``MC7000.SamplerQty`` set the sampler quantity (values 16 or 32, default: "
 "16)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:116
+#: ../../hardware/controllers/denon_mc7000.md:130
 msgid "Mixer Section"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:136
+#: ../../hardware/controllers/denon_mc7000.md:210
+#: ../../hardware/controllers/denon_mc7000.md:248
+#: ../../hardware/controllers/denon_mc7000.md:279
+#: ../../hardware/controllers/denon_mc7000.md:332
+#: ../../hardware/controllers/denon_mc7000.md:474
 msgid "No."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:137
+#: ../../hardware/controllers/denon_mc7000.md:211
+#: ../../hardware/controllers/denon_mc7000.md:249
+#: ../../hardware/controllers/denon_mc7000.md:280
+#: ../../hardware/controllers/denon_mc7000.md:333
+#: ../../hardware/controllers/denon_mc7000.md:475
 msgid "Control"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:138
+#: ../../hardware/controllers/denon_mc7000.md:212
+#: ../../hardware/controllers/denon_mc7000.md:250
+#: ../../hardware/controllers/denon_mc7000.md:281
+#: ../../hardware/controllers/denon_mc7000.md:334
+#: ../../hardware/controllers/denon_mc7000.md:476
 msgid "Function"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:139
 msgid "1"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:140
 msgid "Input Selector Switch"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:141
 msgid "Set to the desired audio source for this channel."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:3
+#: ../../hardware/controllers/denon_mc7000.md:143
 msgid ""
-":hwlabel:`LINE/PHONO` will disable the corresponding Deck (switches off all "
-"LEDs and the controller will not send MIDI signals to control Mixxx). This "
-"allows the mixer to use an external source."
+"{hwlabel}`LINE/PHONO` will disable the corresponding Deck (switches off all "
+"LEDs and the controller will not send MIDI signals to control Mixxx)."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:5
+#: ../../hardware/controllers/denon_mc7000.md:145
+msgid "This allows the mixer to use an external source."
+msgstr ""
+
+#: ../../hardware/controllers/denon_mc7000.md:147
 msgid ""
-":hwlabel:`USB` will turn the corresponding Deck on and allows to control "
+"{hwlabel}`USB` will turn the corresponding Deck on and allows to control "
 "Mixxx via USB connection."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:148
 msgid "2"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`USB1 / USB2`"
+#: ../../hardware/controllers/denon_mc7000.md:149
+msgid "{hwlabel}`USB1 / USB2`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:150
 msgid ""
 "Press to select whether the deck is controlling the computer connected to "
 "USB Port 1 or USB Port 2. If only one USB Port is connected the controller "
 "activates this automatically."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:151
 msgid "3"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`LEVEL`"
+#: ../../hardware/controllers/denon_mc7000.md:152
+msgid "{hwlabel}`LEVEL`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:153
 msgid ""
 "Turn to adjust the level of the pre-fader, pre-EQ audio signal for the "
 "channel."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:154
 msgid "4"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:155
 msgid "Channel Level Meters"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:156
 msgid "Display the audio signal level of the channel as in Mixxx GUI."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:157
 msgid "5"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:158
 msgid "Channel EQ"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:159
 msgid ""
-"Turn to boost or cut the :hwlabel:`HI`, :hwlabel:`MID` and :hwlabel:`LOW` "
+"Turn to boost or cut the {hwlabel}`HI`, {hwlabel}`MID` and {hwlabel}`LOW` "
 "frequencies for the channel."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:160
 msgid "6"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`FILTER`"
+#: ../../hardware/controllers/denon_mc7000.md:161
+msgid "{hwlabel}`FILTER`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:162
 msgid ""
 "Turn this knob to adjust the filter applied to the channel. Turn the knob "
 "counterclockwise to apply a low-pass filter. Turn the knob clockwise to "
 "apply a high-pass Filter."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:163
 msgid "7"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`CUE`"
+#: ../../hardware/controllers/denon_mc7000.md:164
+#: ../../hardware/controllers/denon_mc7000.md:348
+#: ../../hardware/controllers/denon_mc7000.md:481
+msgid "{hwlabel}`CUE`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:165
 msgid ""
-"Press to send the channel’s pre-fader signal to the headphones’ cue channel."
+"Press to send the channel's pre-fader signal to the headphones' cue channel."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:166
 msgid "8"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:167
 msgid "Channel fader"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid "Use to adjust the channel’s volume level."
+#: ../../hardware/controllers/denon_mc7000.md:168
+msgid "Use to adjust the channel's volume level."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:169
 msgid "9"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:170
 msgid "Crossfader Assign"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:171
 msgid ""
 "Routes the audio playing on the corresponding channel to either side of the "
-"crossfader (:hwlabel:`A` or :hwlabel:`B`), or bypasses the crossfader and "
-"sends the audio directly to the program mix (:hwlabel:`THRU`)."
+"crossfader ({hwlabel}`A` or {hwlabel}`B`), or bypasses the crossfader and "
+"sends the audio directly to the program mix ({hwlabel}`THRU`)."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:172
 msgid "10"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:173
 msgid "Crossfader"
 msgstr "推杆"
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:174
 msgid "Use this crossfader to mix between the left and right decks."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:175
 msgid "12"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SAMPLER LEVEL`"
+#: ../../hardware/controllers/denon_mc7000.md:176
+msgid "{hwlabel}`SAMPLER LEVEL`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:177
 msgid ""
-"Turn this knob to adjust the volume level of the software’s sampler. If the "
+"Turn this knob to adjust the volume level of the software's sampler. If the "
 "volume is set to 0 then the Sampler banks are hidden, otherwise shown."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:178
 msgid "13"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:179
 msgid "Main Level Meters"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:180
 msgid "These LEDs show the Main Audio signal."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:181
 msgid "14"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`MASTER LEVEL`"
+#: ../../hardware/controllers/denon_mc7000.md:182
+msgid "{hwlabel}`MASTER LEVEL`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:183
 msgid "Turn to adjust the volume level of the main outputs."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:184
 msgid "15"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`BOOTH LEVEL`"
+#: ../../hardware/controllers/denon_mc7000.md:185
+msgid "{hwlabel}`BOOTH LEVEL`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:186
 msgid "Turn to adjust the volume level of the booth outputs."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:187
 msgid "20"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`PHONES LEVEL`"
+#: ../../hardware/controllers/denon_mc7000.md:188
+msgid "{hwlabel}`PHONES LEVEL`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:189
 msgid "Turn to adjust the volume level of the headphones."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:190
 msgid "21"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`PHONES MIX`"
+#: ../../hardware/controllers/denon_mc7000.md:191
+msgid "{hwlabel}`PHONES MIX`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:192
 msgid ""
-"Adjusts the software’s audio output to the headphones, mixing between the "
+"Adjusts the software's audio output to the headphones, mixing between the "
 "cue output and the main mix output."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:193
 msgid "22"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SPLIT`"
+#: ../../hardware/controllers/denon_mc7000.md:194
+msgid "{hwlabel}`SPLIT`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:195
 msgid ""
 "Press to switch Headphone 'split' mode. When this switch is lit, the "
 "headphone audio will be 'split' such that all channels sent to cue channel "
@@ -615,744 +626,768 @@ msgid ""
 "the cue channel and main mix will be 'blended' together."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:196
 msgid "59"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`X FADER CONTOUR`"
+#: ../../hardware/controllers/denon_mc7000.md:197
+msgid "{hwlabel}`X FADER CONTOUR`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:198
 msgid ""
 "Turn to adjust the slope of the crossfader curve, to the left for a smooth "
 "fade (mixing) or to the right for a sharp cut (scratching."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:146
+#: ../../hardware/controllers/denon_mc7000.md:201
 msgid ""
-"The Input source selection, Main Level Meters, :hwlabel:`USB1 / USB2`, "
-":hwlabel:`MASTER LEVEL`, :hwlabel:`BOOTH LEVEL`, :hwlabel:`PHONES LEVEL`, "
-":hwlabel:`PHONES MIX` and :hwlabel:`SPLIT` are handled by the controller. "
-"The status of Mixxx will not be changed."
+"The Input source selection, Main Level Meters, {hwlabel}`USB1 / USB2`, "
+"{hwlabel}`MASTER LEVEL`, {hwlabel}`BOOTH LEVEL`, {hwlabel}`PHONES LEVEL`, "
+"{hwlabel}`PHONES MIX` and {hwlabel}`SPLIT` are handled by the controller."
+"    The status of Mixxx will not be changed."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:151
+#: ../../hardware/controllers/denon_mc7000.md:204
 msgid "Microphone Section"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:213
 msgid "16"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`MIC ON/OFF`"
+#: ../../hardware/controllers/denon_mc7000.md:214
+msgid "{hwlabel}`MIC ON/OFF`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:215
 msgid "Press to activate/deactivate the microphones."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:216
 msgid "17"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`MIC LEVEL`"
+#: ../../hardware/controllers/denon_mc7000.md:217
+msgid "{hwlabel}`MIC LEVEL`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:218
 msgid ""
 "Turn to adjust the volume levels of the corresponding microphone inputs."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:219
+#: ../../hardware/controllers/denon_mc7000.md:222
+#: ../../hardware/controllers/denon_mc7000.md:225
 msgid "18"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`MIC 1 HI`/:hwlabel:`MIC 1 LOW` (left deck)"
+#: ../../hardware/controllers/denon_mc7000.md:220
+msgid "{hwlabel}`MIC 1 HI`/{hwlabel}`MIC 1 LOW` (left deck)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:221
 msgid "Turn to boost or cut the high or low frequencies for Microphone 1."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`MIC 2 TONE` (right deck)"
+#: ../../hardware/controllers/denon_mc7000.md:223
+msgid "{hwlabel}`MIC 2 TONE` (right deck)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:224
 msgid "Turn to adjust the tone (high-low) for Microphone 2."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`ECHO MIC 1&2` (right deck)"
+#: ../../hardware/controllers/denon_mc7000.md:226
+#: ../../hardware/controllers/denon_mc7000.md:235
+msgid "{hwlabel}`ECHO MIC 1&2` (right deck)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:227
 msgid "Turn to adjust the amount of the echo effect for both Microphones."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:228
+#: ../../hardware/controllers/denon_mc7000.md:231
+#: ../../hardware/controllers/denon_mc7000.md:234
 msgid "19"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`TALKOVER MIC 1&2` (left deck)"
+#: ../../hardware/controllers/denon_mc7000.md:229
+msgid "{hwlabel}`TALKOVER MIC 1&2` (left deck)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:230
 msgid ""
 "Press to use the 'talkover' feature, which automatically reduces the volume "
 "level of the main mix when you speak into the microphones."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SHIFT` + :hwlabel:`TALKOVER MIC 1&2` (left deck)"
+#: ../../hardware/controllers/denon_mc7000.md:232
+msgid "{hwlabel}`SHIFT` + {hwlabel}`TALKOVER MIC 1&2` (left deck)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:233
 msgid ""
 "Press to activate/deactivate the 'Post' feature. When on, the microphones "
 "signal will be sent to the Booth Outputs. When off, the microphones signal "
 "will not be routed to the Booth Outputs."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:236
 msgid ""
 "Press this button to activate or deactivate the echo effect on the "
-"microphones’ audio signal."
+"microphones' audio signal."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:167
+#: ../../hardware/controllers/denon_mc7000.md:239
 msgid ""
-"All functions are handled by the controller in hardware. The status of Mixxx"
-" will not be changed."
+"All functions are handled by the controller in hardware.    The status of "
+"Mixxx will not be changed."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:172
+#: ../../hardware/controllers/denon_mc7000.md:242
 msgid "FX Section"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:251
 msgid "11"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`FX ASSIGN`"
+#: ../../hardware/controllers/denon_mc7000.md:252
+msgid "{hwlabel}`FX ASSIGN`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:253
 msgid ""
-"Press assign :hwlabel:`FX 1` and/or :hwlabel:`FX 2` to the corresponding "
+"Press assign {hwlabel}`FX 1` and/or {hwlabel}`FX 2` to the corresponding "
 "channel."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:254
+#: ../../hardware/controllers/denon_mc7000.md:257
 msgid "55"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`FX ON`"
+#: ../../hardware/controllers/denon_mc7000.md:255
+msgid "{hwlabel}`FX ON`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:256
 msgid "Press to turn the corresponding effect on or off."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SHIFT` + :hwlabel:`FX ON`"
+#: ../../hardware/controllers/denon_mc7000.md:258
+msgid "{hwlabel}`SHIFT` + {hwlabel}`FX ON`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:259
 msgid ""
 "Press to select an effect from the list that was enabled in the Mixxx "
 "Preferences FX section."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:260
 msgid "56"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`FX 1`, :hwlabel:`FX 2`, :hwlabel:`FX 3`"
+#: ../../hardware/controllers/denon_mc7000.md:261
+msgid "{hwlabel}`FX 1`, {hwlabel}`FX 2`, {hwlabel}`FX 3`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:262
 msgid ""
-"Turn to adjust the level of the corresponding effect. The :hwlabel:`FX ON` "
+"Turn to adjust the level of the corresponding effect. The {hwlabel}`FX ON` "
 "button under the knob must be lit for this knob to function."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:263
 msgid "57"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`FX BEATS`"
+#: ../../hardware/controllers/denon_mc7000.md:264
+msgid "{hwlabel}`FX BEATS`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:265
 msgid "Turn to adjust the Wet/Dry rate of the effects."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:266
+#: ../../hardware/controllers/denon_mc7000.md:269
 msgid "58"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`FX TAP`"
+#: ../../hardware/controllers/denon_mc7000.md:267
+msgid "{hwlabel}`FX TAP`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:268
 msgid ""
 "Press to activate effects for the Main output. This can be overlapped with "
 "Channel Effects."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SHIFT` + :hwlabel:`FX TAP`"
+#: ../../hardware/controllers/denon_mc7000.md:270
+msgid "{hwlabel}`SHIFT` + {hwlabel}`FX TAP`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:271
 msgid "Press to activate effects for headphones cue."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:188
+#: ../../hardware/controllers/denon_mc7000.md:273
 msgid "Library Section"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:282
+#: ../../hardware/controllers/denon_mc7000.md:287
 msgid "48"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SELECT/LOAD`"
+#: ../../hardware/controllers/denon_mc7000.md:283
+msgid "{hwlabel}`SELECT/LOAD`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:284
 msgid ""
 "Turn to navigate through lists. Press the left side button to load a track "
 "into the active Deck (1 or 3), press the right side button to load a track "
 "into the active Deck (2 or 4)."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:3
+#: ../../hardware/controllers/denon_mc7000.md:286
 msgid ""
 "When you keep the knob pressed down longer than 0,5 sec an actual loaded "
 "track will be ejected from the deck upon release of the knob."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SHIFT` + :hwlabel:`SELECT/LOAD`"
+#: ../../hardware/controllers/denon_mc7000.md:288
+msgid "{hwlabel}`SHIFT` + {hwlabel}`SELECT/LOAD`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:289
 msgid ""
 "Turn to browse quickly through the tracks in the library or push the knob to"
 " open folders on the left side of the library."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:290
 msgid "49"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SORT`"
+#: ../../hardware/controllers/denon_mc7000.md:291
+msgid "{hwlabel}`SORT`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:292
 msgid "Press and hold to activate sort functions."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:293
+#: ../../hardware/controllers/denon_mc7000.md:296
+#: ../../hardware/controllers/denon_mc7000.md:299
 msgid "50"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`BACK`"
+#: ../../hardware/controllers/denon_mc7000.md:294
+msgid "{hwlabel}`BACK`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:295
 msgid "Press to switch between right and left side of the library."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SHIFT` + :hwlabel:`BACK`"
+#: ../../hardware/controllers/denon_mc7000.md:297
+msgid "{hwlabel}`SHIFT` + {hwlabel}`BACK`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:298
 msgid "Press to move through frames inside the GUI."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SORT` + :hwlabel:`BACK`"
+#: ../../hardware/controllers/denon_mc7000.md:300
+msgid "{hwlabel}`SORT` + {hwlabel}`BACK`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:301
 msgid "Press to sort the tracks by Beats Per Minute."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:302
+#: ../../hardware/controllers/denon_mc7000.md:305
+#: ../../hardware/controllers/denon_mc7000.md:308
 msgid "51"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`L.PREP`"
+#: ../../hardware/controllers/denon_mc7000.md:303
+msgid "{hwlabel}`L.PREP`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:304
 msgid "Press to load the currently selected track to the Preview Deck."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SHIFT` + :hwlabel:`L.PREP`"
+#: ../../hardware/controllers/denon_mc7000.md:306
+msgid "{hwlabel}`SHIFT` + {hwlabel}`L.PREP`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:307
 msgid "Press to start and stop playing the track in Preview Deck."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SORT` + :hwlabel:`L.PREP`"
+#: ../../hardware/controllers/denon_mc7000.md:309
+msgid "{hwlabel}`SORT` + {hwlabel}`L.PREP`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:310
 msgid "Press to sort the tracks by their Key."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:311
+#: ../../hardware/controllers/denon_mc7000.md:316
 msgid "52"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`FILES`"
+#: ../../hardware/controllers/denon_mc7000.md:312
+msgid "{hwlabel}`FILES`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:313
 msgid ""
 "Press to maximize the library. Press this button again to exit maximized "
 "library."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:3
+#: ../../hardware/controllers/denon_mc7000.md:315
 msgid ""
 "While the library is maximized you can use the jog wheel to navigate quickly"
 " through lists."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SORT` + :hwlabel:`FILES`"
+#: ../../hardware/controllers/denon_mc7000.md:317
+msgid "{hwlabel}`SORT` + {hwlabel}`FILES`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:318
 msgid "Press to sort the tracks by Artist."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:319
+#: ../../hardware/controllers/denon_mc7000.md:322
 msgid "53"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`PANEL`"
+#: ../../hardware/controllers/denon_mc7000.md:320
+msgid "{hwlabel}`PANEL`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:321
 msgid "Press to open and close the FX panel inside the GUI."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SORT` + :hwlabel:`PANEL`"
+#: ../../hardware/controllers/denon_mc7000.md:323
+msgid "{hwlabel}`SORT` + {hwlabel}`PANEL`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:324
 msgid "Press to sort the tracks by Title."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:214
+#: ../../hardware/controllers/denon_mc7000.md:326
 msgid "Deck Section"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:335
+#: ../../hardware/controllers/denon_mc7000.md:338
 msgid "23"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`DECK`"
+#: ../../hardware/controllers/denon_mc7000.md:336
+msgid "{hwlabel}`DECK`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:337
 msgid ""
 "Selects which deck in the software is controlled by that hardware deck. The "
 "left deck can control Deck 1 or 3; the right deck can control Deck 1 or 4."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SHIFT` + :hwlabel:`DECK`"
+#: ../../hardware/controllers/denon_mc7000.md:339
+msgid "{hwlabel}`SHIFT` + {hwlabel}`DECK`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:340
 msgid ""
-"Press to switch Platter Ring LED Mode. Refer to the :ref:`LEDs "
+"Press to switch Platter Ring LED Mode. Refer to the {ref}`LEDs "
 "section<denon_mc7000_led>` for details."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:341
 msgid "24"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SHIFT`"
+#: ../../hardware/controllers/denon_mc7000.md:342
+msgid "{hwlabel}`SHIFT`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:343
 msgid ""
 "Press and hold this button to access secondary functions of other controls."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:344
 msgid "25"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SYNC`"
+#: ../../hardware/controllers/denon_mc7000.md:345
+msgid "{hwlabel}`SYNC`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:346
 msgid ""
-"Press to automatically match the corresponding deck’s :term:`tempo` with the"
+"Press to automatically match the corresponding deck's {term}`tempo` with the"
 " tempo and phase of the opposite deck. Press again to deactivate Sync. Hold "
 "this button down for one sec to permanently match the tempo."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:347
+#: ../../hardware/controllers/denon_mc7000.md:354
 msgid "26"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:349
 msgid ""
 "If a cue point is not set then press this button to set it at the current "
 "track position."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:3
+#: ../../hardware/controllers/denon_mc7000.md:351
 msgid ""
 "During playback, press this button to return the track to the cue point."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:5
+#: ../../hardware/controllers/denon_mc7000.md:353
 msgid ""
 "If the deck is paused, press and hold this button to play the track from the"
 " cue point. Release the button to return the track to the cue point and "
 "pause it. To continue playback without returning to the cue point, press and"
-" hold this button and then press the :hwlabel:`PLAY` button, afterwards "
+" hold this button and then press the {hwlabel}`PLAY` button, afterwards "
 "release cue button."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SHIFT` + :hwlabel:`CUE`"
+#: ../../hardware/controllers/denon_mc7000.md:355
+msgid "{hwlabel}`SHIFT` + {hwlabel}`CUE`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:356
 msgid "Press to return to the start of the track."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:357
+#: ../../hardware/controllers/denon_mc7000.md:360
 msgid "27"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`PLAY / PAUSE`"
+#: ../../hardware/controllers/denon_mc7000.md:358
+msgid "{hwlabel}`PLAY / PAUSE`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:359
 msgid ""
 "Press to pause or resume playback. Start/Stop time can be adjusted with stop"
 " time knob."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SHIFT` + :hwlabel:`PLAY / PAUSE`"
+#: ../../hardware/controllers/denon_mc7000.md:361
+msgid "{hwlabel}`SHIFT` + {hwlabel}`PLAY / PAUSE`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:362
 msgid "Press to stutter play the track from the last set cue point."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:363
+#: ../../hardware/controllers/denon_mc7000.md:370
 msgid "28"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:364
 msgid "Jog Wheel"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid "Controls the audio playhead when the wheel is touched and moved."
+#: ../../hardware/controllers/denon_mc7000.md:365
+msgid ""
+"Controls the audio playhead when the wheel is touched and moved. When the "
+"{hwlabel}`VINYL` button is lit, move the platter to 'scratch' the track as "
+"you would with a vinyl record."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:3
+#: ../../hardware/controllers/denon_mc7000.md:367
 msgid ""
-"When the :hwlabel:`VINYL` button is lit, move the platter to 'scratch' the "
-"track as you would with a vinyl record."
-msgstr ""
-
-#: ../../hardware/controllers/denon_mc7000.rst:5
-msgid ""
-"When the :hwlabel:`VINYL` button is unlit (or if you are touching only the "
-"side of the platter), move the platter to temporarily adjust the track’s "
+"When the {hwlabel}`VINYL` button is unlit (or if you are touching only the "
+"side of the platter), move the platter to temporarily adjust the track's "
 "speed."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:7
+#: ../../hardware/controllers/denon_mc7000.md:369
 msgid ""
-"If the library is maximized (use :hwlabel:`FILES` button) turning the jog "
+"If the library is maximized (use {hwlabel}`FILES` button) turning the jog "
 "wheel will scroll the current table view (currently playing track is not "
 "affected). Be careful though: after exiting the maximized library view the "
 "jog wheel will immediately return to jog or scratch mode."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SHIFT` + Jog Wheel"
+#: ../../hardware/controllers/denon_mc7000.md:371
+msgid "{hwlabel}`SHIFT` + Jog Wheel"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:372
 msgid ""
 "Navigates quickly through the track. This only applies if touching the side "
-"of the platter or with :hwlabel:`VINYL` deactivated."
+"of the platter or with {hwlabel}`VINYL` deactivated."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:373
 msgid "29"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`STOP TIME`"
+#: ../../hardware/controllers/denon_mc7000.md:374
+msgid "{hwlabel}`STOP TIME`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:375
 msgid ""
 "Controls the rate at which the track slows to a complete stop ('brake time')"
 " during backspin. This also affects how quickly the track starts after a "
 "backspin ('Soft Start')."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:376
 msgid "30"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`VINYL`"
+#: ../../hardware/controllers/denon_mc7000.md:377
+msgid "{hwlabel}`VINYL`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:378
 msgid ""
 "Press to activate/deactivate a 'vinyl mode' for the platter. When activated,"
 " you can use the platter to 'scratch' the track as you would with a vinyl "
 "record."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:379
 msgid "31"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:380
 msgid "Pitch Fader"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:381
 msgid "Move to adjust the speed (pitch) of the track."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:382
+#: ../../hardware/controllers/denon_mc7000.md:385
 msgid "32"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`PITCH BEND –/+`"
+#: ../../hardware/controllers/denon_mc7000.md:383
+msgid "{hwlabel}`PITCH BEND –/+`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:384
 msgid "Press to momentarily reduce or increase the speed of the track."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SHIFT` + :hwlabel:`PITCH BEND –/+`"
+#: ../../hardware/controllers/denon_mc7000.md:386
+msgid "{hwlabel}`SHIFT` + {hwlabel}`PITCH BEND –/+`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:387
 msgid ""
 "Press to set the Pitch Fader range. You may adjust the steps in "
-":ref:`JavaScript file<denon_mc7000_uservariables>`"
+"{ref}`JavaScript file<denon_mc7000_uservariables>`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:388
+#: ../../hardware/controllers/denon_mc7000.md:391
 msgid "33"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`KEY LOCK`"
+#: ../../hardware/controllers/denon_mc7000.md:389
+msgid "{hwlabel}`KEY LOCK`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:390
 msgid ""
 "Press to activate/deactivate Key Lock. When Key Lock is activated, the "
-"track’s key will remain the same even if you adjust its speed."
+"track's key will remain the same even if you adjust its speed."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SHIFT` + :hwlabel:`KEY LOCK`"
+#: ../../hardware/controllers/denon_mc7000.md:392
+msgid "{hwlabel}`SHIFT` + {hwlabel}`KEY LOCK`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:393
 msgid ""
-"Press to automatically match the corresponding deck’s key with the key of "
+"Press to automatically match the corresponding deck's key with the key of "
 "the opposite deck."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:394
+#: ../../hardware/controllers/denon_mc7000.md:397
 msgid "34"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`KEY SELECT/RESET`"
+#: ../../hardware/controllers/denon_mc7000.md:395
+msgid "{hwlabel}`KEY SELECT/RESET`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:396
 msgid ""
-"Turn to raise or lower the key of the track. Press to reset the track’s key "
+"Turn to raise or lower the key of the track. Press to reset the track's key "
 "to its original key."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SHIFT` + :hwlabel:`KEY SELECT/RESET`"
+#: ../../hardware/controllers/denon_mc7000.md:398
+msgid "{hwlabel}`SHIFT` + {hwlabel}`KEY SELECT/RESET`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:399
 msgid ""
 "Turn to zoom in and out the waveform or push the knob to reset the Waveform "
 "zoom to the level set in preferences."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:400
+#: ../../hardware/controllers/denon_mc7000.md:477
 msgid "35"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-#: ../../hardware/controllers/denon_mc7000.rst:282
+#: ../../hardware/controllers/denon_mc7000.md:401
+#: ../../hardware/controllers/denon_mc7000.md:466
+#: ../../hardware/controllers/denon_mc7000.md:478
 msgid "Performance Pads"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:402
 msgid ""
-"refer to the :ref:`Performance Pads section<denon_mc7000_pad>` for details."
+"refer to the {ref}`Performance Pads section<denon_mc7000_pad>` for details."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:403
+#: ../../hardware/controllers/denon_mc7000.md:406
 msgid "40"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`AUTO LOOP`"
+#: ../../hardware/controllers/denon_mc7000.md:404
+msgid "{hwlabel}`AUTO LOOP`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:405
 msgid ""
 "Press to create an auto-loop with the length set with loop length. You may "
-"change the length of beats by using the :hwlabel:`X1/2` or :hwlabel:`X2` "
+"change the length of beats by using the {hwlabel}`X1/2` or {hwlabel}`X2` "
 "buttons."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SHIFT` + :hwlabel:`AUTO LOOP`"
+#: ../../hardware/controllers/denon_mc7000.md:407
+msgid "{hwlabel}`SHIFT` + {hwlabel}`AUTO LOOP`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:408
 msgid ""
 "Press to toggle the current loop on or off. If the loop is ahead of the "
 "current play position, the track will keep playing normally until it reaches"
 " the loop."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:409
+#: ../../hardware/controllers/denon_mc7000.md:412
 msgid "41"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`X1/2`"
+#: ../../hardware/controllers/denon_mc7000.md:410
+msgid "{hwlabel}`X1/2`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:411
 msgid "Press to halve the length of the current loop."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SHIFT` + :hwlabel:`X1/2`"
+#: ../../hardware/controllers/denon_mc7000.md:413
+msgid "{hwlabel}`SHIFT` + {hwlabel}`X1/2`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:414
 msgid "Press to create a loop in point at the current Location."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:415
+#: ../../hardware/controllers/denon_mc7000.md:418
 msgid "42"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`X2`"
+#: ../../hardware/controllers/denon_mc7000.md:416
+msgid "{hwlabel}`X2`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:417
 msgid "Press to double the length of the current loop."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SHIFT` + :hwlabel:`X2`"
+#: ../../hardware/controllers/denon_mc7000.md:419
+msgid "{hwlabel}`SHIFT` + {hwlabel}`X2`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:420
 msgid "Press to create a loop out point at the current Location."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:421
+#: ../../hardware/controllers/denon_mc7000.md:424
 msgid "43"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`</> PARAM 1 2`"
+#: ../../hardware/controllers/denon_mc7000.md:422
+msgid "{hwlabel}`</> PARAM 1 2`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:423
 msgid "Press to add/remove rating stars to the loaded track."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SHIFT` + :hwlabel:`</> PARAM 1 2`"
+#: ../../hardware/controllers/denon_mc7000.md:425
+msgid "{hwlabel}`SHIFT` + {hwlabel}`</> PARAM 1 2`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:426
 msgid "Press to change the track color in the library."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:427
 msgid "44"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SLIP`"
+#: ../../hardware/controllers/denon_mc7000.md:428
+msgid "{hwlabel}`SLIP`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:429
 msgid ""
 "Press to enable or disable Slip Mode. In Slip Mode, you can jump to cue "
-"points, trigger loops or use the platters, while the track’s timeline "
+"points, trigger loops or use the platters, while the track's timeline "
 "continues. In other words, when you deactivate Slip Mode, the track will "
-"resume normal playback from where it would have been if you had never done "
+"resume normal  playback from where it would have been if you had never done "
 "anything (i.e., as if the track had been playing forward the whole time)."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:3
+#: ../../hardware/controllers/denon_mc7000.md:431
 msgid ""
 "After scratch, hot cue play, reverse play and backspin the slip mode "
 "releases itself so the timeline of the track jumps back to original position"
@@ -1360,292 +1395,302 @@ msgid ""
 "can continue with more actions in slip mode almost immediately after."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:432
+#: ../../hardware/controllers/denon_mc7000.md:437
 msgid "45"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`CENSOR`"
+#: ../../hardware/controllers/denon_mc7000.md:433
+msgid "{hwlabel}`CENSOR`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:434
 msgid ""
-"Press and hold this button to play the track in :hwlabel:`REVERSE`. When "
+"Press and hold this button to play the track in {hwlabel}`REVERSE`. When "
 "releasing the button, the track immediately starts playing from it's "
 "momentary position."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:3
+#: ../../hardware/controllers/denon_mc7000.md:436
 msgid ""
-"If :hwlabel:`SLIP` was active then after releasing the :hwlabel:`CENSOR` "
+"If {hwlabel}`SLIP` was active then after releasing the {hwlabel}`CENSOR` "
 "button the track continues as it had been playing forward the whole time "
-"(:hwlabel:`CENSOR`). Slip mode stays enabled so you can continue with more "
+"({hwlabel}`CENSOR`). Slip mode stays enabled so you can continue with more "
 "actions in slip mode."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SHIFT` + :hwlabel:`CENSOR`"
+#: ../../hardware/controllers/denon_mc7000.md:438
+msgid "{hwlabel}`SHIFT` + {hwlabel}`CENSOR`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:439
 msgid ""
-"Press to activate a backspin with the length set by the :hwlabel:`STOP TIME`"
+"Press to activate a backspin with the length set by the {hwlabel}`STOP TIME`"
 " knob."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:3
+#: ../../hardware/controllers/denon_mc7000.md:441
 msgid ""
-"If :hwlabel:`SLIP` was active then after releasing the :hwlabel:`CENSOR` "
+"If {hwlabel}`SLIP` was active then after releasing the {hwlabel}`CENSOR` "
 "button the track continues as it had been playing forward the whole time. "
 "Slip mode stays enabled so you can continue with more actions in slip mode."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:442
+#: ../../hardware/controllers/denon_mc7000.md:445
 msgid "46"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`BEAT GRID ADJUST`"
+#: ../../hardware/controllers/denon_mc7000.md:443
+msgid "{hwlabel}`BEAT GRID ADJUST`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:444
 msgid "Press to adjust the Beat Grid to the current play position."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SHIFT` + :hwlabel:`BEAT GRID ADJUST`"
+#: ../../hardware/controllers/denon_mc7000.md:446
+msgid "{hwlabel}`SHIFT` + {hwlabel}`BEAT GRID ADJUST`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:447
 msgid "Press to activate Quantize mode."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:448
 msgid "47"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`BEAT GRID SLIDE`"
+#: ../../hardware/controllers/denon_mc7000.md:449
+msgid "{hwlabel}`BEAT GRID SLIDE`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:450
 msgid "Press to adjust the Beat Grid to another playing track."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:451
+#: ../../hardware/controllers/denon_mc7000.md:454
 msgid "54"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`NEEDLE DROP`"
+#: ../../hardware/controllers/denon_mc7000.md:452
+msgid "{hwlabel}`NEEDLE DROP`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:453
 msgid ""
 "Place your finger on a point along this sensor to jump to that point in the "
 "track (strip represents entire track)."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SHIFT` + :hwlabel:`NEEDLE DROP`"
+#: ../../hardware/controllers/denon_mc7000.md:455
+msgid "{hwlabel}`SHIFT` + {hwlabel}`NEEDLE DROP`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:456
 msgid "Press to jump to a position while a track is currently playing."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:274
+#: ../../hardware/controllers/denon_mc7000.md:459
 msgid ""
 "The jog sensitivity and scratch parameters (28), the default vinyl mode "
 "(30), the pitch fader ranges (32) as well as the needle drop activity (54) "
-"can be set by modifying the variables inside the :ref:`JavaScript "
+"can be set by modifying the variables inside the {ref}`JavaScript "
 "file<denon_mc7000_uservariables>` accordingly."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:277
+#: ../../hardware/controllers/denon_mc7000.md:462
 msgid ""
-"Use :hwlabel:`SHIFT` + :hwlabel:`CENSOR` for a backspin while "
-":hwlabel:`SLIP` is active. Backspin using the platter is only possible while"
-" :hwlabel:`SLIP` is disabled."
+"Use {hwlabel}`SHIFT` + {hwlabel}`CENSOR` for a backspin while "
+"{hwlabel}`SLIP` is active. Backspin using the platter is only possible while"
+" {hwlabel}`SLIP` is disabled."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:285
+#: ../../hardware/controllers/denon_mc7000.md:468
 msgid "Mode Selection"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:479
 msgid "Press to perform action with one of those buttons."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:480
 msgid "36"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:482
 msgid "Press to switch to **'Hot Cue'** mode."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:483
+#: ../../hardware/controllers/denon_mc7000.md:486
 msgid "37"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`ROLL`"
+#: ../../hardware/controllers/denon_mc7000.md:484
+msgid "{hwlabel}`ROLL`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:485
 msgid "Press to switch to **'Roll'** mode."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SAVED LOOP`"
+#: ../../hardware/controllers/denon_mc7000.md:487
+msgid "{hwlabel}`SAVED LOOP`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid "Press :hwlabel:`ROLL` one more time to get into **'Fixed Loop'** mode."
+#: ../../hardware/controllers/denon_mc7000.md:488
+msgid "Press {hwlabel}`ROLL` one more time to get into **'Fixed Loop'** mode."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:489
 msgid "38"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SLICER`"
+#: ../../hardware/controllers/denon_mc7000.md:490
+msgid "{hwlabel}`SLICER`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:491
 msgid "Press to switch to **'Beatjump'** mode."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:492
+#: ../../hardware/controllers/denon_mc7000.md:495
+#: ../../hardware/controllers/denon_mc7000.md:498
 msgid "39"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`SAMPLER`"
+#: ../../hardware/controllers/denon_mc7000.md:493
+msgid "{hwlabel}`SAMPLER`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:494
 msgid "Press to switch to **'Sampler'** mode."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`VELSAMPLER`"
+#: ../../hardware/controllers/denon_mc7000.md:496
+msgid "{hwlabel}`VELSAMPLER`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:497
 msgid "Press to switch to **'VelocitySampler'** mode."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
-msgid ":hwlabel:`PITCHPLAY`"
+#: ../../hardware/controllers/denon_mc7000.md:499
+msgid "{hwlabel}`PITCHPLAY`"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:1
+#: ../../hardware/controllers/denon_mc7000.md:500
 msgid "Press with shift to switch to **'Pitch Play'** mode."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:302
+#: ../../hardware/controllers/denon_mc7000.md:502
 msgid "Hot Cue Mode (blue LED)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:304
+#: ../../hardware/controllers/denon_mc7000.md:504
 msgid "8 Hot Cue positions can be defined in this mode."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:306
+#: ../../hardware/controllers/denon_mc7000.md:0
 msgid "Press one of the pad buttons to set or play a Hot Cue."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:307
-msgid "Use :hwlabel:`SHIFT` + pad button to delete an existing Hot Cue."
+#: ../../hardware/controllers/denon_mc7000.md:0
+msgid "Use {hwlabel}`SHIFT` + pad button to delete an existing Hot Cue."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:308
+#: ../../hardware/controllers/denon_mc7000.md:0
 msgid ""
-"If :hwlabel:`SLIP` is active then press and hold a pad button to play from "
+"If {hwlabel}`SLIP` is active then press and hold a pad button to play from "
 "the Hot Cue position. After releasing the Hot Cue button the track continues"
-" as it had been playing forward the whole time. Slip mode stays enabled so "
-"you can continue with more actions in slip mode."
+" as it had been playing forward the whole time."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst-1
+#: ../../hardware/controllers/denon_mc7000.md:0
+msgid ""
+"Slip mode stays enabled so you can continue with more actions in slip mode."
+msgstr ""
+
+#: ../../hardware/controllers/denon_mc7000.md:513
 msgid "Denon MC7000 CUE Mode"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:316
+#: ../../hardware/controllers/denon_mc7000.md:519
 msgid "Roll Mode (turquoise LED)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:318
+#: ../../hardware/controllers/denon_mc7000.md:0
 msgid ""
 "This mode lets you repeat a number of beats while keep pushing a pad button "
 "down."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:319
+#: ../../hardware/controllers/denon_mc7000.md:0
 msgid ""
-"The :hwlabel:`SLIP` function remains active so that the track continues at "
+"The {hwlabel}`SLIP` function remains active so that the track continues at "
 "the position where it had been playing forward the whole time."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst-1
+#: ../../hardware/controllers/denon_mc7000.md:526
 msgid "Denon MC7000 ROLL Mode"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:327
+#: ../../hardware/controllers/denon_mc7000.md:532
 msgid "Fixed Loop Mode (yellow LED)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:329
+#: ../../hardware/controllers/denon_mc7000.md:0
 msgid "This mode lets you set a dedicated loop from current position."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:330
+#: ../../hardware/controllers/denon_mc7000.md:0
 msgid "Another push on the pad button will turn the loop off."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst-1
+#: ../../hardware/controllers/denon_mc7000.md:539
 msgid "Denon MC7000 FIXED LOOP Mode"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:339
+#: ../../hardware/controllers/denon_mc7000.md:546
 msgid "Beatjump Mode (red LED)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:341
+#: ../../hardware/controllers/denon_mc7000.md:548
 msgid ""
 "This mode lets you jump a number of beats while pushing a pad button once."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst-1
+#: ../../hardware/controllers/denon_mc7000.md:550
 msgid "Denon MC7000 BEATJUMP Mode"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:347
+#: ../../hardware/controllers/denon_mc7000.md:0
 msgid ""
-"Press and hold \":hwlabel:`SHIFT`\" and then push a pad button to jump even "
+"Press and hold \"{hwlabel}`SHIFT`\" and then push a pad button to jump even "
 "more beats."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:348
+#: ../../hardware/controllers/denon_mc7000.md:0
 msgid ""
 "16, 32, 64 and 128 forward on the upper row and backwards on the lower row."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:351
+#: ../../hardware/controllers/denon_mc7000.md:562
 msgid ""
-"If experimental features were set to `true` in the :ref:`JavaScript "
+"If experimental features were set to _true_ in the {ref}`JavaScript "
 "file<denon_mc7000_uservariables>` then the pad LEDs counting the beat "
 "**after** the main CUE point."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:354
+#: ../../hardware/controllers/denon_mc7000.md:564
 msgid "Sampler Mode (pink LED)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:356
-#: ../../hardware/controllers/denon_mc7000.rst:380
+#: ../../hardware/controllers/denon_mc7000.md:566
+#: ../../hardware/controllers/denon_mc7000.md:592
 msgid ""
 "As default 16 samplers can be used. 8 samplers can be triggered from Deck 1 "
 "and Deck 3 and 8 samplers can be triggered from Deck 2 and Deck 4. Deck 1 "
@@ -1653,57 +1698,53 @@ msgid ""
 " sampler 1 to 8 and Deck 4 will play sampler 9 to 16."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:359
-#: ../../hardware/controllers/denon_mc7000.rst:383
+#: ../../hardware/controllers/denon_mc7000.md:0
 msgid "Add samplers to the sampler bank pushing a pad button."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:360
-#: ../../hardware/controllers/denon_mc7000.rst:384
+#: ../../hardware/controllers/denon_mc7000.md:0
 msgid ""
 "If a sampler is loaded, then another push on the pad button will play the "
 "sampler from its Cue point."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:361
-#: ../../hardware/controllers/denon_mc7000.rst:385
+#: ../../hardware/controllers/denon_mc7000.md:0
 msgid ""
 "Push the pad button again while playing will replay the sampler from Cue "
 "point."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:362
-#: ../../hardware/controllers/denon_mc7000.rst:386
+#: ../../hardware/controllers/denon_mc7000.md:0
 msgid ""
 "When a sampler is started while another one is still playing, then the "
 "initial sampler stops and only the newly triggered sampler plays (single "
 "play)."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:364
-#: ../../hardware/controllers/denon_mc7000.rst:388
+#: ../../hardware/controllers/denon_mc7000.md:576
+#: ../../hardware/controllers/denon_mc7000.md:602
 msgid ""
-"Use :hwlabel:`SHIFT` + pad button to stop a sampler while playing or eject a"
+"Use {hwlabel}`SHIFT` + pad button to stop a sampler while playing or eject a"
 " sampler when stopped."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst-1
+#: ../../hardware/controllers/denon_mc7000.md:578
 msgid "Denon MC7000 SAMPLER Mode"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:371
-#: ../../hardware/controllers/denon_mc7000.rst:395
+#: ../../hardware/controllers/denon_mc7000.md:584
+#: ../../hardware/controllers/denon_mc7000.md:610
 msgid ""
 "To use default Mixxx behaviour and allow playing multiple samplers at the "
 "same time you can set the user variable ``MC7000.prevSamplerStop`` inside "
-"the :ref:`JavaScript file<denon_mc7000_uservariables>` to ``false``."
+"the {ref}`JavaScript file<denon_mc7000_uservariables>` to ``false``."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:374
+#: ../../hardware/controllers/denon_mc7000.md:586
 msgid "Velocity Sampler Mode (purple LED)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:376
+#: ../../hardware/controllers/denon_mc7000.md:588
 msgid ""
 "Velocity Sampler Mode is a mode where the velocity of the push on the pad "
 "determines the volume of the sampler played. A gentle push results in low "
@@ -1711,15 +1752,15 @@ msgid ""
 "behavior is equal to Sampler Mode."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst-1
+#: ../../hardware/controllers/denon_mc7000.md:604
 msgid "Denon MC7000 VELOCITY SAMPLER Mode"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:398
+#: ../../hardware/controllers/denon_mc7000.md:612
 msgid "Pitch Play Mode (green LED)"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:400
+#: ../../hardware/controllers/denon_mc7000.md:614
 msgid ""
 "Pitch Play Mode is a mode where the pad position determines the pitch of the"
 " deck played. After activating the Pitch, the pads light up in hotcue "
@@ -1728,104 +1769,104 @@ msgid ""
 "selected or created, this hotcue is used for Pitch Play."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:404
+#: ../../hardware/controllers/denon_mc7000.md:618
 msgid ""
 "During Pitch Play the range of pitch can be changed up or down using the "
 "param buttons."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:406
+#: ../../hardware/controllers/denon_mc7000.md:0
 msgid "start Pitch Play pushing a pad button after hotcue selection."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:407
+#: ../../hardware/controllers/denon_mc7000.md:0
 msgid ""
 "If the deck is playing, then another push on the pad button will start to "
 "play the deck with the assigned pitch from its Cue point."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:408
+#: ../../hardware/controllers/denon_mc7000.md:0
 msgid "To reset pitch press shift and pad button."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst-1
+#: ../../hardware/controllers/denon_mc7000.md:628
 msgid "Denon MC7000 PITCH PLAY Mode"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:420
+#: ../../hardware/controllers/denon_mc7000.md:636
 msgid "LEDs"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:422
+#: ../../hardware/controllers/denon_mc7000.md:638
 msgid ""
 "The Channel Volume Meters matches to the ones shown in Mixxx GUI. Only when "
 "clipping the red LED illuminates."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:424
+#: ../../hardware/controllers/denon_mc7000.md:640
 msgid ""
-"The :hwlabel:`MASTER LEVEL` meter is not correlated to Mixxx GUI as the "
+"The {hwlabel}`MASTER LEVEL` meter is not correlated to Mixxx GUI as the "
 "controller handles that in Hardware."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:426
+#: ../../hardware/controllers/denon_mc7000.md:642
 msgid ""
 "Button LEDs are fully mapped for the first function. As you press and hold "
-":hwlabel:`SHIFT` then the secondary functions have only got some flashing "
+"{hwlabel}`SHIFT` then the secondary functions have only got some flashing "
 "LEDs mapped, e.g. TAP and KEY SYNC, when activated."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:428
+#: ../../hardware/controllers/denon_mc7000.md:644
 msgid ""
-"Press :hwlabel:`SHIFT` + :hwlabel:`Deck` to switch Platter Ring LED Mode."
+"Press {hwlabel}`SHIFT` + {hwlabel}`Deck` to switch Platter Ring LED Mode."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:430
+#: ../../hardware/controllers/denon_mc7000.md:646
 msgid "Mode 0 - Single 'off' LED chase (all other LEDs are 'on')"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:431
+#: ../../hardware/controllers/denon_mc7000.md:647
 msgid "Mode 1 - Single 'on' LED chase (all other LEDs are 'off')"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:434
+#: ../../hardware/controllers/denon_mc7000.md:650
 msgid ""
-"The default mode can be set to ``0`` or ``1`` inside the :ref:`JavaScript "
+"The default mode can be set to ``0`` or ``1`` inside the {ref}`JavaScript "
 "file<denon_mc7000_uservariables>`."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:437
-msgid "Platter Ring LEDs are correlated with the :hwlabel:`VINYL` button."
+#: ../../hardware/controllers/denon_mc7000.md:652
+msgid "Platter Ring LEDs are correlated with the {hwlabel}`VINYL` button."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:439
+#: ../../hardware/controllers/denon_mc7000.md:654
 msgid ""
 "If vinyl mode is enabled, the LED imitates a turntable platter spinning at "
 "33.3 rpm."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:440
+#: ../../hardware/controllers/denon_mc7000.md:655
 msgid ""
 "If vinyl mode is disabled, the current track position is indicated by the "
 "Platter LEDs starting at the top."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:443
+#: ../../hardware/controllers/denon_mc7000.md:658
 msgid ""
 "The Platter Ring LEDs are not moving while the track position is 'negative'."
 " That means if the position is before the track starts then the position LED"
 " keeps staying at most up position."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:447
+#: ../../hardware/controllers/denon_mc7000.md:660
 msgid "Known Issues"
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:449
+#: ../../hardware/controllers/denon_mc7000.md:662
 msgid ""
 "Some Performance Pad modes are not available (Cue Loop, Flip, Slicer Loop)."
 msgstr ""
 
-#: ../../hardware/controllers/denon_mc7000.rst:450
+#: ../../hardware/controllers/denon_mc7000.md:663
 msgid "The Effect Units don't use Mixxx' Standard Effects Mapping"
 msgstr ""

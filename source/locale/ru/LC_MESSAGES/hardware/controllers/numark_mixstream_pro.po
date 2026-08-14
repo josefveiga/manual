@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mixxx 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-01 00:12+0200\n"
-"PO-Revision-Date: 2026-06-30 22:16+0000\n"
+"POT-Creation-Date: 2026-08-07 11:12+0200\n"
+"PO-Revision-Date: 2026-07-01 20:14+0000\n"
 "Last-Translator: Daniel Schürmann <daschuer@mixxx.org>, 2026\n"
 "Language-Team: Russian (https://app.transifex.com/mixxx-dj-software/teams/7734/ru/)\n"
 "MIME-Version: 1.0\n"
@@ -21,39 +21,38 @@ msgstr ""
 "Language: ru\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:2
+#: ../../hardware/controllers/numark_mixstream_pro.md:1
 msgid "Numark Mixstream Pro"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:4
+#: ../../hardware/controllers/numark_mixstream_pro.md:3
 msgid ""
-"`Manufacturer’s product page <https://www.numark.com/product/mixstream-"
-"pro>`__"
+"[Manufacturer’s product page](https://www.numark.com/product/mixstream-pro)"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:5
+#: ../../hardware/controllers/numark_mixstream_pro.md:4
 msgid ""
-"`Manufacturer's User Manual "
-"<https://cdn.inmusicbrands.com/engine/43/Mixstream%20Pro%2C%20Mixstream%20Pro%2B%2C%20Mixstream%20Pro%20Go%20-%20User%20Guide%20-%20v4.3.0%202.pdf>`__"
+"[Manufacturer's User "
+"Manual](https://cdn.inmusicbrands.com/engine/43/Mixstream%20Pro%2C%20Mixstream%20Pro%2B%2C%20Mixstream%20Pro%20Go%20-%20User%20Guide%20-%20v4.3.0%202.pdf)"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:6
+#: ../../hardware/controllers/numark_mixstream_pro.md:5
 msgid ""
-"`Forum thread <https://mixxx.discourse.group/t/numark-mixstream-pro-"
-"mapping/24858>`__"
+"[Forum thread](https://mixxx.discourse.group/t/numark-mixstream-pro-"
+"mapping/24858)"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:8
+#: ../../hardware/controllers/numark_mixstream_pro.md:7
 msgid ""
 "The Numark Mixstream Pro is a stand-alone DJ controller with integrated "
 "speakers and touchscreen."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:13
+#: ../../hardware/controllers/numark_mixstream_pro.md:12
 msgid "Compatibility"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:15
+#: ../../hardware/controllers/numark_mixstream_pro.md:14
 msgid ""
 "The Numark Mixstream Pro is a USB audio compliant device. It is fully "
 "compatible with Linux, Windows, and macOS. No proprietary driver is required"
@@ -61,555 +60,555 @@ msgid ""
 " the manufacturers product page."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:22
+#: ../../hardware/controllers/numark_mixstream_pro.md:20
 msgid "Computer Mode"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:24
+#: ../../hardware/controllers/numark_mixstream_pro.md:22
 msgid ""
 "You will need to enter computer mode before you can use your controller with"
 " Mixxx."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:26
+#: ../../hardware/controllers/numark_mixstream_pro.md:24
 msgid ""
 "Turn on the controller and press the **Control Center** button, swipe down "
 "from the toolbar, or tap the gear icon to open the **Control Center**."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:27
+#: ../../hardware/controllers/numark_mixstream_pro.md:25
 msgid ""
 "Tap the **Source** icon, and then select the computer icon at the top of the"
 " display."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:28
+#: ../../hardware/controllers/numark_mixstream_pro.md:26
 msgid ""
 "It will ask you to confirm, select yes, and the controller will restart into"
 " **Computer Mode**."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:32
+#: ../../hardware/controllers/numark_mixstream_pro.md:29
 msgid "Audio routing"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:35
+#: ../../hardware/controllers/numark_mixstream_pro.md:34
 msgid "Output"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:35
-#: ../../hardware/controllers/numark_mixstream_pro.rst:44
+#: ../../hardware/controllers/numark_mixstream_pro.md:35
+#: ../../hardware/controllers/numark_mixstream_pro.md:48
 msgid "Channels"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:37
-#: ../../hardware/controllers/numark_mixstream_pro.rst:38
-msgid ":guilabel:`MIXSTREAM PRO Analog Surround 4.0`"
+#: ../../hardware/controllers/numark_mixstream_pro.md:36
+#: ../../hardware/controllers/numark_mixstream_pro.md:38
+msgid "{guilabel}`MIXSTREAM PRO Analog Surround 4.0`"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:37
-#: ../../hardware/controllers/numark_mixstream_pro.rst:46
+#: ../../hardware/controllers/numark_mixstream_pro.md:37
+#: ../../hardware/controllers/numark_mixstream_pro.md:50
 msgid "Channel 1 - 2"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:38
+#: ../../hardware/controllers/numark_mixstream_pro.md:39
 msgid "Channel 3 - 4"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:41
+#: ../../hardware/controllers/numark_mixstream_pro.md:42
 msgid "The speakers receive the main mix but also have a controllable volume."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:44
+#: ../../hardware/controllers/numark_mixstream_pro.md:47
 msgid "Input"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:46
-msgid ":guilabel:`MIXSTREAM PRO Analog Stereo`"
+#: ../../hardware/controllers/numark_mixstream_pro.md:49
+msgid "{guilabel}`MIXSTREAM PRO Analog Stereo`"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:49
+#: ../../hardware/controllers/numark_mixstream_pro.md:53
 msgid ""
 "There is a loopback mix available as a Mixxx input which includes the "
 "microphone input and mix."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:53
+#: ../../hardware/controllers/numark_mixstream_pro.md:56
 msgid "Feature differences"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:55
+#: ../../hardware/controllers/numark_mixstream_pro.md:58
 msgid ""
 "Features in Engine DJ OS on the Numark Mixstream Pro that are not available "
 "yet in Mixxx:"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:57
+#: ../../hardware/controllers/numark_mixstream_pro.md:60
 msgid ""
 "**Lighting Control**: Engine DJ OS is able to control compatible smart "
 "lighting systems."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:59
+#: ../../hardware/controllers/numark_mixstream_pro.md:62
 msgid ""
 "Features in Mixxx that are not available yet in Engine DJ OS on the Numark "
 "Mixstream Pro:"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:61
+#: ../../hardware/controllers/numark_mixstream_pro.md:64
 msgid ""
 "**Multiple FX at once**: Select up to 3 FX on the channel at once, "
 "configurable within the Mixxx FX panel."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:65
+#: ../../hardware/controllers/numark_mixstream_pro.md:67
 msgid "Configuration options"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:67
+#: ../../hardware/controllers/numark_mixstream_pro.md:69
 msgid ""
 "Configuration options can be set in the options when selecting the mapping."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:70
+#: ../../hardware/controllers/numark_mixstream_pro.md:74
 msgid "Option"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:70
+#: ../../hardware/controllers/numark_mixstream_pro.md:75
 msgid "Type"
 msgstr "Тип"
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:70
+#: ../../hardware/controllers/numark_mixstream_pro.md:76
 msgid "Explanation"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:72
-msgid "`SHIFT` + **Play** Behaviour"
+#: ../../hardware/controllers/numark_mixstream_pro.md:77
+msgid "{hwlabel}`SHIFT` + **Play** Behaviour"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:72
-#: ../../hardware/controllers/numark_mixstream_pro.rst:74
+#: ../../hardware/controllers/numark_mixstream_pro.md:78
+#: ../../hardware/controllers/numark_mixstream_pro.md:84
 msgid "Select"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:72
+#: ../../hardware/controllers/numark_mixstream_pro.md:79
 msgid ""
 "Select whether to have this button combo stutter-play or perform a slow "
 "start/stop"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:73
+#: ../../hardware/controllers/numark_mixstream_pro.md:80
 msgid "Hotcue While Playing"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:73
-#: ../../hardware/controllers/numark_mixstream_pro.rst:76
-#: ../../hardware/controllers/numark_mixstream_pro.rst:77
+#: ../../hardware/controllers/numark_mixstream_pro.md:81
+#: ../../hardware/controllers/numark_mixstream_pro.md:90
+#: ../../hardware/controllers/numark_mixstream_pro.md:93
 msgid "True/false"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:73
+#: ../../hardware/controllers/numark_mixstream_pro.md:82
 msgid "Enable hotcue usage and assignment while track is playing"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:74
+#: ../../hardware/controllers/numark_mixstream_pro.md:83
 msgid "Default Pad Mode On Load"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:74
+#: ../../hardware/controllers/numark_mixstream_pro.md:85
 msgid ""
 "Select which pad mode to load by default on loading a new track. The default"
 " will use the previously selected mode"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:75
+#: ../../hardware/controllers/numark_mixstream_pro.md:86
 msgid "Jog Wheel Buffer Size"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:75
+#: ../../hardware/controllers/numark_mixstream_pro.md:87
 msgid "Number"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:75
+#: ../../hardware/controllers/numark_mixstream_pro.md:88
 msgid ""
 "The jog wheel uses a buffer to smooth the speed it turns. Raising this too "
 "high makes it lag behind your movement and lowering it makes it sound warbly"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:76
+#: ../../hardware/controllers/numark_mixstream_pro.md:89
 msgid "Jog Wheel Loop On Track End"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:76
+#: ../../hardware/controllers/numark_mixstream_pro.md:91
 msgid ""
 "Enable looping the track when the jog wheel scrubs past the end or "
 "beginningof the track."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:77
+#: ../../hardware/controllers/numark_mixstream_pro.md:92
 msgid "Enable Backspin"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:77
+#: ../../hardware/controllers/numark_mixstream_pro.md:94
 msgid ""
 "Enable backspinning (or forward spinning) when you lift your finger off the "
 "platter. Not compatible with Mixxx versions below 2.6"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:78
+#: ../../hardware/controllers/numark_mixstream_pro.md:95
 msgid "Backspin Speed Threshold"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:78
+#: ../../hardware/controllers/numark_mixstream_pro.md:96
 msgid "Decimal"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:78
+#: ../../hardware/controllers/numark_mixstream_pro.md:97
 msgid ""
 "The speed at which the scratching will turn off. This can make the track "
 "stuck in a speed if too low"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:79
+#: ../../hardware/controllers/numark_mixstream_pro.md:98
 msgid "Backspin Timeout"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:79
+#: ../../hardware/controllers/numark_mixstream_pro.md:99
 msgid "Millisecond"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:79
+#: ../../hardware/controllers/numark_mixstream_pro.md:100
 msgid ""
 "If the jog wheel speed gets stuck, this will reset it every n milliseconds"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:84
+#: ../../hardware/controllers/numark_mixstream_pro.md:104
 msgid "Controls"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:93
+#: ../../hardware/controllers/numark_mixstream_pro.md:114
 msgid "Numark Mixstream Pro (schematic view)"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:96
+#: ../../hardware/controllers/numark_mixstream_pro.md:119
 msgid "No."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:96
+#: ../../hardware/controllers/numark_mixstream_pro.md:120
 msgid "Control"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:96
+#: ../../hardware/controllers/numark_mixstream_pro.md:121
 msgid "Description"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:98
+#: ../../hardware/controllers/numark_mixstream_pro.md:122
 msgid "1"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:98
+#: ../../hardware/controllers/numark_mixstream_pro.md:123
 msgid "Touchscreen"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid "Full-color, multi-touch display. Unused in Mixxx."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:99
+#: ../../hardware/controllers/numark_mixstream_pro.md:127
 msgid "2"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:99
+#: ../../hardware/controllers/numark_mixstream_pro.md:128
 msgid "Browse Knob"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "Turn this knob to navigate through lists. Press the knob to load the "
 "selected track on the first available deck."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:100
+#: ../../hardware/controllers/numark_mixstream_pro.md:132
 msgid "3"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:100
+#: ../../hardware/controllers/numark_mixstream_pro.md:133
 msgid "Load 1"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid "Press this button to load the selected track to Deck 1."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
-msgid ":hwlabel:`SHIFT` + **Press:** remove the selected track from Deck 1."
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
+msgid "{hwlabel}`SHIFT` + **Press:** remove the selected track from Deck 1."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:102
+#: ../../hardware/controllers/numark_mixstream_pro.md:138
 msgid "4"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:102
+#: ../../hardware/controllers/numark_mixstream_pro.md:139
 msgid "Load 2"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid "Press this button to load the selected track to Deck 2."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
-msgid ":hwlabel:`SHIFT` + **Press:** remove the selected track from Deck 2."
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
+msgid "{hwlabel}`SHIFT` + **Press:** remove the selected track from Deck 2."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:104
+#: ../../hardware/controllers/numark_mixstream_pro.md:144
 msgid "5"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:104
+#: ../../hardware/controllers/numark_mixstream_pro.md:145
 msgid "Back"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid "Press this button to cycle between the Track Selection and Playlists."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:105
+#: ../../hardware/controllers/numark_mixstream_pro.md:149
 msgid "6"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:105
+#: ../../hardware/controllers/numark_mixstream_pro.md:150
 msgid "View"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "Press this button to cycle between maximized library view and the main UI."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:106
+#: ../../hardware/controllers/numark_mixstream_pro.md:154
 msgid "7"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:106
+#: ../../hardware/controllers/numark_mixstream_pro.md:155
 msgid "Lighting"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid "Unused."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:107
+#: ../../hardware/controllers/numark_mixstream_pro.md:159
 msgid "8"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:107
+#: ../../hardware/controllers/numark_mixstream_pro.md:160
 msgid "Control Center"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
-"Press this button to activate Aux 1 for `Spotify in the MIXXX "
-"<https://audministrator.wordpress.com/2023/02/21/mixxx-spotify-in-the-"
-"mixxx/>`__."
+"Press this button to activate Aux 1 for [Spotify in the "
+"MIXXX](https://audministrator.wordpress.com/2023/02/21/mixxx-spotify-in-the-"
+"mixxx/)."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:108
+#: ../../hardware/controllers/numark_mixstream_pro.md:164
 msgid "9"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:108
+#: ../../hardware/controllers/numark_mixstream_pro.md:165
 msgid "Shift"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "Press and hold this button to access secondary functions of other controls."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:109
+#: ../../hardware/controllers/numark_mixstream_pro.md:169
 msgid "10"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:109
+#: ../../hardware/controllers/numark_mixstream_pro.md:170
 msgid "Channel Level"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "Turn this knob to adjust the level of the pre-fader, pre-EQ audio signal for"
 " the channel."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:110
+#: ../../hardware/controllers/numark_mixstream_pro.md:174
 msgid "11"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:110
+#: ../../hardware/controllers/numark_mixstream_pro.md:175
 msgid "Channel EQ"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "Turn these knobs to boost or cut the high, mid-range, and low frequencies "
 "for the channel."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:111
+#: ../../hardware/controllers/numark_mixstream_pro.md:179
 msgid "12"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:111
+#: ../../hardware/controllers/numark_mixstream_pro.md:180
 msgid "Filter"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "Adjusts the amount of the filter effect. Starting from the center (12:00) "
 "position, turn counterclockwise to apply a low-pass filter, or turn "
 "clockwise to apply a high-pass filter."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:112
+#: ../../hardware/controllers/numark_mixstream_pro.md:184
 msgid "13"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:112
+#: ../../hardware/controllers/numark_mixstream_pro.md:185
 msgid "FX Select"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "Press these buttons to enable or disable the selected effect: Echo, Delay, "
 "Flanger or Phaser."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:113
+#: ../../hardware/controllers/numark_mixstream_pro.md:189
 msgid "14"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:113
+#: ../../hardware/controllers/numark_mixstream_pro.md:190
 msgid "Effects Toggle"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "Move this toggle switch away from you to activate the selected effect—the "
 "toggle will latch to that position. Pull the toggle back to the center "
 "position to deactivate the effects."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "Pull and hold this toggle toward you to activate the selected effect "
 "momentarily, and release the toggle to deactivate the effect—the toggle will"
 " return to the center position."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:115
+#: ../../hardware/controllers/numark_mixstream_pro.md:195
 msgid "15"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:115
+#: ../../hardware/controllers/numark_mixstream_pro.md:196
 msgid "Channel Fader"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid "Use this fader to adjust the channel's volume level."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:116
+#: ../../hardware/controllers/numark_mixstream_pro.md:200
 msgid "16"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:116
+#: ../../hardware/controllers/numark_mixstream_pro.md:201
 msgid "Crossfader"
 msgstr "Кроссфейдер"
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid "Use the crossfader to mix between Deck 1 and Deck 2."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:117
+#: ../../hardware/controllers/numark_mixstream_pro.md:205
 msgid "17"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:117
+#: ../../hardware/controllers/numark_mixstream_pro.md:206
 msgid "Main Level Meters"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "These LEDs display the audio signal level of the main mix (sent out of the "
 "Main Outputs)."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:118
+#: ../../hardware/controllers/numark_mixstream_pro.md:210
 msgid "18"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:118
+#: ../../hardware/controllers/numark_mixstream_pro.md:211
 msgid "Headphone Preview"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid "Press this button to preview the channel in the headphones."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "Use the Headphone Mix knob to adjust the mix between the channel's pre-fader"
 " signal and the headphones' cue channel."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:120
+#: ../../hardware/controllers/numark_mixstream_pro.md:216
 msgid "19"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:120
+#: ../../hardware/controllers/numark_mixstream_pro.md:217
 msgid "Headphone Mix"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "Turn this knob to adjust the blend of the headphone cue and main channels "
 "together in the headphones."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:121
+#: ../../hardware/controllers/numark_mixstream_pro.md:221
 msgid "20"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:121
+#: ../../hardware/controllers/numark_mixstream_pro.md:222
 msgid "Headphone Volume"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid "Adjusts the volume for headphone cueing."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:122
+#: ../../hardware/controllers/numark_mixstream_pro.md:226
 msgid "21"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:122
+#: ../../hardware/controllers/numark_mixstream_pro.md:227
 msgid "Platter"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "This capacitive, touch-sensitive platter controls the audio playhead when "
 "the wheel is touched and moved. See settings above for adjustments."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:123
+#: ../../hardware/controllers/numark_mixstream_pro.md:231
 msgid "22"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:123
+#: ../../hardware/controllers/numark_mixstream_pro.md:232
 msgid "Scratch Mode"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "When this button is enabled, Smart Scratch mode will be active. In this "
 "mode, the track's timeline continues (the lower half of the waveform in the "
@@ -619,54 +618,54 @@ msgid ""
 "platter."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
-":hwlabel:`SHIFT` + **Press:** enable or disable jog mode. In this mode, "
+"{hwlabel}`SHIFT` + **Press:** enable or disable jog mode. In this mode, "
 "touch the platter and move it to temporarily adjust the track's speed."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "Press this button again to disable Smart Scratch and enable vinyl mode for "
 "the platter. You can use the platter to \"scratch\" the track as you would "
 "with a vinyl record."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:126
+#: ../../hardware/controllers/numark_mixstream_pro.md:238
 msgid "23"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:126
+#: ../../hardware/controllers/numark_mixstream_pro.md:239
 msgid "Sync / Sync Off"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid "Hold this button to activate or deactivate sync."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:127
+#: ../../hardware/controllers/numark_mixstream_pro.md:243
 msgid "24"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:127
+#: ../../hardware/controllers/numark_mixstream_pro.md:244
 msgid "Cue / Previous"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "When the Deck is paused, you can set a Temporary Cue Point by moving the "
 "platter to place the playhead at the desired location and then pressing the "
 "Cue Button."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "During playback, you can press the Cue Button to return the track to this "
 "Temporary Cue Point. (If you did not set a Temporary Cue Point, then it will"
 " return to the beginning of the track.)"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "**Hold:** play the track from the Temporary Cue Point. Releasing the Cue "
 "Button will return the track to the Temporary Cue Point and pause it. To "
@@ -675,196 +674,196 @@ msgid ""
 "both buttons."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
-msgid ":hwlabel:`SHIFT` + **Press:** return to the beginning of the track."
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
+msgid "{hwlabel}`SHIFT` + **Press:** return to the beginning of the track."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:131
+#: ../../hardware/controllers/numark_mixstream_pro.md:251
 msgid "25"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:131
+#: ../../hardware/controllers/numark_mixstream_pro.md:252
 msgid "Play/Pause"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid "Press this button to pause or resume playback."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
-":hwlabel:`SHIFT` + **Press:** \"stutter-play\" the track from the initial "
+"{hwlabel}`SHIFT` + **Press:** \"stutter-play\" the track from the initial "
 "cue point."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:133
+#: ../../hardware/controllers/numark_mixstream_pro.md:257
 msgid "26"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:133
+#: ../../hardware/controllers/numark_mixstream_pro.md:258
 msgid "Pitch Fader"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid "Move this fader to adjust the speed (pitch) of the track."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:134
+#: ../../hardware/controllers/numark_mixstream_pro.md:262
 msgid "27"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:134
+#: ../../hardware/controllers/numark_mixstream_pro.md:263
 msgid "Pitch Bend –/+"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "Press and hold one of these buttons to momentarily reduce or increase "
 "(respectively) the speed of the track."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
-msgid ":hwlabel:`SHIFT` + **Press:** set the range of the pitch fader."
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
+msgid "{hwlabel}`SHIFT` + **Press:** set the range of the pitch fader."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:136
+#: ../../hardware/controllers/numark_mixstream_pro.md:268
 msgid "28"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:136
+#: ../../hardware/controllers/numark_mixstream_pro.md:269
 msgid "Performance Pads"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "These pads have different functions on each deck depending on the current "
 "pad mode. See Pad Modes for more information."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:137
+#: ../../hardware/controllers/numark_mixstream_pro.md:273
 msgid "29"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:137
+#: ../../hardware/controllers/numark_mixstream_pro.md:274
 msgid "Cue"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "Press this button to enter Cue mode. Press the button again to enter a "
 "second bank of cues. To assign a cue to a pad, press a pad at the desired "
 "location in the track."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
-msgid ":hwlabel:`SHIFT` + **Pad:** clear a cue from a pad."
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
+msgid "{hwlabel}`SHIFT` + **Pad:** clear a cue from a pad."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
-msgid ":hwlabel:`SHIFT` + **Cue:** enter Stems Mode."
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
+msgid "{hwlabel}`SHIFT` + **Cue:** enter Stems Mode."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:140
+#: ../../hardware/controllers/numark_mixstream_pro.md:280
 msgid "30"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:140
+#: ../../hardware/controllers/numark_mixstream_pro.md:281
 msgid "Saved Loop"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "Press this button to enter Saved Loop mode. Press the button again to enter "
 "a second bank of saved loops."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "To assign a loop to a pad and activate it, press a pad to create a Loop In "
 "point at the current location, and then press it again to create the Loop "
 "Out point at another location."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid "To deactivate or reactivate a loop, press the corresponding pad."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
-msgid ":hwlabel:`SHIFT` + **Pad:** delete a loop from a pad."
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
+msgid "{hwlabel}`SHIFT` + **Pad:** delete a loop from a pad."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:144
+#: ../../hardware/controllers/numark_mixstream_pro.md:288
 msgid "31"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:144
+#: ../../hardware/controllers/numark_mixstream_pro.md:289
 msgid "Auto Loop"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "Press this button to enter Auto Loop mode. Press the button again to enter a"
 " second bank of auto loop lengths."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "To activate an auto loop, press a pad. To deactivate an auto loop, press the"
 " pad again."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:146
+#: ../../hardware/controllers/numark_mixstream_pro.md:294
 msgid "32"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:146
+#: ../../hardware/controllers/numark_mixstream_pro.md:295
 msgid "Roll"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "Press this button to enter Roll Mode. Press the button again to enter a "
 "second bank of roll lengths. To trigger a roll, press a pad."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
-msgid ":hwlabel:`SHIFT` + **Roll:** enter Sampler Mode."
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
+msgid "{hwlabel}`SHIFT` + **Roll:** enter Sampler Mode."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:148
+#: ../../hardware/controllers/numark_mixstream_pro.md:300
 msgid "33"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:148
+#: ../../hardware/controllers/numark_mixstream_pro.md:301
 msgid "Speakers"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid ""
 "These speakers will play the same current audio as the Main Outputs. Use the"
 " Speaker Level knob to adjust the volume of the speakers."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:149
+#: ../../hardware/controllers/numark_mixstream_pro.md:305
 msgid "34"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:149
+#: ../../hardware/controllers/numark_mixstream_pro.md:306
 msgid "Main Level"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid "Turn this knob to adjust the volume level of the Main Outputs."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:150
+#: ../../hardware/controllers/numark_mixstream_pro.md:310
 msgid "35"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:150
+#: ../../hardware/controllers/numark_mixstream_pro.md:311
 msgid "Speaker Level"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixstream_pro.rst:0
+#: ../../hardware/controllers/numark_mixstream_pro.md:0
 msgid "Turn this knob to adjust the volume level of the speakers."
 msgstr ""

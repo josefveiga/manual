@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mixxx 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-01 00:12+0200\n"
+"POT-Creation-Date: 2026-08-07 11:12+0200\n"
 "PO-Revision-Date: 2024-05-22 20:50+0000\n"
 "Last-Translator: Daniel Schürmann <daschuer@mixxx.org>, 2025\n"
 "Language-Team: Romanian (https://app.transifex.com/mixxx-dj-software/teams/7734/ro/)\n"
@@ -21,11 +21,11 @@ msgstr ""
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
-#: ../../hardware/controllers/american_audio_vms2.rst:2
+#: ../../hardware/controllers/american_audio_vms2.md:1
 msgid "American Audio VMS2"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:4
+#: ../../hardware/controllers/american_audio_vms2.md:3
 msgid ""
 "The American Audio VMS2 is a 2-deck all-in-one controller. It is a USB class"
 " compliant MIDI and audio device that works with GNU/Linux, Mac OS X, and "
@@ -36,72 +36,66 @@ msgid ""
 "USB/Analog switches on the front of the device to “Analog”."
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:13
+#: ../../hardware/controllers/american_audio_vms2.md:12
 msgid ""
-"`Manufacturer’s product page <https://www.adj.eu/vms2>`__, provides manual "
-"and drivers for download."
+"[Manufacturer’s product page](https://www.adj.eu/vms2), provides manual and "
+"drivers for download."
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:14
+#: ../../hardware/controllers/american_audio_vms2.md:13
 msgid ""
-"`Forum thread <https://mixxx.discourse.group/t/american-audio-"
-"vms2/12000>`__, for discussion of mapping options."
+"[Forum thread](https://mixxx.discourse.group/t/american-audio-vms2/12000), "
+"for discussion of mapping options."
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:15
-msgid ""
-"`Pull Request <https://github.com/mixxxdj/mixxx/pull/876>`__, which this "
-"wiki page describes."
-msgstr ""
-
-#: ../../hardware/controllers/american_audio_vms2.rst:20
+#: ../../hardware/controllers/american_audio_vms2.md:18
 msgid "Audio Setup"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:22
+#: ../../hardware/controllers/american_audio_vms2.md:20
 msgid ""
 "No driver needs to be installed on GNU/Linux or Mac OS X. However, on "
 "Windows, it is recommended to install the driver from the manufacturer to be"
-" able to use the :ref:`ASIO sound API <preferences-sound-api>`."
+" able to use the {ref}`ASIO sound API <preferences-sound-api>`."
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:26
+#: ../../hardware/controllers/american_audio_vms2.md:24
 msgid ""
 "Unlike most controllers with built in sound cards, which rely on Mixxx to do"
 " all mixing in software, the VMS2 mixes signals from the sound card in "
 "hardware. To use it with Mixxx:"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:30
+#: ../../hardware/controllers/american_audio_vms2.md:28
 msgid ""
 "Bypass the built-in hardware equalizer of the VMS2 (i.e. use Post-EQ Mode). "
 "Hold the forward search button on the right deck as you turn the VMS2 on to "
 "switch between Post-EQ and Pre-EQ modes. See section 15 of the "
-"`manufacturer’s manual <http://adjmedia.s3-website-eu-"
-"west-1.amazonaws.com/manuals/vms2_print_EN.pdf>`__ for details."
+"[manufacturer’s manual](http://adjmedia.s3-website-eu-"
+"west-1.amazonaws.com/manuals/vms2_print_EN.pdf) for details."
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:35
+#: ../../hardware/controllers/american_audio_vms2.md:33
 msgid "Set the USB/Analog switches on the front side of the VMS2 to “USB”"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:36
+#: ../../hardware/controllers/american_audio_vms2.md:34
 msgid "In Mixxx’s Sound Hardware Preferences:"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:37
+#: ../../hardware/controllers/american_audio_vms2.md:35
 msgid "Set the sample rate to 48000 Hz"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:38
+#: ../../hardware/controllers/american_audio_vms2.md:36
 msgid "Select channels 1-2 for Deck 1 output"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:39
+#: ../../hardware/controllers/american_audio_vms2.md:37
 msgid "Select channels 3-4 for Deck 2 output"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:41
+#: ../../hardware/controllers/american_audio_vms2.md:39
 msgid ""
 "*Note*: You cannot use the preview deck to pre-listen in this setup, as "
 "Mixxx routes the preview deck to Mixxx’s headphone output, which is not "
@@ -111,11 +105,11 @@ msgid ""
 "instead of the VMS2."
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:49
+#: ../../hardware/controllers/american_audio_vms2.md:46
 msgid "Input and Recording"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:51
+#: ../../hardware/controllers/american_audio_vms2.md:48
 msgid ""
 "The analog inputs are captured by the built-in soundcard as input signals. "
 "They can be used for timecode signals (e.g. timecode vinyl), as the VMS2 "
@@ -123,7 +117,7 @@ msgid ""
 "verify!"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:56
+#: ../../hardware/controllers/american_audio_vms2.md:53
 msgid ""
 "The microphone input is mixed directly into the main output signal of the "
 "VMS2 in hardware and cannot be captured through software. If you want to "
@@ -134,7 +128,7 @@ msgid ""
 "output)."
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:64
+#: ../../hardware/controllers/american_audio_vms2.md:61
 msgid ""
 "Mixxx’s Deck 1/2 outputs are affected by the Mixxx software EQs. However, "
 "the VMS2’s volume faders and crossfader (as well as the headphone buttons) "
@@ -147,182 +141,188 @@ msgid ""
 "the VMS2 booth output."
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:75
+#: ../../hardware/controllers/american_audio_vms2.md:71
 msgid "Mapping description"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:78
+#: ../../hardware/controllers/american_audio_vms2.md:73
 msgid "Mixer section"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:80
+#: ../../hardware/controllers/american_audio_vms2.md:75
 msgid "All main functions are mapped straightforwardly:"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:83
-#: ../../hardware/controllers/american_audio_vms2.rst:105
-#: ../../hardware/controllers/american_audio_vms2.rst:160
-#: ../../hardware/controllers/american_audio_vms2.rst:173
-#: ../../hardware/controllers/american_audio_vms2.rst:192
+#: ../../hardware/controllers/american_audio_vms2.md:80
+#: ../../hardware/controllers/american_audio_vms2.md:110
+#: ../../hardware/controllers/american_audio_vms2.md:183
+#: ../../hardware/controllers/american_audio_vms2.md:200
+#: ../../hardware/controllers/american_audio_vms2.md:221
 msgid "VMS2 Control"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:83
-#: ../../hardware/controllers/american_audio_vms2.rst:105
-#: ../../hardware/controllers/american_audio_vms2.rst:160
-#: ../../hardware/controllers/american_audio_vms2.rst:173
-#: ../../hardware/controllers/american_audio_vms2.rst:192
+#: ../../hardware/controllers/american_audio_vms2.md:81
+#: ../../hardware/controllers/american_audio_vms2.md:111
+#: ../../hardware/controllers/american_audio_vms2.md:184
+#: ../../hardware/controllers/american_audio_vms2.md:201
+#: ../../hardware/controllers/american_audio_vms2.md:222
 msgid "Mixxx Control"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:85
+#: ../../hardware/controllers/american_audio_vms2.md:82
+#: ../../hardware/controllers/american_audio_vms2.md:83
 msgid "Crossfader"
 msgstr "Crossfader"
 
-#: ../../hardware/controllers/american_audio_vms2.rst:86
+#: ../../hardware/controllers/american_audio_vms2.md:84
+#: ../../hardware/controllers/american_audio_vms2.md:85
 msgid "Volume Fader"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:87
+#: ../../hardware/controllers/american_audio_vms2.md:86
 msgid "Cue (PFL)"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:87
+#: ../../hardware/controllers/american_audio_vms2.md:87
 msgid "PFL"
 msgstr "PFL"
 
-#: ../../hardware/controllers/american_audio_vms2.rst:88
+#: ../../hardware/controllers/american_audio_vms2.md:88
 msgid "Cue Mix"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:88
+#: ../../hardware/controllers/american_audio_vms2.md:89
 msgid "Cue Mix (PFL / Main)"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:89
+#: ../../hardware/controllers/american_audio_vms2.md:90
+#: ../../hardware/controllers/american_audio_vms2.md:91
 msgid "Headphone Gain"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:90
+#: ../../hardware/controllers/american_audio_vms2.md:92
+#: ../../hardware/controllers/american_audio_vms2.md:93
 msgid "Channel Gain"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:91
+#: ../../hardware/controllers/american_audio_vms2.md:94
 msgid "Master Gain"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:91
+#: ../../hardware/controllers/american_audio_vms2.md:95
 msgid "Main Gain"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:94
+#: ../../hardware/controllers/american_audio_vms2.md:98
 msgid ""
-"As noted in the `#Audio Setup <#Audio%20Setup>`__ section, these control the"
-" VMS2’s hardware mixer. Although the state of the controls is reflected on "
-"screen in Mixxx, the actual mixing is done by the VMS2’s hardware mixer."
+"As noted in the {ref}`Audio Setup <american-audio-vms2-audio-setup>` "
+"section, these control the VMS2’s hardware mixer. Although the state of the "
+"controls is reflected on screen in Mixxx, the actual mixing is done by the "
+"VMS2’s hardware mixer."
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:100
+#: ../../hardware/controllers/american_audio_vms2.md:103
 msgid "Deck Control"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:102
+#: ../../hardware/controllers/american_audio_vms2.md:105
 msgid "Deck control is straightforward, too:"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:107
+#: ../../hardware/controllers/american_audio_vms2.md:112
 msgid "Play"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:107
+#: ../../hardware/controllers/american_audio_vms2.md:113
 msgid "Toggle deck play/pause"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:108
+#: ../../hardware/controllers/american_audio_vms2.md:114
 msgid "Pause"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:108
+#: ../../hardware/controllers/american_audio_vms2.md:115
 msgid "Pause the deck"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:109
+#: ../../hardware/controllers/american_audio_vms2.md:116
 msgid "Cue"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:109
+#: ../../hardware/controllers/american_audio_vms2.md:117
 msgid "Cue Point (configure behavior in software)"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:110
+#: ../../hardware/controllers/american_audio_vms2.md:118
 msgid "Pitch +/-"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:110
+#: ../../hardware/controllers/american_audio_vms2.md:119
 msgid "Temporary pitch bend +/-"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:111
+#: ../../hardware/controllers/american_audio_vms2.md:120
+#: ../../hardware/controllers/american_audio_vms2.md:121
 msgid "Pitch Fader"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:112
+#: ../../hardware/controllers/american_audio_vms2.md:122
 msgid "Range (Shift+Sync)"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:112
+#: ../../hardware/controllers/american_audio_vms2.md:123
 msgid "Cycle pitch fader range (+-8/10/30/100%)"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:113
+#: ../../hardware/controllers/american_audio_vms2.md:124
 msgid "Sync"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:113
+#: ../../hardware/controllers/american_audio_vms2.md:125
 msgid "Sync to other deck"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:114
+#: ../../hardware/controllers/american_audio_vms2.md:126
 msgid "Search <</>>"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:114
+#: ../../hardware/controllers/american_audio_vms2.md:127
 msgid "Search through currently loaded track"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:115
+#: ../../hardware/controllers/american_audio_vms2.md:128
 msgid "Keylock (Shift+Vinyl)"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:115
+#: ../../hardware/controllers/american_audio_vms2.md:129
 msgid "Toggle pitch independent time stretch (KeyLock)"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:116
+#: ../../hardware/controllers/american_audio_vms2.md:130
 msgid "Vinyl"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:116
+#: ../../hardware/controllers/american_audio_vms2.md:131
 msgid "Toggle between Scratch mode and Pitch mode"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:117
+#: ../../hardware/controllers/american_audio_vms2.md:132
 msgid "Platter"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:117
+#: ../../hardware/controllers/american_audio_vms2.md:133
 msgid "Touch sensitive platters! Scratch or Pitchbend"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:118
+#: ../../hardware/controllers/american_audio_vms2.md:134
 msgid "Shift + Platter"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:118
+#: ../../hardware/controllers/american_audio_vms2.md:135
 msgid "Scroll through library quickly"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:121
+#: ../../hardware/controllers/american_audio_vms2.md:138
 msgid ""
 "In Pitch mode, moving the platters from either the top or side will only "
 "bend the pitch of the deck. In Scratch mode, the platters act like vinyl "
@@ -330,11 +330,11 @@ msgid ""
 "the top stops the deck. Moving them from the edge does not stop the deck."
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:128
+#: ../../hardware/controllers/american_audio_vms2.md:144
 msgid "Library and Track loading"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:130
+#: ../../hardware/controllers/american_audio_vms2.md:146
 msgid ""
 "Use the encoder in the center of the controller to browse through the "
 "library. Press the encoder to switch between library main window and "
@@ -342,196 +342,196 @@ msgid ""
 "sidebar through the controller script."
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:135
+#: ../../hardware/controllers/american_audio_vms2.md:151
 msgid ""
 "Use the [LOAD] buttons to load the currently selected track into either the "
 "left or right deck."
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:138
+#: ../../hardware/controllers/american_audio_vms2.md:154
 msgid "The four directional buttons around the knob also control the library:"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:141
+#: ../../hardware/controllers/american_audio_vms2.md:159
 msgid "Button"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:141
+#: ../../hardware/controllers/american_audio_vms2.md:160
 msgid "Library function"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:143
+#: ../../hardware/controllers/american_audio_vms2.md:161
 msgid "Up"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:143
+#: ../../hardware/controllers/american_audio_vms2.md:162
 msgid "Previous library entry"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:144
+#: ../../hardware/controllers/american_audio_vms2.md:163
 msgid "Down"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:144
+#: ../../hardware/controllers/american_audio_vms2.md:164
 msgid "Next library entry"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:145
+#: ../../hardware/controllers/american_audio_vms2.md:165
 msgid "Left"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:145
+#: ../../hardware/controllers/american_audio_vms2.md:166
 msgid "Previous sidebar entry"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:146
+#: ../../hardware/controllers/american_audio_vms2.md:167
 msgid "Right"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:146
+#: ../../hardware/controllers/american_audio_vms2.md:168
 msgid "Next sidebar entry"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:149
+#: ../../hardware/controllers/american_audio_vms2.md:171
 msgid ""
 "If you hold Shift and then rotate a platter, you can scroll through the "
 "library much faster."
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:153
+#: ../../hardware/controllers/american_audio_vms2.md:174
 msgid "Equalizer"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:155
+#: ../../hardware/controllers/american_audio_vms2.md:176
 msgid ""
 "The per deck EQ rotaries are mapped to their software counterparts. The VMS2"
 " has no dedicated kill switches for the EQ. However, in Mixxx, pressing the "
 "following buttons with Shift acts as EQ kill switches."
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:162
+#: ../../hardware/controllers/american_audio_vms2.md:185
 msgid "Shift+IN"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:162
+#: ../../hardware/controllers/american_audio_vms2.md:186
 msgid "Kill Switch Low"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:163
+#: ../../hardware/controllers/american_audio_vms2.md:187
 msgid "Shift+OUT"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:163
+#: ../../hardware/controllers/american_audio_vms2.md:188
 msgid "Kill Switch Mid"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:164
+#: ../../hardware/controllers/american_audio_vms2.md:189
 msgid "Shift+RELOOP"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:164
+#: ../../hardware/controllers/american_audio_vms2.md:190
 msgid "Kill Switch High"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:168
+#: ../../hardware/controllers/american_audio_vms2.md:193
 msgid "Hotcues"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:170
+#: ../../hardware/controllers/american_audio_vms2.md:195
 msgid "The VMS2 can control 6 hotcues per deck."
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:175
+#: ../../hardware/controllers/american_audio_vms2.md:202
 msgid "1 / 2 / 3"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:175
+#: ../../hardware/controllers/american_audio_vms2.md:203
 msgid "Set/Jump HotCue 1 / 2 / 3"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:177
+#: ../../hardware/controllers/american_audio_vms2.md:204
 msgid "Vinyl + 1 / 2 / 3"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:177
+#: ../../hardware/controllers/american_audio_vms2.md:205
 msgid "Delete HotCue 1 / 2 / 3"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:179
+#: ../../hardware/controllers/american_audio_vms2.md:206
 msgid "4 / 5 / 6 = (Shift + 1 / 2 / 3)"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:179
+#: ../../hardware/controllers/american_audio_vms2.md:207
 msgid "Set/Jump HotCue 4 / 5 / 6"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:181
+#: ../../hardware/controllers/american_audio_vms2.md:208
 msgid "Vinyl + 4 / 5 / 6 = (Vinyl + Shift + 1 / 2 / 3)"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:181
+#: ../../hardware/controllers/american_audio_vms2.md:209
 msgid "Delete HotCue 4 / 5 / 6"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:184
+#: ../../hardware/controllers/american_audio_vms2.md:212
 msgid ""
 "Pressing the vinyl/keylock button will not toggle scratch mode or keylock as"
 " long as a hotcue is deleted before releasing the vinyl/keylock button."
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:189
+#: ../../hardware/controllers/american_audio_vms2.md:216
 msgid "Loops"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:194
+#: ../../hardware/controllers/american_audio_vms2.md:223
 msgid "IN"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:194
+#: ../../hardware/controllers/american_audio_vms2.md:224
 msgid "Mark beginning of loop"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:195
+#: ../../hardware/controllers/american_audio_vms2.md:225
 msgid "OUT"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:195
+#: ../../hardware/controllers/american_audio_vms2.md:226
 msgid "Mark end of loop"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:196
+#: ../../hardware/controllers/american_audio_vms2.md:227
 msgid "RELOOP"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:196
+#: ../../hardware/controllers/american_audio_vms2.md:228
 msgid "Leave / Reenter current loop"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:197
+#: ../../hardware/controllers/american_audio_vms2.md:229
 msgid "LOOP"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:197
+#: ../../hardware/controllers/american_audio_vms2.md:230
 msgid "Start a 4 Beat loop from current position"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:198
+#: ../../hardware/controllers/american_audio_vms2.md:231
 msgid "Smart (Shift + Loop)"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:198
+#: ../../hardware/controllers/american_audio_vms2.md:232
 msgid "Toggle quantize"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:199
+#: ../../hardware/controllers/american_audio_vms2.md:233
 msgid "(\\:2) / (\\*2)"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:199
+#: ../../hardware/controllers/american_audio_vms2.md:234
 msgid "Halve or double the current loop length"
 msgstr ""
 
-#: ../../hardware/controllers/american_audio_vms2.rst:202
+#: ../../hardware/controllers/american_audio_vms2.md:237
 msgid ""
 "As Mixxx currently only supports one active loop per deck, the secondary "
 "loop controls have been remapped to EQ kill switches."

@@ -3872,6 +3872,38 @@ The ``[Library]`` controls
    .. versionadded:: 2.4.0
 
 
+.. mixxx:control:: [Library],stars_up
+
+   Increase the rating of the currently selected track(s).
+
+   :range: binary
+   :feedback: Star count is increased in the library's Rating column and in star widgets of decks
+              where the selected track is loaded.
+
+   .. versionadded:: 2.6.0
+
+
+.. mixxx:control:: [Library],stars_down
+
+   Decrease the rating of the currently selected track(s).
+
+   :range: binary
+   :feedback: Star count is decreased in the library's Rating column and in star widgets of decks
+              where the selected track is loaded.
+
+   .. versionadded:: 2.6.0
+
+
+.. mixxx:control:: [Library],set_bpmlock
+
+   Set the :term:`beatgrid`/:term:`BPM` lock state of the selected track(s).
+
+   :range: binary
+   :feedback: The lock icon of the selected track(s) is activated/deactivated.
+
+   .. versionadded:: 2.6.0
+
+
 .. mixxx:control:: [Library],AutoDjAddBottom
                    [Playlist],AutoDjAddBottom
 

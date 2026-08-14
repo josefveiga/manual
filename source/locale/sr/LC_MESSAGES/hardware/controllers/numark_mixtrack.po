@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2011-2024, The Mixxx Development Team
+# Copyright (C) 2011-2026, The Mixxx Development Team
 # This file is distributed under the same license as the Mixxx package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mixxx 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-29 13:35+0100\n"
+"POT-Creation-Date: 2026-08-07 11:12+0200\n"
 "PO-Revision-Date: 2024-05-22 20:50+0000\n"
 "Language-Team: Serbian (https://app.transifex.com/mixxx-dj-software/teams/7734/sr/)\n"
 "MIME-Version: 1.0\n"
@@ -17,201 +17,199 @@ msgstr ""
 "Language: sr\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-#: ../../hardware/controllers/numark_mixtrack.rst:4
+#: ../../hardware/controllers/numark_mixtrack.md:3
 msgid "Numark Mixtrack"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:6
+#: ../../hardware/controllers/numark_mixtrack.md:5
 msgid ""
-"This controller as the same as the :ref:`Numark Mixtrack Pro <numark-"
+"This controller as the same as the {ref}`Numark Mixtrack Pro <numark-"
 "mixtrack-pro>` but without a built-in sound card. It has been discontinued "
-"and succeeded by the :ref:`Numark Mixtrack 3 <numark-mixtrack-pro-3>`."
+"and succeeded by the {ref}`Numark Mixtrack 3 <numark-mixtrack-pro-3>`."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:9
-msgid ""
-"`Manufacturer’s product page <https://www.numark.com/product/mixtrack>`__"
+#: ../../hardware/controllers/numark_mixtrack.md:8
+msgid "[Manufacturer’s product page](https://www.numark.com/product/mixtrack)"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:10
-msgid ""
-"`Forum thread <https://mixxx.discourse.group/t/numark-mixtrack/10918>`__"
+#: ../../hardware/controllers/numark_mixtrack.md:9
+msgid "[Forum thread](https://mixxx.discourse.group/t/numark-mixtrack/10918)"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:15
+#: ../../hardware/controllers/numark_mixtrack.md:14
 msgid "Mapping Description"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:24
+#: ../../hardware/controllers/numark_mixtrack.md:24
 msgid "Numark Mixtrack (schematic view)"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:26
+#: ../../hardware/controllers/numark_mixtrack.md:26
 msgid "USB cable"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:27
+#: ../../hardware/controllers/numark_mixtrack.md:27
 msgid "Channel Treble"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:28
+#: ../../hardware/controllers/numark_mixtrack.md:28
 msgid "Channel Mid"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:29
+#: ../../hardware/controllers/numark_mixtrack.md:29
 msgid "Channel Bass"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:30
+#: ../../hardware/controllers/numark_mixtrack.md:30
 msgid "Cue: send the corresponding track to the headphones"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:31
+#: ../../hardware/controllers/numark_mixtrack.md:31
 msgid "Cue Gain: adjust audio level of cue channel"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:32
+#: ../../hardware/controllers/numark_mixtrack.md:32
 msgid "Cue Mix: adjust mix between Cue and Audio out in the headphones."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:33
+#: ../../hardware/controllers/numark_mixtrack.md:33
 msgid ""
 "Browser Knob: help browse through your collection without using a mouse or "
 "trackpad"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:34
+#: ../../hardware/controllers/numark_mixtrack.md:34
 msgid "Back: takes you up one level in your file hierarchy"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:35
+#: ../../hardware/controllers/numark_mixtrack.md:35
 msgid "Load A/Load B: Load the highlighted track to the corresponding Deck"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:36
+#: ../../hardware/controllers/numark_mixtrack.md:36
 msgid "Channel faders: control the volume of each channel"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:37
+#: ../../hardware/controllers/numark_mixtrack.md:37
 msgid "Master fader: adjust the output volume of mixxx"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:38
+#: ../../hardware/controllers/numark_mixtrack.md:38
 msgid "Crossfader"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:39
+#: ../../hardware/controllers/numark_mixtrack.md:39
 msgid "Jog Wheels (see below for details)"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:40
+#: ../../hardware/controllers/numark_mixtrack.md:40
 msgid "Scratch mode (see below for details)"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:41
+#: ../../hardware/controllers/numark_mixtrack.md:41
 msgid "Play/Pause"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:42
+#: ../../hardware/controllers/numark_mixtrack.md:42
 msgid "Stutter: press while music is playing to jump back to the cue point"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:43
+#: ../../hardware/controllers/numark_mixtrack.md:43
 msgid ""
 "CUE: plays from the cue point if hold. When released, jumps back to the cue "
 "point"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:44
+#: ../../hardware/controllers/numark_mixtrack.md:44
 msgid ""
 "SYNC: automatically matches the corresponding Deck’s tempo to the other "
 "Deck’s tempo"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:45
+#: ../../hardware/controllers/numark_mixtrack.md:45
 msgid "Pitch Faders"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:46
+#: ../../hardware/controllers/numark_mixtrack.md:46
 msgid ""
 "Pitch Bend: when pressed, the pitch will adjust -/+4%, when released, the "
 "tempo will set back to the right one"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:47
+#: ../../hardware/controllers/numark_mixtrack.md:47
 msgid "Keylock"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:48
+#: ../../hardware/controllers/numark_mixtrack.md:48
 msgid "View: dynamically set cue point for Deck A"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:49
+#: ../../hardware/controllers/numark_mixtrack.md:49
 msgid "Tick: dynamically set cue point for Deck B"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:50
+#: ../../hardware/controllers/numark_mixtrack.md:50
 msgid "Eq Kill Switches"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:51
+#: ../../hardware/controllers/numark_mixtrack.md:51
 msgid "Effect On/Off: turn on/off the flanger effect"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:52
+#: ../../hardware/controllers/numark_mixtrack.md:52
 msgid "On Deck A: control the Flagner’s LFO (unassigned on Deck B)"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:53
+#: ../../hardware/controllers/numark_mixtrack.md:53
 msgid ""
 "On Deck A: control the Flagner’s Depth and delay (unassigned on Deck B)"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:54
+#: ../../hardware/controllers/numark_mixtrack.md:54
 msgid "Loop Mode: press to alternate between manual or autolooping"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:56
+#: ../../hardware/controllers/numark_mixtrack.md:56
 msgid "Manual Looping"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:58
+#: ../../hardware/controllers/numark_mixtrack.md:58
 msgid "In: set loop start"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:59
+#: ../../hardware/controllers/numark_mixtrack.md:59
 msgid "Out: set loop end"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:60
+#: ../../hardware/controllers/numark_mixtrack.md:60
 msgid "Reloop: exit or reenter loop"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:62
+#: ../../hardware/controllers/numark_mixtrack.md:62
 msgid "Auto Looping"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:64
+#: ../../hardware/controllers/numark_mixtrack.md:64
 msgid "1/2 X: divide loop length by 2"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:65
+#: ../../hardware/controllers/numark_mixtrack.md:65
 msgid "1 Bar: make a loop of just one bar (the current one)"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:66
+#: ../../hardware/controllers/numark_mixtrack.md:66
 msgid "2 X: multiply loop length by 2"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:69
+#: ../../hardware/controllers/numark_mixtrack.md:68
 msgid "The Jogs"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:72
+#: ../../hardware/controllers/numark_mixtrack.md:70
 msgid "Not in scratch mode"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:74
+#: ../../hardware/controllers/numark_mixtrack.md:72
 msgid ""
 "When not in scratch mode, touching the jogs won’t pause the song. Turning "
 "them will slightly adjust the tempo, which will resume slowly to its speed. "
@@ -221,11 +219,11 @@ msgid ""
 "instant resume to the “pitch slider assigned” pitch for the track."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:79
+#: ../../hardware/controllers/numark_mixtrack.md:76
 msgid "In scratch mode"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:81
+#: ../../hardware/controllers/numark_mixtrack.md:78
 msgid ""
 "In scratch mode, touching the jogs will pause the song. The jogs are very "
 "sensitive, and allow for scratching and launching tracks on a given moments "
@@ -235,18 +233,18 @@ msgid ""
 "“blank”."
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:85
+#: ../../hardware/controllers/numark_mixtrack.md:81
 msgid "Known problems"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:87
+#: ../../hardware/controllers/numark_mixtrack.md:83
 msgid ""
 "The pitch on the controller has a very short run. Thus, having it configured"
 " as a +10/-10 (or more) is tricky because you will get a very low pitch "
 "precision. Configuring it as +8/-8 (Mk2 style) is highly recommended"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:89
+#: ../../hardware/controllers/numark_mixtrack.md:85
 msgid ""
 "The autolooping functions, although implemented are quite flawed. The “loop "
 "one bar”, which is present since the 1.0b version, is making a loop between "
@@ -255,7 +253,7 @@ msgid ""
 "tempo"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:91
+#: ../../hardware/controllers/numark_mixtrack.md:87
 msgid ""
 "Pressing play while “cue previewing” should start the track for real, CDJ "
 "style. This is not implemented yet, and is marked as a TODO in Mixxx code, "
@@ -265,7 +263,7 @@ msgid ""
 "one, so be careful.\\*"
 msgstr ""
 
-#: ../../hardware/controllers/numark_mixtrack.rst:93
+#: ../../hardware/controllers/numark_mixtrack.md:89
 msgid ""
 "Final remark on the hardware design: be very, very careful not to press the "
 "“Load A” or “Load B” button, instead of the corresponding track’s “cue” "

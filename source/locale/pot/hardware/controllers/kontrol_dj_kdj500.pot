@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mixxx 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-01 00:12+0200\n"
+"POT-Creation-Date: 2026-08-07 11:12+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,14 +16,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../hardware/controllers/kontrol_dj_kdj500.rst:2
+#: ../../hardware/controllers/kontrol_dj_kdj500.md:1
 msgid "Kontrol DJ KDJ500"
 msgstr ""
 
-#: ../../hardware/controllers/kontrol_dj_kdj500.rst:4
-msgid "`Forum thread <https://mixxx.discourse.group/t/kontrol-dj-500-kdj-500-mapping/10748>`__"
+#: ../../hardware/controllers/kontrol_dj_kdj500.md:3
+msgid "[Forum thread](https://mixxx.discourse.group/t/kontrol-dj-500-kdj-500-mapping/10748)"
 msgstr ""
 
-#: ../../hardware/controllers/kontrol_dj_kdj500.rst:9
-msgid "Unfortunately a detailed description of this controller mapping is still missing. If you own this controller, please consider `contributing one <https://github.com/mixxxdj/mixxx/wiki/Contributing-Mappings#user-content-documenting-the-mapping>`__."
+#: ../../hardware/controllers/kontrol_dj_kdj500.md:9
+msgid "Unfortunately a detailed description of this controller mapping is still missing.    If you own this controller, please consider    [contributing one](https://github.com/mixxxdj/mixxx/wiki/Contributing-Mappings#user-content-documenting-the-mapping)."
 msgstr ""

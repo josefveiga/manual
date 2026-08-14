@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mixxx 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-01 00:12+0200\n"
+"POT-Creation-Date: 2026-08-07 11:12+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -253,5 +253,5 @@ msgid "**Mixxx Translations**: To translate Mixxx and promote your mother tongue
 msgstr ""
 
 #: ../../chapters/appendix/additional_resources.rst:44
-msgid "**Social Media**: Follow us on `Mastodon <https://floss.social/@mixxx>`_, `Bluesky <https://bsky.app/profile/mixxx.bsky.social>`_, `Facebook <https://www.facebook.com/pages/Mixxx-DJ-Software/21723485212>`_ and `YouTube <https://www.youtube.com/@mixxxdj/posts>`_"
+msgid "**Social Media**: Follow us on `Mastodon <https://floss.social/@mixxx>`_, `Bluesky <https://bsky.app/profile/mixxx.bsky.social>`_, `Facebook <https://www.facebook.com/mixxxdj/>`_ and `YouTube <https://www.youtube.com/@mixxxdj/posts>`_"
 msgstr ""

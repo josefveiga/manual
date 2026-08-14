@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mixxx 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-01 00:12+0200\n"
+"POT-Creation-Date: 2026-08-07 11:12+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,7 +30,7 @@ msgid "The *Behringer CMD Micro* is a simple controller for basic two-channel mi
 msgstr ""
 
 #: ../../hardware/controllers/behringer_cmd_micro.md:16
-msgid "[Manufacturer’s product page](https://www.behringer.com/en/products/0700-aai)"
+msgid "[Manufacturer’s product page](https://www.behringer.com/en/products/0700-AAI)"
 msgstr ""
 
 #: ../../hardware/controllers/behringer_cmd_micro.md:20

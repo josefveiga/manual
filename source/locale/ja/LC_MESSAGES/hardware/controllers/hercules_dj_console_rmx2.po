@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2011-2024, The Mixxx Development Team
+# Copyright (C) 2011-2026, The Mixxx Development Team
 # This file is distributed under the same license as the Mixxx package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mixxx 2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-29 13:35+0100\n"
+"POT-Creation-Date: 2026-08-07 11:12+0200\n"
 "PO-Revision-Date: 2024-05-22 20:50+0000\n"
 "Language-Team: Japanese (https://app.transifex.com/mixxx-dj-software/teams/7734/ja/)\n"
 "MIME-Version: 1.0\n"
@@ -17,1050 +17,1101 @@ msgstr ""
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:2
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:1
 msgid "Hercules DJ Console RMX2"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:4
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:3
 msgid ""
-"`Manufacturer’s product page "
-"<https://support.hercules.com/en/product/djconsolermx-en/>`__"
+"[Manufacturer’s product "
+"page](https://support.hercules.com/en/product/djconsolermx-en/)"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:5
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:4
 msgid ""
-"`Forum thread <https://mixxx.discourse.group/t/hercules-dj-console-"
-"rmx-2-mapping-overhaul/17278>`__"
+"[Forum thread](https://mixxx.discourse.group/t/hercules-dj-console-"
+"rmx-2-mapping-overhaul/17278)"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:6
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:5
 msgid ""
-"`Previous forum thread <https://mixxx.discourse.group/t/custom-midi-mapping-"
-"hercules-rmx-2-0-1-3/13102>`__"
+"[Previous forum thread](https://mixxx.discourse.group/t/custom-midi-mapping-"
+"hercules-rmx-2-0-1-3/13102)"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:8
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:7
 msgid ""
 "This all-in-one DJ controller features a built in 4 channel sound card with "
 "balanced XLR main outputs and a balanced microphone input. It is a USB class"
 " compliant MIDI and audio device (unlike older Hercules controllers)."
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:14
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:12
 msgid "User Options"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:16
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:14
 msgid ""
 "To change the mapping’s user options, you have to open the script file "
-"(*.js). At the top of the file under **USER OPTIONS** the following settings"
+"(\\*.js). At the top of the file under `USER OPTIONS` the following settings"
 " can be made:"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:18
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:16
 msgid ""
 "**DJCRMX2.jogwheelSensivity**: Sets the jogwheel sensitivity. 1 = default, 2"
 " is twice as sensitive, 0.5 is half as sensitive."
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:19
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:17
 msgid ""
 "**DJCRMX2.jogwheelShiftMultiplier**: Sets how much more sensitive the "
 "jogwheels get when holding [**SHIFT**]. Set it to 1 to disable jogwheel "
 "sensitivity increase when holding [**SHIFT**]."
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:20
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:18
 msgid ""
 "**DJCRMX2.twinkleVumeterAutodjOn**: If true, level-meter twinkles if "
 "*AutoDJ* is enabled."
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:21
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:19
 msgid ""
 "**DJCRMX2.autoPFL**: If true, PFL / Cue (headphone) is being activated by "
 "loading a track into certain deck."
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:22
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:20
 msgid ""
 "**DJCRMX2.vuMeterOutputMaster**: If true, deck vu meters show main output (L"
 " = Deck A, R = Deck B). If false, deck vu meter shows deck output (mono)."
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:23
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:21
 msgid ""
 "**DJCRMX2.showHideSamplersEffectsOnPadMode**: If true, *Samplers* and "
 "*EffectRack* get shown or hidden depending on the Pad-Mode."
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:26
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:23
 msgid "General Functions"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:29
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:25
 msgid "Managed by Mixxx"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:32
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:56
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:66
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:30
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:114
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:136
 msgid "Figure"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:32
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:56
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:66
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:31
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:115
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:137
 msgid "[**SHIFT**]?"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:32
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:56
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:66
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:32
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:116
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:138
 msgid "Long-press?"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:32
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:56
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:66
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:33
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:117
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:139
 msgid "Control Name"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:32
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:56
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:66
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:34
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:118
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:140
 msgid "Description"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:34
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:35
 msgid "11"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:34
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:35
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:36
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:37
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:38
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:39
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:40
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:41
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:42
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:43
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:44
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:45
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:46
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:47
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:58
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:59
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:68
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:70
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:72
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:74
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:76
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:78
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:80
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:82
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:84
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:86
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:88
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:90
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:92
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:94
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:96
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:98
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:100
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:102
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:104
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:106
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:108
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:110
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:112
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:114
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:116
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:118
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:120
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:122
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:124
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:126
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:128
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:130
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:132
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:134
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:136
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:138
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:140
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:142
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:144
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:146
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:148
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:150
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:152
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:154
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:156
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:158
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:160
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:162
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:164
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:166
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:168
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:170
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:172
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:174
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:176
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:178
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:180
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:182
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:184
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:186
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:188
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:190
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:192
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:194
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:196
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:198
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:200
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:202
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:204
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:206
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:208
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:210
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:212
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:36
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:37
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:41
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:42
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:47
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:51
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:52
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:56
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:57
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:61
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:62
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:66
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:67
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:72
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:76
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:77
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:82
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:86
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:87
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:91
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:96
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:97
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:101
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:120
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:121
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:125
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:126
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:142
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:143
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:148
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:152
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:153
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:158
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:162
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:163
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:168
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:172
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:173
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:178
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:182
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:183
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:187
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:188
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:193
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:197
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:198
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:203
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:207
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:208
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:213
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:217
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:218
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:223
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:227
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:228
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:233
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:237
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:238
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:243
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:247
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:248
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:253
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:257
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:258
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:262
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:263
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:267
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:268
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:272
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:273
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:277
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:278
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:282
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:283
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:288
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:293
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:298
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:303
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:307
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:308
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:312
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:313
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:317
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:318
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:322
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:323
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:327
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:332
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:337
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:342
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:348
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:353
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:358
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:363
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:367
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:368
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:372
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:373
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:377
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:378
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:382
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:383
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:388
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:393
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:398
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:403
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:407
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:408
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:412
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:413
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:417
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:418
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:422
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:423
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:428
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:433
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:438
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:443
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:447
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:448
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:453
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:457
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:458
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:462
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:463
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:467
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:468
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:472
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:473
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:477
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:478
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:482
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:483
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:487
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:488
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:492
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:493
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:497
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:498
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:503
 msgid "✘"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:34
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:38
 msgid "[**MAIN VOLUME**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:34
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:39
 msgid "Controls *Main* volume"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:35
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:36
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:40
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:45
 msgid "13"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:35
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:36
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:43
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:48
 msgid "[**VINYL**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:35
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:44
 msgid "Split headcue"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:36
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:41
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:43
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:45
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:47
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:70
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:74
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:78
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:82
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:88
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:92
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:96
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:100
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:104
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:108
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:112
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:126
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:128
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:130
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:132
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:142
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:144
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:146
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:148
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:150
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:152
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:154
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:156
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:166
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:168
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:170
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:172
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:182
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:184
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:186
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:188
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:192
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:212
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:46
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:71
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:81
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:92
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:102
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:147
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:157
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:167
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:177
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:192
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:202
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:212
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:222
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:232
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:242
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:252
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:287
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:292
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:297
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:302
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:328
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:333
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:338
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:343
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:347
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:352
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:357
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:362
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:387
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:392
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:397
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:402
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:427
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:432
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:437
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:442
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:452
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:502
 msgid "✔"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:36
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:49
 msgid "Maximize library"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:37
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:50
 msgid "20"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:37
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:53
 msgid "[**CROSS FADER**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:37
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:54
 msgid "Controls crossfader"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:38
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:55
 msgid "21"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:38
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:58
 msgid "[**CUE TO MIX**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:38
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:59
 msgid "Controls mix in headphones between PFL and main signal"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:39
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:60
 msgid "7"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:39
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:63
 msgid "[**MIC ON/OFF**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:39
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:64
 msgid "Toggle microphone on/off and talkover on/off"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:40
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:41
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:65
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:70
 msgid "15 (Right)"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:40
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:41
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:68
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:73
 msgid "[**FILES**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:40
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:69
 msgid "Go To Item in Library"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:41
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:74
 msgid "Add to bottom of Auto DJ playlist"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:42
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:43
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:75
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:80
 msgid "15 (Left)"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:42
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:43
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:78
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:83
 msgid "[**FOLDERS**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:42
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:79
 msgid "Move focus backward in Library"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:43
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:84
 msgid "Toggle Auto DJ"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:44
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:45
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:85
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:90
 msgid "15 (Up)"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:44
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:45
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:88
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:93
 msgid "[**UP**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:44
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:89
 msgid "Move vertically up in Library"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:45
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:94
 msgid "Scroll vertically up in Library"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:46
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:47
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:95
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:100
 msgid "15 (Down)"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:46
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:47
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:98
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:103
 msgid "[**DOWN**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:46
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:99
 msgid "Move vertically down in Library"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:47
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:104
 msgid "Scroll vertically down in Library"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:51
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:107
 msgid "Managed by the controller"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:53
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:109
 msgid ""
 "The following functions directly affect the controller’s sound card, so "
 "adjusting these will not change anything on screen in Mixxx:"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:58
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:119
 msgid "22"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:58
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:122
 msgid "[**HEADPHONES VOLUME**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:58
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:123
 msgid "Controls the headphones output volume"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:59
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:124
 msgid "6"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:59
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:127
 msgid "[**MIC VOLUME**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:59
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:128
 msgid "Controls the microphone volume (gain)"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:63
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:131
 msgid "Deck Functions"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:68
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:70
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:141
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:146
 msgid "3 (-)"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:68
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:70
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:144
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:149
 msgid "[**PITCH BEND MINUS**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:68
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:145
 msgid "Pitch bend down"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:70
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:150
 msgid "Decrement (halve) pitch range"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:72
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:74
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:151
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:156
 msgid "3 (+)"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:72
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:74
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:154
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:159
 msgid "[**PITCH BEND PLUS**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:72
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:155
 msgid "Pitch bend up"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:74
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:160
 msgid "Increment (double) pitch range"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:76
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:78
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:161
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:166
 msgid "2 (Left)"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:76
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:78
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:80
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:82
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:164
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:169
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:174
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:179
 msgid "[**REWIND**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:76
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:165
 msgid "Fast backward in loaded track"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:78
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:170
 msgid "*Spinback* effect"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:80
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:82
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:171
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:176
 msgid "2 (Right)"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:80
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:175
 msgid "Fast forward in loaded track"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:82
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:180
 msgid "*Brake* effect"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:84
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:181
 msgid "9"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:84
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:184
 msgid "[**SOURCE**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:84
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:185
 msgid "Toggle pass thru"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:86
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:88
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:186
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:191
 msgid "17"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:86
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:88
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:189
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:194
 msgid "[**PREVIEW**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:86
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:190
 msgid "Toggle pfl"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:88
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:195
 msgid "Toggle keylock"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:90
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:92
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:196
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:201
 msgid "30"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:90
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:92
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:199
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:204
 msgid "[**PLAY**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:90
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:92
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:200
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:205
 msgid "Play Button"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:94
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:96
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:206
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:211
 msgid "29"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:94
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:96
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:209
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:214
 msgid "[**CUE**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:94
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:96
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:210
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:215
 msgid "Cue Button"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:98
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:100
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:216
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:221
 msgid "28"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:98
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:100
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:219
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:224
 msgid "[**SYNC**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:98
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:100
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:220
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:225
 msgid "Sync Button"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:102
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:104
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:226
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:231
 msgid "16"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:102
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:104
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:229
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:234
 msgid "[**LOAD**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:102
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:230
 msgid "Load selected track"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:104
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:235
 msgid "Eject track"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:106
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:108
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:110
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:112
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:114
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:116
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:236
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:241
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:246
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:251
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:256
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:261
 msgid "8"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:106
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:108
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:239
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:244
 msgid "[**LOOP MODE**] encoder"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:106
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:240
 msgid "Adjust beatloop size"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:108
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:245
 msgid "Move loop forward/backward"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:110
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:112
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:249
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:254
 msgid "[**FX MODE**] encoder"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:110
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:250
 msgid ""
-"EffectUnit’s mix knob, in *EffectFocusMode* in combination with "
-"*ParameterEditMode* - Controls effect’s parameters"
+"EffectUnit's mix knob, in *EffectFocusMode* in combination with "
+"*ParameterEditMode* - Controls effect's parameters"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:112
-msgid "EffectUnit’s super knob"
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:255
+msgid "EffectUnit's super knob"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:114
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:259
 msgid "[**SAMPLE MODE**] encoder"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:114
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:260
 msgid "Switch between 4 sampler banks (each of 4 samplers)"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:116
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:264
 msgid "[**CUE MODE**] encoder"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:116
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:265
 msgid "Adjust key of loaded track"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:118
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:126
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:134
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:142
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:150
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:158
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:166
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:174
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:182
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:266
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:286
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:306
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:326
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:346
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:366
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:386
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:406
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:426
 msgid "24-1"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:118
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:126
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:269
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:289
 msgid "[**LOOP PAD 1**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:118
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:270
 msgid "Toggles beatloop over beatloop size"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:120
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:128
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:136
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:144
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:152
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:160
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:168
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:176
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:184
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:271
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:291
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:311
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:331
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:351
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:371
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:391
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:411
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:431
 msgid "24-2"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:120
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:128
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:274
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:294
 msgid "[**LOOP PAD 2**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:120
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:275
 msgid "Toggles beatloop over 2 beats"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:122
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:130
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:138
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:146
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:154
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:162
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:170
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:178
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:186
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:276
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:296
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:316
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:336
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:356
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:376
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:396
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:416
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:436
 msgid "24-3"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:122
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:130
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:279
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:299
 msgid "[**LOOP PAD 3**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:122
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:280
 msgid "Toggles beatloop over 4 beats"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:124
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:132
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:140
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:148
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:156
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:164
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:172
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:180
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:188
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:281
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:301
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:321
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:341
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:361
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:381
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:401
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:421
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:441
 msgid "24-4"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:124
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:132
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:284
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:304
 msgid "[**LOOP PAD 4**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:124
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:285
 msgid "Toggles beatloop over 8 beats"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:126
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:290
 msgid "Toggles beatlooproll over 1/16 beats"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:128
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:295
 msgid "Toggles beatlooproll over 1/8 beats"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:130
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:300
 msgid "Toggles beatlooproll over 1/4 beats"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:132
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:305
 msgid "Toggles beatlooproll over 1/2 beats"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:134
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:142
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:150
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:309
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:329
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:349
 msgid "[**FX PAD 1**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:134
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:310
 msgid ""
 "Enables effect 1, in *EffectFocusMode* toggles effect button parameter 1, in"
 " *ParameterEditMode* gives encoder control of effect parameter 1"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:136
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:144
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:152
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:314
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:334
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:354
 msgid "[**FX PAD 2**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:136
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:315
 msgid ""
 "Enables effect 2, in *EffectFocusMode* toggles effect button parameter 2, in"
 " *ParameterEditMode* gives encoder control of effect parameter 2"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:138
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:146
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:154
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:319
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:339
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:359
 msgid "[**FX PAD 3**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:138
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:320
 msgid ""
 "Enables effect 3, in *EffectFocusMode* toggles effect button parameter 3, in"
 " *ParameterEditMode* gives encoder control of effect parameter 3"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:140
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:148
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:156
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:324
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:344
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:364
 msgid "[**FX PAD 4**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:140
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:325
 msgid "Shows/hides focus of EffectUnit"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:142
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:330
 msgid ""
 "In *EffectFocusMode* enables *ParameterEditMode* and gives encoder control "
 "of effect parameter 1"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:144
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:335
 msgid ""
 "In *EffectFocusMode* enables *ParameterEditMode* and gives encoder control "
 "of effect parameter 2"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:146
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:340
 msgid ""
 "In *EffectFocusMode* enables *ParameterEditMode* and gives encoder control "
 "of effect parameter 3"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:148
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:345
 msgid ""
 "Enables *EffectFocusMode* (+ press [**FX PAD 1..3**] to focus an effect)"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:150
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:350
 msgid ""
 "Enables effect 1 of EffectUnit and controls meta its meta knob by velocity"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:152
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:355
 msgid ""
 "Enables effect 2 of EffectUnit and controls meta its meta knob by velocity"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:154
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:360
 msgid ""
 "Enables effect 3 of EffectUnit and controls meta its meta knob by velocity"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:156
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:365
 msgid "Cycle through *effectUnit* numbers array"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:158
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:166
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:369
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:389
 msgid "[**SAMPLE PAD 1**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:158
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:370
 msgid ""
 "Load selected track into Sampler (Index 1) if empty, else go to cue point "
 "and play - velocity (volume) controlled"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:160
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:168
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:374
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:394
 msgid "[**SAMPLE PAD 2**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:160
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:375
 msgid ""
 "Load selected track into Sampler (Index 2) if empty, else go to cue point "
 "and play - velocity (volume) controlled"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:162
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:170
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:379
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:399
 msgid "[**SAMPLE PAD 3**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:162
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:380
 msgid ""
 "Load selected track into Sampler (Index 3) if empty, else go to cue point "
 "and play - velocity (volume) controlled"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:164
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:172
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:384
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:404
 msgid "[**SAMPLE PAD 4**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:164
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:385
 msgid ""
 "Load selected track into Sampler (Index 4) if empty, else go to cue point "
 "and play - velocity (volume) controlled"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:166
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:390
 msgid "Stop Sampler (Index 1) if playing, else eject loaded track"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:168
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:395
 msgid "Stop Sampler (Index 2) if playing, else eject loaded track"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:170
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:400
 msgid "Stop Sampler (Index 3) if playing, else eject loaded track"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:172
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:405
 msgid "Stop Sampler (Index 4) if playing, else eject loaded track"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:174
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:182
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:409
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:429
 msgid "[**CUE PAD 1**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:174
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:182
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:410
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:430
 msgid "Hotcue 1 Button"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:176
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:184
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:414
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:434
 msgid "[**CUE PAD 2**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:176
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:184
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:415
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:435
 msgid "Hotcue 2 Button"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:178
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:186
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:419
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:439
 msgid "[**CUE PAD 3**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:178
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:186
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:420
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:440
 msgid "Hotcue 3 Button"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:180
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:188
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:424
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:444
 msgid "[**CUE PAD 4**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:180
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:188
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:425
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:445
 msgid "Hotcue 4 Button"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:190
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:192
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:446
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:451
 msgid "1"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:190
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:192
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:449
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:454
 msgid "[**JOG WHEEL**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:190
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:450
 msgid "Jog/Scratch loaded track"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:192
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:455
 msgid ""
 "Jog/Scratch loaded track using *DJCRMX2.jogwheelShiftMultiplier* option"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:194
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:456
 msgid "10"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:194
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:459
 msgid "[**GAIN**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:194
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:460
 msgid "Controls pregain"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:196
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:461
 msgid "18/19"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:196
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:464
 msgid "[**VOLUME FADER**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:196
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:465
 msgid "Controls volume"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:198
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:466
 msgid "4"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:198
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:469
 msgid "[**PITCH FADER**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:198
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:470
 msgid "Controls rate (speed control)"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:200
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:202
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:204
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:471
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:476
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:481
 msgid "12"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:200
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:474
 msgid "[**KILL TREBLE**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:200
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:475
 msgid "High frequencies kill"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:202
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:479
 msgid "[**KILL MEDIUM**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:202
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:480
 msgid "Middle frequencies kill"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:204
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:484
 msgid "[**KILL BASS**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:204
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:485
 msgid "Low frequencies kill"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:206
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:208
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:210
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:212
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:486
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:491
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:496
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:501
 msgid "14"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:206
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:489
 msgid "[**TREBLE**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:206
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:490
 msgid "High frequencies control"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:208
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:494
 msgid "[**MEDIUM**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:208
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:495
 msgid "Middle frequencies control"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:210
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:212
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:499
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:504
 msgid "[**BASS**]"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:210
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:500
 msgid "Low frequencies control"
 msgstr ""
 
-#: ../../hardware/controllers/hercules_dj_console_rmx2.rst:212
+#: ../../hardware/controllers/hercules_dj_console_rmx2.md:505
 msgid "Filter (QuickEffectRack) control"
 msgstr ""
