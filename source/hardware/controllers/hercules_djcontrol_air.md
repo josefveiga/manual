@@ -1,7 +1,7 @@
 # Hercules DJControl AIR
 
 
-This is one of the cheapest Hercules DJ controller from Hercules leisure
+This is one of the cheapest Hercules DJ controllers from Hercules' leisure
 DJ controllers brand. There are actually many versions of it:
 
 -  DJControl AIR (The one shown in picture above)
@@ -9,8 +9,8 @@ DJ controllers brand. There are actually many versions of it:
 -  DJControl AIR S Series
 -  DJControl AIR for iPad
 
-This controller have built-in soundcard with mixer output (3.5mm jack)
-and headphones output (6.35mm jack).
+This controller has a built-in soundcard with a mixer output (3.5mm jack)
+and a headphones output (6.35mm jack).
 
 The main fun and uncommon feature of this controller is its proximity
 sensor (IR) located above EQ potentiometers and between top horizontal
@@ -39,12 +39,12 @@ vu-meter.
 
 Hercules DJControl AIR (schematic view). This picture is taken from the Getting Started Tutorial (courtesy of Guillemot Corporation S.A.).
 ```
-We assume from the annotated picture above that each decks have same controls.
+We assume from the annotated picture above that each decks has the same controls.
 
 ### Jogs / Jogs Wheels (1)
 
 
-Pressing Jogs enable the scratch mode.
+Pressing Jogs enables the scratch mode.
 
 ### PADs (2)
 
@@ -73,7 +73,7 @@ Pressing Jogs enable the scratch mode.
 ### Load track to Deck (9)
 
 
-This button load track to the selected deck (A => Deck 1, B => Deck 2)
+This button loads a track to the selected deck (A => Deck 1, B => Deck 2)
 
 ### Headphone listen (PFL) (10)
 
@@ -99,10 +99,10 @@ on the desired sample PAD.
 ### Sync (16)
 
 
-Synchronize the tempo to the other deck one (One-time beat sync,
+Synchronizes the tempo to the other deck's tempo (One-time beat sync,
 tempo/phase).
 
 ### Speed Adjustment (17)
 
 
-Adjust speed slower [ - ] or faster [ + ] in Coarse mode.
+Adjusts speed slower [ - ] or faster [ + ] in Coarse mode.

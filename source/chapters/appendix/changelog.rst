@@ -699,6 +699,7 @@ Target support
   `#16507 <https://github.com/mixxxdj/mixxx/pull/16507>`__
   `#16619 <https://github.com/mixxxdj/mixxx/pull/16619>`__
   `#16614 <https://github.com/mixxxdj/mixxx/issues/16614>`__
+* Retire Ubuntu Questing 25.10 `#16780 <https://github.com/mixxxdj/mixxx/pull/16780>`__
 * Support Windows 11 25H2
   `#16401 <https://github.com/mixxxdj/mixxx/pull/16401>`__
 * Add Arch Linux build environment script `#16594 <https://github.com/mixxxdj/mixxx/pull/16594>`__
@@ -710,6 +711,9 @@ Target support
   `#16368 <https://github.com/mixxxdj/mixxx/pull/16368>`__
 * Flatpak: fix building with Soundtouch, update to 2.4.1
   `#16720 <https://github.com/mixxxdj/mixxx/pull/16720>`__
+* Flatpack: prevent branches to delete each other
+  `#16779 <https://github.com/mixxxdj/mixxx/pull/16779>`__
+  `#16810 <https://github.com/mixxxdj/mixxx/pull/16810>`__
 
 Miscellaneous
 ^^^^^^^^^^^^^
@@ -730,14 +734,28 @@ Miscellaneous
 * FFmpeg: fix of gap bug fix
   `#16439 <https://github.com/mixxxdj/mixxx/pull/16439>`__
   `#10464 <https://github.com/mixxxdj/mixxx/issues/10464>`__
-* Fix flaky test, due to not waiting for a fully loaded EngineBufferE2ETest
+* Fix flaky unittests test
   `#16275 <https://github.com/mixxxdj/mixxx/pull/16275>`__
   `#12554 <https://github.com/mixxxdj/mixxx/issues/12554>`__
-* Fix flaky test ControllerScriptEngineLegacyTimerTest.beginTimer_repeatedTimer `#16332 <https://github.com/mixxxdj/mixxx/pull/16332>`__
-* Fix flaky test for org.mixxx.Mixxx.metainfo.xml
+  `#16332 <https://github.com/mixxxdj/mixxx/pull/16332>`__
   `#16290 <https://github.com/mixxxdj/mixxx/pull/16290>`__
   `#16162 <https://github.com/mixxxdj/mixxx/issues/16162>`__
+  `#16693 <https://github.com/mixxxdj/mixxx/pull/16693>`__
 * Fix warning/violated debug assertion when opening Preferences (backport `#16257 <https://github.com/mixxxdj/mixxx/pull/16257>`__\ ) `#16274 <https://github.com/mixxxdj/mixxx/pull/16274>`__
+* Don't reset ``beatloop_size`` to 1/32 when loop doesn't match any of the pre-defined sizes
+  `#16881 <https://github.com/mixxxdj/mixxx/pull/16881>`__
+  `#16880 <https://github.com/mixxxdj/mixxx/issues/16880>`__
+* Fix last played time being wiped on history deletion
+  `#16178 <https://github.com/mixxxdj/mixxx/pull/16178>`__
+  `#14427 <https://github.com/mixxxdj/mixxx/issues/14427>`__
+* Fix Hotcue 350 hours before song start, caused by a race condition with quantize control
+  `#16743 <https://github.com/mixxxdj/mixxx/pull/16743>`__
+  `#16320 <https://github.com/mixxxdj/mixxx/issues/16320>`__
+* Skins: Fix tiny battery icons `#16801 <https://github.com/mixxxdj/mixxx/pull/16801>`__
+* Fix broadcasting using libshout-idjc >= 2.4.6, by using the correct usage flag
+  `#16816 <https://github.com/mixxxdj/mixxx/pull/16816>`__
+  `#16783 <https://github.com/mixxxdj/mixxx/issues/16783>`__
+  `#16592 <https://github.com/mixxxdj/mixxx/pull/16592>`__
 
 .. _v2-5-6:
 
