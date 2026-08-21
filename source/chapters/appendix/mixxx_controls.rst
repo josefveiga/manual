@@ -4738,6 +4738,29 @@ Controls
    The :mixxx:coref:`[EffectRack1],show` control can be used to show and hide the effect section in the GUI.
 
 
+The ``[Waveform]`` group
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. mixxx:controlgroup:: [Waveform]
+
+   The :mixxx:cogroupref:`[Waveform]` group contains controls that affect waveform rendering and visualization settings.
+
+.. mixxx:control:: [Waveform],stem_split_tracks
+
+   Toggles between stacked (split tracks) and overlapping stem waveform display modes.
+
+   :range:
+      ===== ===================================
+      Value Meaning
+      ===== ===================================
+      0     Overlapping stem waveforms (default)
+      1     Stacked (split) stem waveforms
+      ===== ===================================
+   :feedback: Waveform overview and scrolling display mode changes.
+
+   .. versionadded:: 2.6.0
+
+
 The ``[Skin]`` group
 ~~~~~~~~~~~~~~~~~~~~
 
