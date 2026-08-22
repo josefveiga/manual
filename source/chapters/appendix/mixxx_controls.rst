@@ -4745,6 +4745,9 @@ The ``[Waveform]`` group
 
    The :mixxx:cogroupref:`[Waveform]` group contains controls that affect waveform rendering and visualization settings.
 
+.. seealso::
+   For per-deck waveform zoom controls, see :mixxx:coref:`[ChannelN],waveform_zoom`.
+
 .. mixxx:control:: [Waveform],stem_split_tracks
 
    Toggles between stacked (split tracks) and overlapping stem waveform display modes.
